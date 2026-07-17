@@ -123,6 +123,34 @@ Key architectural difference: SQL pre-computes results at fixed grain in views; 
 
 📄 Full details: **[docs/migration_notes.md](docs/migration_notes.md)**
 
+## The migration, side by side
+
+The same scorecard, rebuilt page-for-page in both tools — same data, same scoring logic, two different engines.
+
+### Employee Scorecard
+
+| Tableau | Power BI |
+|---|---|
+| ![Tableau employee scorecard](assets/tableau_employee_scorecard.jpg) | ![Power BI employee scorecard](assets/powerbi_employee_scorecard.jpg) |
+
+### Branch View
+
+| Tableau | Power BI |
+|---|---|
+| ![Tableau branch view](assets/tableau_branch_view.jpg) | ![Power BI branch view](assets/powerbi_branch_view.jpg) |
+
+### National Leaderboard
+
+| Tableau | Power BI |
+|---|---|
+| ![Tableau leaderboard](assets/tableau_leaderboard.jpg) | ![Power BI leaderboard](assets/powerbi_leaderboard.jpg) |
+
+### Performance by Province (Power BI)
+
+Added during the Power BI rebuild — a map view ranking branches geographically:
+
+![Power BI performance by province map](assets/powerbi_province_map.png)
+
 ## Repository structure
 
 ```
@@ -160,9 +188,9 @@ This is an actively developed project:
 - [x] Power BI report published (.pbix in `powerbi/`)
 - [x] Visual architecture diagram
 - [x] Tableau dashboard screenshots in README
-- [ ] Power BI dashboard screenshots in README
+- [x] Power BI dashboard screenshots in README
+- [x] Side-by-side Tableau vs. Power BI comparison
 - [ ] Publish Python data-generation scripts
-- [ ] Side-by-side Tableau vs. Power BI comparison screenshots
 
 ## Tech stack
 
