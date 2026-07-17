@@ -166,6 +166,9 @@ Added during the Power BI rebuild — a map view ranking branches geographically
 │   └── fact_compliance.csv
 ├── db/
 │   └── scorecard.db       # SQLite database (tables + views)
+├── python/
+│   ├── generate_branch_sales_scorecard.py   # Synthetic data generator (seeded)
+│   └── build_scorecard_sql.py               # Loads CSVs into SQLite + builds views
 ├── sql/
 │   ├── 01_schema.sql      # Table DDL
 │   └── 02_views.sql       # Scoring, ranking & RAG views
@@ -190,7 +193,7 @@ This is an actively developed project:
 - [x] Tableau dashboard screenshots in README
 - [x] Power BI dashboard screenshots in README
 - [x] Side-by-side Tableau vs. Power BI comparison
-- [ ] Publish Python data-generation scripts
+- [x] Python data-generation scripts published (`python/`)
 
 ## Tech stack
 
