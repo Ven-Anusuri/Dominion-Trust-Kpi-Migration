@@ -1,0 +1,301 @@
+branch_id,branch_code,branch_name,tier,province,city,manager_count,advisor_count,teller_count,employee_count,opening_year
+1,SMA001,Small Branch 001,Small,Northwest Territories,Yellowknife,1,2,3,6,2008
+2,SMA002,Small Branch 002,Small,Nova Scotia,Dartmouth,1,2,3,6,2016
+3,SMA003,Small Branch 003,Small,Alberta,Calgary,1,2,3,6,2020
+4,SMA004,Small Branch 004,Small,Alberta,Grande Prairie,1,2,3,6,2018
+5,SMA005,Small Branch 005,Small,Prince Edward Island,Charlottetown,1,2,3,6,2020
+6,SMA006,Small Branch 006,Small,British Columbia,Surrey,1,2,3,6,2013
+7,SMA007,Small Branch 007,Small,Prince Edward Island,Summerside,1,2,3,6,2014
+8,SMA008,Small Branch 008,Small,Northwest Territories,Yellowknife,1,2,3,6,2014
+9,SMA009,Small Branch 009,Small,Manitoba,Brandon,1,2,3,6,2015
+10,SMA010,Small Branch 010,Small,Alberta,Calgary,1,2,3,6,2009
+11,SMA011,Small Branch 011,Small,Northwest Territories,Yellowknife,1,2,3,6,2015
+12,SMA012,Small Branch 012,Small,Ontario,Windsor,1,2,3,6,2017
+13,SMA013,Small Branch 013,Small,British Columbia,Kelowna,1,2,3,6,2022
+14,SMA014,Small Branch 014,Small,Alberta,Edmonton,1,2,3,6,2013
+15,SMA015,Small Branch 015,Small,Quebec,Longueuil,1,2,3,6,2016
+16,SMA016,Small Branch 016,Small,Yukon,Whitehorse,1,2,3,6,2019
+17,SMA017,Small Branch 017,Small,Nova Scotia,Sydney,1,2,3,6,2018
+18,SMA018,Small Branch 018,Small,Alberta,Lethbridge,1,2,3,6,2023
+19,SMA019,Small Branch 019,Small,British Columbia,Kelowna,1,2,3,6,2023
+20,SMA020,Small Branch 020,Small,New Brunswick,Moncton,1,2,3,6,2009
+21,SMA021,Small Branch 021,Small,Prince Edward Island,Charlottetown,1,2,3,6,2020
+22,SMA022,Small Branch 022,Small,Yukon,Whitehorse,1,2,3,6,2008
+23,SMA023,Small Branch 023,Small,Nova Scotia,Dartmouth,1,2,3,6,2014
+24,SMA024,Small Branch 024,Small,Newfoundland and Labrador,Corner Brook,1,2,3,6,2023
+25,SMA025,Small Branch 025,Small,Alberta,Lethbridge,1,2,3,6,2023
+26,SMA026,Small Branch 026,Small,Alberta,Calgary,1,2,3,6,2014
+27,SMA027,Small Branch 027,Small,British Columbia,Kelowna,1,2,3,6,2023
+28,SMA028,Small Branch 028,Small,Nova Scotia,Sydney,1,2,3,6,2015
+29,SMA029,Small Branch 029,Small,Manitoba,Portage la Prairie,1,2,3,6,2017
+30,SMA030,Small Branch 030,Small,Newfoundland and Labrador,Corner Brook,1,2,3,6,2022
+31,SMA031,Small Branch 031,Small,Saskatchewan,Saskatoon,1,2,3,6,2011
+32,SMA032,Small Branch 032,Small,New Brunswick,Fredericton,1,2,3,6,2014
+33,SMA033,Small Branch 033,Small,Manitoba,Brandon,1,2,3,6,2023
+34,SMA034,Small Branch 034,Small,Newfoundland and Labrador,Corner Brook,1,2,3,6,2022
+35,SMA035,Small Branch 035,Small,Nova Scotia,Sydney,1,2,3,6,2012
+36,SMA036,Small Branch 036,Small,Quebec,Gatineau,1,2,3,6,2013
+37,SMA037,Small Branch 037,Small,Manitoba,Brandon,1,2,3,6,2016
+38,SMA038,Small Branch 038,Small,Northwest Territories,Yellowknife,1,2,3,6,2016
+39,SMA039,Small Branch 039,Small,Nunavut,Iqaluit,1,2,3,6,2013
+40,SMA040,Small Branch 040,Small,New Brunswick,Moncton,1,2,3,6,2016
+41,SMA041,Small Branch 041,Small,New Brunswick,Moncton,1,2,3,6,2021
+42,SMA042,Small Branch 042,Small,Northwest Territories,Yellowknife,1,2,3,6,2009
+43,SMA043,Small Branch 043,Small,British Columbia,Surrey,1,2,3,6,2009
+44,SMA044,Small Branch 044,Small,New Brunswick,Fredericton,1,2,3,6,2010
+45,SMA045,Small Branch 045,Small,Quebec,Laval,1,2,3,6,2021
+46,SMA046,Small Branch 046,Small,Alberta,Edmonton,1,2,3,6,2023
+47,SMA047,Small Branch 047,Small,Quebec,Quebec City,1,2,3,6,2008
+48,SMA048,Small Branch 048,Small,Saskatchewan,Saskatoon,1,2,3,6,2011
+49,SMA049,Small Branch 049,Small,Northwest Territories,Yellowknife,1,2,3,6,2010
+50,SMA050,Small Branch 050,Small,Newfoundland and Labrador,St. John's,1,2,3,6,2020
+51,SMA051,Small Branch 051,Small,New Brunswick,Saint John,1,2,3,6,2022
+52,SMA052,Small Branch 052,Small,Newfoundland and Labrador,St. John's,1,2,3,6,2022
+53,SMA053,Small Branch 053,Small,Ontario,Markham,1,2,3,6,2010
+54,SMA054,Small Branch 054,Small,Northwest Territories,Yellowknife,1,2,3,6,2024
+55,SMA055,Small Branch 055,Small,Nunavut,Iqaluit,1,2,3,6,2022
+56,SMA056,Small Branch 056,Small,Prince Edward Island,Charlottetown,1,2,3,6,2016
+57,SMA057,Small Branch 057,Small,Alberta,Calgary,1,2,3,6,2018
+58,SMA058,Small Branch 058,Small,Northwest Territories,Yellowknife,1,2,3,6,2010
+59,SMA059,Small Branch 059,Small,Ontario,Brampton,1,2,3,6,2023
+60,SMA060,Small Branch 060,Small,Yukon,Whitehorse,1,2,3,6,2009
+61,SMA061,Small Branch 061,Small,Nova Scotia,Dartmouth,1,2,3,6,2013
+62,SMA062,Small Branch 062,Small,Saskatchewan,Prince Albert,1,2,3,6,2021
+63,SMA063,Small Branch 063,Small,New Brunswick,Fredericton,1,2,3,6,2012
+64,SMA064,Small Branch 064,Small,New Brunswick,Fredericton,1,2,3,6,2018
+65,SMA065,Small Branch 065,Small,Quebec,Montreal,1,2,3,6,2017
+66,SMA066,Small Branch 066,Small,British Columbia,Victoria,1,2,3,6,2018
+67,SMA067,Small Branch 067,Small,Northwest Territories,Yellowknife,1,2,3,6,2014
+68,SMA068,Small Branch 068,Small,Saskatchewan,Saskatoon,1,2,3,6,2012
+69,SMA069,Small Branch 069,Small,Ontario,Ottawa,1,2,3,6,2020
+70,SMA070,Small Branch 070,Small,Quebec,Gatineau,1,2,3,6,2024
+71,SMA071,Small Branch 071,Small,Saskatchewan,Prince Albert,1,2,3,6,2018
+72,SMA072,Small Branch 072,Small,British Columbia,Richmond,1,2,3,6,2020
+73,SMA073,Small Branch 073,Small,British Columbia,Burnaby,1,2,3,6,2018
+74,SMA074,Small Branch 074,Small,Saskatchewan,Regina,1,2,3,6,2017
+75,SMA075,Small Branch 075,Small,Saskatchewan,Prince Albert,1,2,3,6,2023
+76,SMA076,Small Branch 076,Small,Manitoba,Winnipeg,1,2,3,6,2008
+77,SMA077,Small Branch 077,Small,Alberta,Edmonton,1,2,3,6,2020
+78,SMA078,Small Branch 078,Small,New Brunswick,Moncton,1,2,3,6,2013
+79,SMA079,Small Branch 079,Small,Nunavut,Iqaluit,1,2,3,6,2010
+80,SMA080,Small Branch 080,Small,Yukon,Whitehorse,1,2,3,6,2008
+81,SMA081,Small Branch 081,Small,Newfoundland and Labrador,St. John's,1,2,3,6,2019
+82,SMA082,Small Branch 082,Small,Alberta,Calgary,1,2,3,6,2011
+83,SMA083,Small Branch 083,Small,Northwest Territories,Yellowknife,1,2,3,6,2021
+84,SMA084,Small Branch 084,Small,Newfoundland and Labrador,Corner Brook,1,2,3,6,2021
+85,SMA085,Small Branch 085,Small,Saskatchewan,Saskatoon,1,2,3,6,2008
+86,SMA086,Small Branch 086,Small,Yukon,Whitehorse,1,2,3,6,2014
+87,SMA087,Small Branch 087,Small,Nunavut,Iqaluit,1,2,3,6,2022
+88,SMA088,Small Branch 088,Small,Ontario,Kingston,1,2,3,6,2023
+89,SMA089,Small Branch 089,Small,Nova Scotia,Halifax,1,2,3,6,2019
+90,SMA090,Small Branch 090,Small,Ontario,London,1,2,3,6,2014
+91,SMA091,Small Branch 091,Small,Yukon,Whitehorse,1,2,3,6,2024
+92,SMA092,Small Branch 092,Small,Yukon,Whitehorse,1,2,3,6,2010
+93,SMA093,Small Branch 093,Small,Saskatchewan,Prince Albert,1,2,3,6,2010
+94,SMA094,Small Branch 094,Small,Quebec,Laval,1,2,3,6,2016
+95,SMA095,Small Branch 095,Small,Nova Scotia,Dartmouth,1,2,3,6,2017
+96,SMA096,Small Branch 096,Small,Northwest Territories,Yellowknife,1,2,3,6,2021
+97,SMA097,Small Branch 097,Small,Northwest Territories,Yellowknife,1,2,3,6,2018
+98,SMA098,Small Branch 098,Small,New Brunswick,Fredericton,1,2,3,6,2024
+99,SMA099,Small Branch 099,Small,British Columbia,Kelowna,1,2,3,6,2021
+100,SMA100,Small Branch 100,Small,Prince Edward Island,Summerside,1,2,3,6,2020
+101,MED101,Medium Branch 101,Medium,Northwest Territories,Yellowknife,1,3,4,8,2013
+102,MED102,Medium Branch 102,Medium,Prince Edward Island,Charlottetown,1,3,4,8,2016
+103,MED103,Medium Branch 103,Medium,Newfoundland and Labrador,St. John's,1,3,4,8,2018
+104,MED104,Medium Branch 104,Medium,Prince Edward Island,Charlottetown,1,3,4,8,2010
+105,MED105,Medium Branch 105,Medium,Northwest Territories,Yellowknife,1,3,4,8,2016
+106,MED106,Medium Branch 106,Medium,British Columbia,Burnaby,1,3,4,8,2012
+107,MED107,Medium Branch 107,Medium,Nunavut,Iqaluit,1,3,4,8,2017
+108,MED108,Medium Branch 108,Medium,Nova Scotia,Halifax,1,3,4,8,2012
+109,MED109,Medium Branch 109,Medium,British Columbia,Kelowna,1,3,4,8,2016
+110,MED110,Medium Branch 110,Medium,Ontario,Windsor,1,3,4,8,2021
+111,MED111,Medium Branch 111,Medium,Yukon,Whitehorse,1,3,4,8,2012
+112,MED112,Medium Branch 112,Medium,Nova Scotia,Sydney,1,3,4,8,2012
+113,MED113,Medium Branch 113,Medium,Saskatchewan,Regina,1,3,4,8,2010
+114,MED114,Medium Branch 114,Medium,New Brunswick,Fredericton,1,3,4,8,2010
+115,MED115,Medium Branch 115,Medium,Yukon,Whitehorse,1,3,4,8,2023
+116,MED116,Medium Branch 116,Medium,Nunavut,Iqaluit,1,3,4,8,2012
+117,MED117,Medium Branch 117,Medium,Manitoba,Brandon,1,3,4,8,2012
+118,MED118,Medium Branch 118,Medium,Northwest Territories,Yellowknife,1,3,4,8,2018
+119,MED119,Medium Branch 119,Medium,British Columbia,Kelowna,1,3,4,8,2010
+120,MED120,Medium Branch 120,Medium,Northwest Territories,Yellowknife,1,3,4,8,2014
+121,MED121,Medium Branch 121,Medium,Yukon,Whitehorse,1,3,4,8,2009
+122,MED122,Medium Branch 122,Medium,Newfoundland and Labrador,Corner Brook,1,3,4,8,2016
+123,MED123,Medium Branch 123,Medium,Nunavut,Iqaluit,1,3,4,8,2009
+124,MED124,Medium Branch 124,Medium,Newfoundland and Labrador,St. John's,1,3,4,8,2013
+125,MED125,Medium Branch 125,Medium,Alberta,Edmonton,1,3,4,8,2014
+126,MED126,Medium Branch 126,Medium,New Brunswick,Fredericton,1,3,4,8,2018
+127,MED127,Medium Branch 127,Medium,British Columbia,Surrey,1,3,4,8,2011
+128,MED128,Medium Branch 128,Medium,Nova Scotia,Sydney,1,3,4,8,2022
+129,MED129,Medium Branch 129,Medium,Northwest Territories,Yellowknife,1,3,4,8,2015
+130,MED130,Medium Branch 130,Medium,Nunavut,Iqaluit,1,3,4,8,2020
+131,MED131,Medium Branch 131,Medium,Nunavut,Iqaluit,1,3,4,8,2017
+132,MED132,Medium Branch 132,Medium,Manitoba,Brandon,1,3,4,8,2009
+133,MED133,Medium Branch 133,Medium,Nunavut,Iqaluit,1,3,4,8,2013
+134,MED134,Medium Branch 134,Medium,Alberta,Lethbridge,1,3,4,8,2019
+135,MED135,Medium Branch 135,Medium,Ontario,Ottawa,1,3,4,8,2020
+136,MED136,Medium Branch 136,Medium,British Columbia,Abbotsford,1,3,4,8,2021
+137,MED137,Medium Branch 137,Medium,Northwest Territories,Yellowknife,1,3,4,8,2024
+138,MED138,Medium Branch 138,Medium,New Brunswick,Saint John,1,3,4,8,2021
+139,MED139,Medium Branch 139,Medium,Nova Scotia,Sydney,1,3,4,8,2018
+140,MED140,Medium Branch 140,Medium,British Columbia,Vancouver,1,3,4,8,2012
+141,MED141,Medium Branch 141,Medium,New Brunswick,Fredericton,1,3,4,8,2015
+142,MED142,Medium Branch 142,Medium,British Columbia,Vancouver,1,3,4,8,2022
+143,MED143,Medium Branch 143,Medium,Yukon,Whitehorse,1,3,4,8,2020
+144,MED144,Medium Branch 144,Medium,Alberta,Grande Prairie,1,3,4,8,2016
+145,MED145,Medium Branch 145,Medium,Prince Edward Island,Summerside,1,3,4,8,2018
+146,MED146,Medium Branch 146,Medium,Newfoundland and Labrador,Corner Brook,1,3,4,8,2012
+147,MED147,Medium Branch 147,Medium,Newfoundland and Labrador,Corner Brook,1,3,4,8,2020
+148,MED148,Medium Branch 148,Medium,Quebec,Sherbrooke,1,3,4,8,2016
+149,MED149,Medium Branch 149,Medium,Northwest Territories,Yellowknife,1,3,4,8,2017
+150,MED150,Medium Branch 150,Medium,Yukon,Whitehorse,1,3,4,8,2010
+151,MED151,Medium Branch 151,Medium,Newfoundland and Labrador,St. John's,1,3,4,8,2020
+152,MED152,Medium Branch 152,Medium,Newfoundland and Labrador,Corner Brook,1,3,4,8,2018
+153,MED153,Medium Branch 153,Medium,Prince Edward Island,Charlottetown,1,3,4,8,2013
+154,MED154,Medium Branch 154,Medium,Quebec,Sherbrooke,1,3,4,8,2010
+155,MED155,Medium Branch 155,Medium,Quebec,Gatineau,1,3,4,8,2018
+156,MED156,Medium Branch 156,Medium,British Columbia,Abbotsford,1,3,4,8,2024
+157,MED157,Medium Branch 157,Medium,Prince Edward Island,Summerside,1,3,4,8,2019
+158,MED158,Medium Branch 158,Medium,Prince Edward Island,Charlottetown,1,3,4,8,2020
+159,MED159,Medium Branch 159,Medium,Northwest Territories,Yellowknife,1,3,4,8,2013
+160,MED160,Medium Branch 160,Medium,Quebec,Montreal,1,3,4,8,2010
+161,MED161,Medium Branch 161,Medium,Northwest Territories,Yellowknife,1,3,4,8,2019
+162,MED162,Medium Branch 162,Medium,Nunavut,Iqaluit,1,3,4,8,2020
+163,MED163,Medium Branch 163,Medium,New Brunswick,Saint John,1,3,4,8,2008
+164,MED164,Medium Branch 164,Medium,Nunavut,Iqaluit,1,3,4,8,2024
+165,MED165,Medium Branch 165,Medium,Yukon,Whitehorse,1,3,4,8,2015
+166,MED166,Medium Branch 166,Medium,Newfoundland and Labrador,Corner Brook,1,3,4,8,2018
+167,MED167,Medium Branch 167,Medium,Quebec,Montreal,1,3,4,8,2024
+168,MED168,Medium Branch 168,Medium,Prince Edward Island,Summerside,1,3,4,8,2024
+169,MED169,Medium Branch 169,Medium,Saskatchewan,Prince Albert,1,3,4,8,2018
+170,MED170,Medium Branch 170,Medium,Saskatchewan,Regina,1,3,4,8,2012
+171,MED171,Medium Branch 171,Medium,Yukon,Whitehorse,1,3,4,8,2009
+172,MED172,Medium Branch 172,Medium,Nunavut,Iqaluit,1,3,4,8,2012
+173,MED173,Medium Branch 173,Medium,Alberta,Edmonton,1,3,4,8,2019
+174,MED174,Medium Branch 174,Medium,Manitoba,Winnipeg,1,3,4,8,2016
+175,MED175,Medium Branch 175,Medium,Northwest Territories,Yellowknife,1,3,4,8,2019
+176,MED176,Medium Branch 176,Medium,Nunavut,Iqaluit,1,3,4,8,2021
+177,MED177,Medium Branch 177,Medium,Prince Edward Island,Summerside,1,3,4,8,2019
+178,MED178,Medium Branch 178,Medium,Yukon,Whitehorse,1,3,4,8,2024
+179,MED179,Medium Branch 179,Medium,British Columbia,Burnaby,1,3,4,8,2021
+180,MED180,Medium Branch 180,Medium,Nunavut,Iqaluit,1,3,4,8,2017
+181,MED181,Medium Branch 181,Medium,Ontario,Kingston,1,3,4,8,2017
+182,MED182,Medium Branch 182,Medium,Quebec,Sherbrooke,1,3,4,8,2024
+183,MED183,Medium Branch 183,Medium,Northwest Territories,Yellowknife,1,3,4,8,2008
+184,MED184,Medium Branch 184,Medium,Prince Edward Island,Summerside,1,3,4,8,2008
+185,MED185,Medium Branch 185,Medium,New Brunswick,Saint John,1,3,4,8,2008
+186,MED186,Medium Branch 186,Medium,Manitoba,Brandon,1,3,4,8,2018
+187,MED187,Medium Branch 187,Medium,Nova Scotia,Halifax,1,3,4,8,2022
+188,MED188,Medium Branch 188,Medium,Saskatchewan,Prince Albert,1,3,4,8,2012
+189,MED189,Medium Branch 189,Medium,Prince Edward Island,Summerside,1,3,4,8,2018
+190,MED190,Medium Branch 190,Medium,Nova Scotia,Sydney,1,3,4,8,2019
+191,MED191,Medium Branch 191,Medium,Manitoba,Portage la Prairie,1,3,4,8,2012
+192,MED192,Medium Branch 192,Medium,New Brunswick,Saint John,1,3,4,8,2019
+193,MED193,Medium Branch 193,Medium,Prince Edward Island,Summerside,1,3,4,8,2016
+194,MED194,Medium Branch 194,Medium,Newfoundland and Labrador,St. John's,1,3,4,8,2018
+195,MED195,Medium Branch 195,Medium,New Brunswick,Moncton,1,3,4,8,2018
+196,MED196,Medium Branch 196,Medium,Saskatchewan,Regina,1,3,4,8,2017
+197,MED197,Medium Branch 197,Medium,Quebec,Laval,1,3,4,8,2009
+198,MED198,Medium Branch 198,Medium,Manitoba,Winnipeg,1,3,4,8,2018
+199,MED199,Medium Branch 199,Medium,Northwest Territories,Yellowknife,1,3,4,8,2017
+200,MED200,Medium Branch 200,Medium,Newfoundland and Labrador,St. John's,1,3,4,8,2015
+201,LAR201,Large Branch 201,Large,Yukon,Whitehorse,1,4,5,10,2009
+202,LAR202,Large Branch 202,Large,New Brunswick,Saint John,1,4,5,10,2010
+203,LAR203,Large Branch 203,Large,Alberta,Lethbridge,1,4,5,10,2018
+204,LAR204,Large Branch 204,Large,Yukon,Whitehorse,1,4,5,10,2015
+205,LAR205,Large Branch 205,Large,New Brunswick,Saint John,1,4,5,10,2008
+206,LAR206,Large Branch 206,Large,Alberta,Edmonton,1,4,5,10,2018
+207,LAR207,Large Branch 207,Large,Northwest Territories,Yellowknife,1,4,5,10,2017
+208,LAR208,Large Branch 208,Large,British Columbia,Abbotsford,1,4,5,10,2012
+209,LAR209,Large Branch 209,Large,Nunavut,Iqaluit,1,4,5,10,2009
+210,LAR210,Large Branch 210,Large,Newfoundland and Labrador,St. John's,1,4,5,10,2014
+211,LAR211,Large Branch 211,Large,Manitoba,Brandon,1,4,5,10,2023
+212,LAR212,Large Branch 212,Large,Yukon,Whitehorse,1,4,5,10,2011
+213,LAR213,Large Branch 213,Large,Nunavut,Iqaluit,1,4,5,10,2012
+214,LAR214,Large Branch 214,Large,Ontario,Ottawa,1,4,5,10,2012
+215,LAR215,Large Branch 215,Large,Newfoundland and Labrador,St. John's,1,4,5,10,2010
+216,LAR216,Large Branch 216,Large,Yukon,Whitehorse,1,4,5,10,2019
+217,LAR217,Large Branch 217,Large,Yukon,Whitehorse,1,4,5,10,2021
+218,LAR218,Large Branch 218,Large,Nunavut,Iqaluit,1,4,5,10,2018
+219,LAR219,Large Branch 219,Large,Yukon,Whitehorse,1,4,5,10,2013
+220,LAR220,Large Branch 220,Large,Newfoundland and Labrador,St. John's,1,4,5,10,2023
+221,LAR221,Large Branch 221,Large,Alberta,Edmonton,1,4,5,10,2016
+222,LAR222,Large Branch 222,Large,British Columbia,Vancouver,1,4,5,10,2013
+223,LAR223,Large Branch 223,Large,Alberta,Edmonton,1,4,5,10,2022
+224,LAR224,Large Branch 224,Large,Manitoba,Winnipeg,1,4,5,10,2018
+225,LAR225,Large Branch 225,Large,Alberta,Grande Prairie,1,4,5,10,2014
+226,LAR226,Large Branch 226,Large,Saskatchewan,Regina,1,4,5,10,2009
+227,LAR227,Large Branch 227,Large,New Brunswick,Fredericton,1,4,5,10,2022
+228,LAR228,Large Branch 228,Large,Prince Edward Island,Summerside,1,4,5,10,2018
+229,LAR229,Large Branch 229,Large,Saskatchewan,Prince Albert,1,4,5,10,2013
+230,LAR230,Large Branch 230,Large,Nunavut,Iqaluit,1,4,5,10,2013
+231,LAR231,Large Branch 231,Large,Ontario,London,1,4,5,10,2008
+232,LAR232,Large Branch 232,Large,Northwest Territories,Yellowknife,1,4,5,10,2015
+233,LAR233,Large Branch 233,Large,Quebec,Trois-Rivieres,1,4,5,10,2023
+234,LAR234,Large Branch 234,Large,Yukon,Whitehorse,1,4,5,10,2011
+235,LAR235,Large Branch 235,Large,New Brunswick,Saint John,1,4,5,10,2019
+236,LAR236,Large Branch 236,Large,Saskatchewan,Saskatoon,1,4,5,10,2012
+237,LAR237,Large Branch 237,Large,Nunavut,Iqaluit,1,4,5,10,2024
+238,LAR238,Large Branch 238,Large,Ontario,Hamilton,1,4,5,10,2019
+239,LAR239,Large Branch 239,Large,New Brunswick,Fredericton,1,4,5,10,2018
+240,LAR240,Large Branch 240,Large,New Brunswick,Fredericton,1,4,5,10,2018
+241,LAR241,Large Branch 241,Large,Newfoundland and Labrador,Corner Brook,1,4,5,10,2011
+242,LAR242,Large Branch 242,Large,Northwest Territories,Yellowknife,1,4,5,10,2019
+243,LAR243,Large Branch 243,Large,New Brunswick,Moncton,1,4,5,10,2010
+244,LAR244,Large Branch 244,Large,Newfoundland and Labrador,Corner Brook,1,4,5,10,2013
+245,LAR245,Large Branch 245,Large,Newfoundland and Labrador,Corner Brook,1,4,5,10,2018
+246,LAR246,Large Branch 246,Large,Nunavut,Iqaluit,1,4,5,10,2012
+247,LAR247,Large Branch 247,Large,New Brunswick,Saint John,1,4,5,10,2022
+248,LAR248,Large Branch 248,Large,Saskatchewan,Regina,1,4,5,10,2011
+249,LAR249,Large Branch 249,Large,Ontario,Hamilton,1,4,5,10,2020
+250,LAR250,Large Branch 250,Large,Northwest Territories,Yellowknife,1,4,5,10,2013
+251,LAR251,Large Branch 251,Large,Saskatchewan,Saskatoon,1,4,5,10,2022
+252,LAR252,Large Branch 252,Large,Manitoba,Brandon,1,4,5,10,2019
+253,LAR253,Large Branch 253,Large,Prince Edward Island,Charlottetown,1,4,5,10,2009
+254,LAR254,Large Branch 254,Large,Nova Scotia,Dartmouth,1,4,5,10,2013
+255,LAR255,Large Branch 255,Large,Nunavut,Iqaluit,1,4,5,10,2020
+256,LAR256,Large Branch 256,Large,Nova Scotia,Halifax,1,4,5,10,2020
+257,LAR257,Large Branch 257,Large,Newfoundland and Labrador,St. John's,1,4,5,10,2020
+258,LAR258,Large Branch 258,Large,Nova Scotia,Sydney,1,4,5,10,2018
+259,LAR259,Large Branch 259,Large,Alberta,Lethbridge,1,4,5,10,2015
+260,LAR260,Large Branch 260,Large,Alberta,Calgary,1,4,5,10,2012
+261,LAR261,Large Branch 261,Large,Newfoundland and Labrador,St. John's,1,4,5,10,2013
+262,LAR262,Large Branch 262,Large,Alberta,Edmonton,1,4,5,10,2023
+263,LAR263,Large Branch 263,Large,Nunavut,Iqaluit,1,4,5,10,2017
+264,LAR264,Large Branch 264,Large,New Brunswick,Saint John,1,4,5,10,2011
+265,LAR265,Large Branch 265,Large,Prince Edward Island,Summerside,1,4,5,10,2024
+266,LAR266,Large Branch 266,Large,Northwest Territories,Yellowknife,1,4,5,10,2011
+267,LAR267,Large Branch 267,Large,Alberta,Lethbridge,1,4,5,10,2021
+268,LAR268,Large Branch 268,Large,Ontario,Hamilton,1,4,5,10,2023
+269,LAR269,Large Branch 269,Large,Northwest Territories,Yellowknife,1,4,5,10,2009
+270,LAR270,Large Branch 270,Large,Quebec,Longueuil,1,4,5,10,2013
+271,LAR271,Large Branch 271,Large,Northwest Territories,Yellowknife,1,4,5,10,2015
+272,LAR272,Large Branch 272,Large,Newfoundland and Labrador,St. John's,1,4,5,10,2010
+273,LAR273,Large Branch 273,Large,Nunavut,Iqaluit,1,4,5,10,2016
+274,LAR274,Large Branch 274,Large,Quebec,Trois-Rivieres,1,4,5,10,2010
+275,LAR275,Large Branch 275,Large,New Brunswick,Moncton,1,4,5,10,2013
+276,LAR276,Large Branch 276,Large,Quebec,Gatineau,1,4,5,10,2008
+277,LAR277,Large Branch 277,Large,Nunavut,Iqaluit,1,4,5,10,2012
+278,LAR278,Large Branch 278,Large,Nova Scotia,Halifax,1,4,5,10,2016
+279,LAR279,Large Branch 279,Large,Manitoba,Winnipeg,1,4,5,10,2011
+280,LAR280,Large Branch 280,Large,Nunavut,Iqaluit,1,4,5,10,2021
+281,LAR281,Large Branch 281,Large,Nunavut,Iqaluit,1,4,5,10,2011
+282,LAR282,Large Branch 282,Large,Manitoba,Winnipeg,1,4,5,10,2020
+283,LAR283,Large Branch 283,Large,Northwest Territories,Yellowknife,1,4,5,10,2012
+284,LAR284,Large Branch 284,Large,Northwest Territories,Yellowknife,1,4,5,10,2023
+285,LAR285,Large Branch 285,Large,Nunavut,Iqaluit,1,4,5,10,2012
+286,LAR286,Large Branch 286,Large,Saskatchewan,Regina,1,4,5,10,2017
+287,LAR287,Large Branch 287,Large,British Columbia,Vancouver,1,4,5,10,2009
+288,LAR288,Large Branch 288,Large,Saskatchewan,Regina,1,4,5,10,2015
+289,LAR289,Large Branch 289,Large,Ontario,Mississauga,1,4,5,10,2013
+290,LAR290,Large Branch 290,Large,Manitoba,Portage la Prairie,1,4,5,10,2019
+291,LAR291,Large Branch 291,Large,Quebec,Quebec City,1,4,5,10,2020
+292,LAR292,Large Branch 292,Large,Northwest Territories,Yellowknife,1,4,5,10,2016
+293,LAR293,Large Branch 293,Large,Nunavut,Iqaluit,1,4,5,10,2008
+294,LAR294,Large Branch 294,Large,Saskatchewan,Regina,1,4,5,10,2013
+295,LAR295,Large Branch 295,Large,Yukon,Whitehorse,1,4,5,10,2024
+296,LAR296,Large Branch 296,Large,Saskatchewan,Regina,1,4,5,10,2010
+297,LAR297,Large Branch 297,Large,Saskatchewan,Regina,1,4,5,10,2020
+298,LAR298,Large Branch 298,Large,Nunavut,Iqaluit,1,4,5,10,2016
+299,LAR299,Large Branch 299,Large,Newfoundland and Labrador,Corner Brook,1,4,5,10,2021
+300,LAR300,Large Branch 300,Large,Saskatchewan,Regina,1,4,5,10,2014

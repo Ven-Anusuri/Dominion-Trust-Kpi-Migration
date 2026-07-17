@@ -1,0 +1,2401 @@
+employee_id,branch_id,branch_code,tier,province,city,role,first_name,last_name,hire_date
+1,1,SMA001,Small,Northwest Territories,Yellowknife,Manager,Ruby,Roberts,2018-03-24
+2,1,SMA001,Small,Northwest Territories,Yellowknife,Advisor,Ethan,Khan,2016-10-14
+3,1,SMA001,Small,Northwest Territories,Yellowknife,Advisor,Benjamin,Campbell,2016-04-08
+4,1,SMA001,Small,Northwest Territories,Yellowknife,Teller,Lily,Campbell,2023-04-23
+5,1,SMA001,Small,Northwest Territories,Yellowknife,Teller,Aaliyah,Khan,2021-04-15
+6,1,SMA001,Small,Northwest Territories,Yellowknife,Teller,Mila,Turner,2015-03-23
+7,2,SMA002,Small,Nova Scotia,Dartmouth,Manager,Isaac,Patel,2020-02-03
+8,2,SMA002,Small,Nova Scotia,Dartmouth,Advisor,Ella,Hughes,2020-06-20
+9,2,SMA002,Small,Nova Scotia,Dartmouth,Advisor,Parker,Davis,2022-09-04
+10,2,SMA002,Small,Nova Scotia,Dartmouth,Teller,Ella,Garcia,2023-05-27
+11,2,SMA002,Small,Nova Scotia,Dartmouth,Teller,Aaron,Zhang,2024-04-23
+12,2,SMA002,Small,Nova Scotia,Dartmouth,Teller,Daniel,Davis,2018-05-03
+13,3,SMA003,Small,Alberta,Calgary,Manager,Ruby,Fisher,2020-03-12
+14,3,SMA003,Small,Alberta,Calgary,Advisor,Zara,Patel,2019-12-22
+15,3,SMA003,Small,Alberta,Calgary,Advisor,Aaliyah,Foster,2024-11-06
+16,3,SMA003,Small,Alberta,Calgary,Teller,Sam,Roberts,2017-08-13
+17,3,SMA003,Small,Alberta,Calgary,Teller,Ruby,Quinn,2020-01-08
+18,3,SMA003,Small,Alberta,Calgary,Teller,Benjamin,Walker,2021-05-03
+19,4,SMA004,Small,Alberta,Grande Prairie,Manager,Noah,Harris,2021-11-15
+20,4,SMA004,Small,Alberta,Grande Prairie,Advisor,Isaac,Sanchez,2017-04-24
+21,4,SMA004,Small,Alberta,Grande Prairie,Advisor,Aria,Khan,2019-12-19
+22,4,SMA004,Small,Alberta,Grande Prairie,Teller,Henry,Bennett,2020-04-05
+23,4,SMA004,Small,Alberta,Grande Prairie,Teller,Lily,Harris,2016-01-28
+24,4,SMA004,Small,Alberta,Grande Prairie,Teller,Grace,Lee,2017-11-14
+25,5,SMA005,Small,Prince Edward Island,Charlottetown,Manager,Ella,Fisher,2023-05-18
+26,5,SMA005,Small,Prince Edward Island,Charlottetown,Advisor,Aiden,Johnson,2023-05-25
+27,5,SMA005,Small,Prince Edward Island,Charlottetown,Advisor,Aaliyah,Xu,2016-05-14
+28,5,SMA005,Small,Prince Edward Island,Charlottetown,Teller,Jasmine,Fisher,2015-12-24
+29,5,SMA005,Small,Prince Edward Island,Charlottetown,Teller,Parker,Irwin,2017-09-04
+30,5,SMA005,Small,Prince Edward Island,Charlottetown,Teller,Aaron,Vargas,2023-10-07
+31,6,SMA006,Small,British Columbia,Surrey,Manager,Sam,James,2015-10-11
+32,6,SMA006,Small,British Columbia,Surrey,Advisor,Leo,Campbell,2016-06-27
+33,6,SMA006,Small,British Columbia,Surrey,Advisor,Thomas,Roberts,2015-04-19
+34,6,SMA006,Small,British Columbia,Surrey,Teller,Emma,Garcia,2022-02-25
+35,6,SMA006,Small,British Columbia,Surrey,Teller,Sam,Kim,2017-11-16
+36,6,SMA006,Small,British Columbia,Surrey,Teller,Aria,Mitchell,2019-09-28
+37,7,SMA007,Small,Prince Edward Island,Summerside,Manager,Sam,Owen,2019-07-22
+38,7,SMA007,Small,Prince Edward Island,Summerside,Advisor,Aaliyah,Zhang,2022-09-15
+39,7,SMA007,Small,Prince Edward Island,Summerside,Advisor,Grace,Roberts,2018-02-11
+40,7,SMA007,Small,Prince Edward Island,Summerside,Teller,Ava,Quinn,2024-04-01
+41,7,SMA007,Small,Prince Edward Island,Summerside,Teller,Daniel,Edwards,2018-02-02
+42,7,SMA007,Small,Prince Edward Island,Summerside,Teller,William,Foster,2023-04-09
+43,8,SMA008,Small,Northwest Territories,Yellowknife,Manager,Sam,Kim,2024-10-16
+44,8,SMA008,Small,Northwest Territories,Yellowknife,Advisor,Owen,Gonzalez,2021-04-04
+45,8,SMA008,Small,Northwest Territories,Yellowknife,Advisor,Ethan,Diaz,2020-07-14
+46,8,SMA008,Small,Northwest Territories,Yellowknife,Teller,Jack,Edwards,2016-01-13
+47,8,SMA008,Small,Northwest Territories,Yellowknife,Teller,William,Hughes,2018-04-07
+48,8,SMA008,Small,Northwest Territories,Yellowknife,Teller,Sam,Evans,2017-07-06
+49,9,SMA009,Small,Manitoba,Brandon,Manager,Daniel,Evans,2023-02-02
+50,9,SMA009,Small,Manitoba,Brandon,Advisor,Aaliyah,Khan,2015-02-25
+51,9,SMA009,Small,Manitoba,Brandon,Advisor,Owen,Mitchell,2021-08-16
+52,9,SMA009,Small,Manitoba,Brandon,Teller,Noah,Bennett,2015-03-13
+53,9,SMA009,Small,Manitoba,Brandon,Teller,Aiden,Adams,2019-08-10
+54,9,SMA009,Small,Manitoba,Brandon,Teller,Henry,Harris,2017-04-10
+55,10,SMA010,Small,Alberta,Calgary,Manager,Victoria,Edwards,2015-10-16
+56,10,SMA010,Small,Alberta,Calgary,Advisor,Lily,James,2017-01-17
+57,10,SMA010,Small,Alberta,Calgary,Advisor,Emma,Nguyen,2016-10-03
+58,10,SMA010,Small,Alberta,Calgary,Teller,Faith,Roberts,2021-02-19
+59,10,SMA010,Small,Alberta,Calgary,Teller,Owen,Davis,2024-02-14
+60,10,SMA010,Small,Alberta,Calgary,Teller,Colin,James,2020-05-07
+61,11,SMA011,Small,Northwest Territories,Yellowknife,Manager,Parker,Bennett,2017-11-21
+62,11,SMA011,Small,Northwest Territories,Yellowknife,Advisor,Thomas,Fisher,2020-02-01
+63,11,SMA011,Small,Northwest Territories,Yellowknife,Advisor,Jack,Hughes,2016-09-07
+64,11,SMA011,Small,Northwest Territories,Yellowknife,Teller,Lily,Sanchez,2017-06-03
+65,11,SMA011,Small,Northwest Territories,Yellowknife,Teller,Owen,Zhang,2019-03-15
+66,11,SMA011,Small,Northwest Territories,Yellowknife,Teller,Sam,Vargas,2024-11-17
+67,12,SMA012,Small,Ontario,Windsor,Manager,Colin,Hughes,2017-05-04
+68,12,SMA012,Small,Ontario,Windsor,Advisor,Ethan,Lee,2019-05-20
+69,12,SMA012,Small,Ontario,Windsor,Advisor,Noah,Xu,2018-11-21
+70,12,SMA012,Small,Ontario,Windsor,Teller,Parker,Irwin,2022-05-28
+71,12,SMA012,Small,Ontario,Windsor,Teller,Chloe,Garcia,2021-05-02
+72,12,SMA012,Small,Ontario,Windsor,Teller,Aiden,Xu,2017-11-09
+73,13,SMA013,Small,British Columbia,Kelowna,Manager,Aria,Diaz,2023-01-04
+74,13,SMA013,Small,British Columbia,Kelowna,Advisor,Daniel,Lee,2023-01-27
+75,13,SMA013,Small,British Columbia,Kelowna,Advisor,Mason,Lee,2021-03-02
+76,13,SMA013,Small,British Columbia,Kelowna,Teller,Thomas,Zhang,2015-06-07
+77,13,SMA013,Small,British Columbia,Kelowna,Teller,Faith,Roberts,2016-06-25
+78,13,SMA013,Small,British Columbia,Kelowna,Teller,Aria,Clark,2024-12-05
+79,14,SMA014,Small,Alberta,Edmonton,Manager,Amelia,Campbell,2017-12-11
+80,14,SMA014,Small,Alberta,Edmonton,Advisor,Amelia,Roberts,2019-03-26
+81,14,SMA014,Small,Alberta,Edmonton,Advisor,Dylan,Hughes,2021-01-28
+82,14,SMA014,Small,Alberta,Edmonton,Teller,Charlotte,Quinn,2018-08-12
+83,14,SMA014,Small,Alberta,Edmonton,Teller,Thomas,Quinn,2018-01-22
+84,14,SMA014,Small,Alberta,Edmonton,Teller,Mia,Bennett,2020-05-28
+85,15,SMA015,Small,Quebec,Longueuil,Manager,Zara,Irwin,2021-11-27
+86,15,SMA015,Small,Quebec,Longueuil,Advisor,Sam,Xu,2015-02-09
+87,15,SMA015,Small,Quebec,Longueuil,Advisor,Liam,Sanchez,2015-02-20
+88,15,SMA015,Small,Quebec,Longueuil,Teller,Henry,Young,2020-07-20
+89,15,SMA015,Small,Quebec,Longueuil,Teller,Lily,Johnson,2021-10-07
+90,15,SMA015,Small,Quebec,Longueuil,Teller,Parker,Davis,2021-01-17
+91,16,SMA016,Small,Yukon,Whitehorse,Manager,Henry,Foster,2020-10-11
+92,16,SMA016,Small,Yukon,Whitehorse,Advisor,Colin,Johnson,2019-09-10
+93,16,SMA016,Small,Yukon,Whitehorse,Advisor,Colin,Clark,2020-07-23
+94,16,SMA016,Small,Yukon,Whitehorse,Teller,Sophia,Kim,2018-07-22
+95,16,SMA016,Small,Yukon,Whitehorse,Teller,Ella,Nguyen,2024-10-10
+96,16,SMA016,Small,Yukon,Whitehorse,Teller,Lucas,Brown,2019-05-07
+97,17,SMA017,Small,Nova Scotia,Sydney,Manager,Jack,Evans,2022-11-07
+98,17,SMA017,Small,Nova Scotia,Sydney,Advisor,Lily,Gonzalez,2017-11-03
+99,17,SMA017,Small,Nova Scotia,Sydney,Advisor,Sophia,Irwin,2024-06-03
+100,17,SMA017,Small,Nova Scotia,Sydney,Teller,Owen,Vargas,2018-04-05
+101,17,SMA017,Small,Nova Scotia,Sydney,Teller,Ava,Davis,2018-08-20
+102,17,SMA017,Small,Nova Scotia,Sydney,Teller,Daniel,Fisher,2021-11-19
+103,18,SMA018,Small,Alberta,Lethbridge,Manager,Lucas,Roberts,2017-11-23
+104,18,SMA018,Small,Alberta,Lethbridge,Advisor,Aiden,Hughes,2021-04-06
+105,18,SMA018,Small,Alberta,Lethbridge,Advisor,Dylan,James,2022-01-18
+106,18,SMA018,Small,Alberta,Lethbridge,Teller,Owen,Johnson,2022-03-26
+107,18,SMA018,Small,Alberta,Lethbridge,Teller,Jack,James,2023-10-11
+108,18,SMA018,Small,Alberta,Lethbridge,Teller,Harper,Irwin,2021-09-15
+109,19,SMA019,Small,British Columbia,Kelowna,Manager,Harper,Sanchez,2018-11-09
+110,19,SMA019,Small,British Columbia,Kelowna,Advisor,Nora,Harris,2018-05-15
+111,19,SMA019,Small,British Columbia,Kelowna,Advisor,Daniel,Underwood,2018-05-11
+112,19,SMA019,Small,British Columbia,Kelowna,Teller,Victoria,Khan,2016-03-05
+113,19,SMA019,Small,British Columbia,Kelowna,Teller,Olivia,Adams,2017-12-07
+114,19,SMA019,Small,British Columbia,Kelowna,Teller,Daniel,Clark,2021-06-18
+115,20,SMA020,Small,New Brunswick,Moncton,Manager,Noah,Clark,2021-10-23
+116,20,SMA020,Small,New Brunswick,Moncton,Advisor,Ava,Adams,2022-01-12
+117,20,SMA020,Small,New Brunswick,Moncton,Advisor,Thomas,Adams,2021-09-24
+118,20,SMA020,Small,New Brunswick,Moncton,Teller,Sam,Quinn,2022-04-09
+119,20,SMA020,Small,New Brunswick,Moncton,Teller,Henry,Harris,2015-07-11
+120,20,SMA020,Small,New Brunswick,Moncton,Teller,Colin,Bennett,2017-08-05
+121,21,SMA021,Small,Prince Edward Island,Charlottetown,Manager,Mila,Campbell,2016-11-14
+122,21,SMA021,Small,Prince Edward Island,Charlottetown,Advisor,Hannah,Fisher,2017-01-09
+123,21,SMA021,Small,Prince Edward Island,Charlottetown,Advisor,Ella,Walker,2018-08-11
+124,21,SMA021,Small,Prince Edward Island,Charlottetown,Teller,William,Adams,2019-07-09
+125,21,SMA021,Small,Prince Edward Island,Charlottetown,Teller,Emma,Gonzalez,2015-12-18
+126,21,SMA021,Small,Prince Edward Island,Charlottetown,Teller,Chloe,Young,2018-11-03
+127,22,SMA022,Small,Yukon,Whitehorse,Manager,Owen,Owen,2015-10-05
+128,22,SMA022,Small,Yukon,Whitehorse,Advisor,Owen,Kim,2022-11-04
+129,22,SMA022,Small,Yukon,Whitehorse,Advisor,Theo,Patel,2022-12-09
+130,22,SMA022,Small,Yukon,Whitehorse,Teller,Mason,Mitchell,2024-10-24
+131,22,SMA022,Small,Yukon,Whitehorse,Teller,Brooke,Johnson,2017-05-04
+132,22,SMA022,Small,Yukon,Whitehorse,Teller,Mila,Campbell,2019-10-22
+133,23,SMA023,Small,Nova Scotia,Dartmouth,Manager,Daniel,Roberts,2016-12-25
+134,23,SMA023,Small,Nova Scotia,Dartmouth,Advisor,Thomas,Johnson,2024-01-12
+135,23,SMA023,Small,Nova Scotia,Dartmouth,Advisor,Sam,Diaz,2020-02-17
+136,23,SMA023,Small,Nova Scotia,Dartmouth,Teller,Aaliyah,Xu,2015-07-27
+137,23,SMA023,Small,Nova Scotia,Dartmouth,Teller,Leo,Hughes,2021-06-21
+138,23,SMA023,Small,Nova Scotia,Dartmouth,Teller,Jack,Lee,2021-03-24
+139,24,SMA024,Small,Newfoundland and Labrador,Corner Brook,Manager,Jack,Diaz,2024-05-11
+140,24,SMA024,Small,Newfoundland and Labrador,Corner Brook,Advisor,Owen,Garcia,2019-08-08
+141,24,SMA024,Small,Newfoundland and Labrador,Corner Brook,Advisor,Jack,Adams,2020-01-16
+142,24,SMA024,Small,Newfoundland and Labrador,Corner Brook,Teller,Victoria,Nguyen,2022-04-12
+143,24,SMA024,Small,Newfoundland and Labrador,Corner Brook,Teller,Parker,Xu,2019-10-23
+144,24,SMA024,Small,Newfoundland and Labrador,Corner Brook,Teller,Ruby,Brown,2023-04-03
+145,25,SMA025,Small,Alberta,Lethbridge,Manager,Aria,Roberts,2022-11-23
+146,25,SMA025,Small,Alberta,Lethbridge,Advisor,Leo,Evans,2015-02-10
+147,25,SMA025,Small,Alberta,Lethbridge,Advisor,Olivia,Bennett,2018-05-22
+148,25,SMA025,Small,Alberta,Lethbridge,Teller,Mila,Zhang,2022-09-17
+149,25,SMA025,Small,Alberta,Lethbridge,Teller,Zara,Diaz,2023-06-12
+150,25,SMA025,Small,Alberta,Lethbridge,Teller,Dylan,Fisher,2019-05-09
+151,26,SMA026,Small,Alberta,Calgary,Manager,Victoria,Johnson,2023-12-06
+152,26,SMA026,Small,Alberta,Calgary,Advisor,Mia,Patel,2022-05-24
+153,26,SMA026,Small,Alberta,Calgary,Advisor,Mila,James,2024-05-04
+154,26,SMA026,Small,Alberta,Calgary,Teller,Mia,Underwood,2018-06-06
+155,26,SMA026,Small,Alberta,Calgary,Teller,Thomas,Brown,2023-03-09
+156,26,SMA026,Small,Alberta,Calgary,Teller,Benjamin,Edwards,2023-05-23
+157,27,SMA027,Small,British Columbia,Kelowna,Manager,Ethan,Brown,2024-05-16
+158,27,SMA027,Small,British Columbia,Kelowna,Advisor,Charlotte,Evans,2020-03-02
+159,27,SMA027,Small,British Columbia,Kelowna,Advisor,Parker,Gonzalez,2016-02-13
+160,27,SMA027,Small,British Columbia,Kelowna,Teller,Leo,Foster,2024-11-22
+161,27,SMA027,Small,British Columbia,Kelowna,Teller,Chloe,Lee,2017-10-10
+162,27,SMA027,Small,British Columbia,Kelowna,Teller,Emma,Roberts,2016-09-25
+163,28,SMA028,Small,Nova Scotia,Sydney,Manager,Nora,Adams,2022-08-10
+164,28,SMA028,Small,Nova Scotia,Sydney,Advisor,Mila,Diaz,2019-10-20
+165,28,SMA028,Small,Nova Scotia,Sydney,Advisor,Chloe,Hughes,2018-11-07
+166,28,SMA028,Small,Nova Scotia,Sydney,Teller,Parker,Garcia,2017-04-06
+167,28,SMA028,Small,Nova Scotia,Sydney,Teller,Aria,Foster,2017-01-14
+168,28,SMA028,Small,Nova Scotia,Sydney,Teller,Harper,Gonzalez,2019-01-08
+169,29,SMA029,Small,Manitoba,Portage la Prairie,Manager,Dylan,Fisher,2016-11-08
+170,29,SMA029,Small,Manitoba,Portage la Prairie,Advisor,Parker,Owen,2021-02-18
+171,29,SMA029,Small,Manitoba,Portage la Prairie,Advisor,Olivia,Lee,2019-03-03
+172,29,SMA029,Small,Manitoba,Portage la Prairie,Teller,Chloe,Mitchell,2019-10-24
+173,29,SMA029,Small,Manitoba,Portage la Prairie,Teller,Theo,Underwood,2022-02-15
+174,29,SMA029,Small,Manitoba,Portage la Prairie,Teller,Dylan,Vargas,2021-05-17
+175,30,SMA030,Small,Newfoundland and Labrador,Corner Brook,Manager,Emma,Davis,2021-12-11
+176,30,SMA030,Small,Newfoundland and Labrador,Corner Brook,Advisor,Julian,Sanchez,2015-02-08
+177,30,SMA030,Small,Newfoundland and Labrador,Corner Brook,Advisor,Faith,Campbell,2019-10-02
+178,30,SMA030,Small,Newfoundland and Labrador,Corner Brook,Teller,Liam,Gonzalez,2023-11-15
+179,30,SMA030,Small,Newfoundland and Labrador,Corner Brook,Teller,Ruby,Nguyen,2024-07-21
+180,30,SMA030,Small,Newfoundland and Labrador,Corner Brook,Teller,Leo,Garcia,2022-06-14
+181,31,SMA031,Small,Saskatchewan,Saskatoon,Manager,Jasmine,Xu,2021-12-16
+182,31,SMA031,Small,Saskatchewan,Saskatoon,Advisor,Sophia,Bennett,2023-01-15
+183,31,SMA031,Small,Saskatchewan,Saskatoon,Advisor,Emma,Walker,2019-06-04
+184,31,SMA031,Small,Saskatchewan,Saskatoon,Teller,Lucas,Irwin,2015-11-28
+185,31,SMA031,Small,Saskatchewan,Saskatoon,Teller,Sam,Fisher,2021-01-07
+186,31,SMA031,Small,Saskatchewan,Saskatoon,Teller,Nora,Zhang,2024-08-21
+187,32,SMA032,Small,New Brunswick,Fredericton,Manager,Ruby,Kim,2019-08-23
+188,32,SMA032,Small,New Brunswick,Fredericton,Advisor,Leo,Johnson,2015-11-20
+189,32,SMA032,Small,New Brunswick,Fredericton,Advisor,Owen,Mitchell,2019-09-01
+190,32,SMA032,Small,New Brunswick,Fredericton,Teller,Aria,Clark,2016-04-27
+191,32,SMA032,Small,New Brunswick,Fredericton,Teller,Grace,Fisher,2016-11-27
+192,32,SMA032,Small,New Brunswick,Fredericton,Teller,Isaac,Harris,2019-09-23
+193,33,SMA033,Small,Manitoba,Brandon,Manager,Charlotte,Roberts,2022-09-05
+194,33,SMA033,Small,Manitoba,Brandon,Advisor,Ella,Owen,2024-09-24
+195,33,SMA033,Small,Manitoba,Brandon,Advisor,Hannah,Foster,2019-07-11
+196,33,SMA033,Small,Manitoba,Brandon,Teller,Lily,Turner,2015-05-24
+197,33,SMA033,Small,Manitoba,Brandon,Teller,Thomas,Harris,2017-08-18
+198,33,SMA033,Small,Manitoba,Brandon,Teller,Charlotte,Young,2020-09-25
+199,34,SMA034,Small,Newfoundland and Labrador,Corner Brook,Manager,Victoria,Owen,2018-10-13
+200,34,SMA034,Small,Newfoundland and Labrador,Corner Brook,Advisor,Olivia,Clark,2015-06-24
+201,34,SMA034,Small,Newfoundland and Labrador,Corner Brook,Advisor,Charlotte,Adams,2021-11-26
+202,34,SMA034,Small,Newfoundland and Labrador,Corner Brook,Teller,Aaliyah,Lee,2022-01-05
+203,34,SMA034,Small,Newfoundland and Labrador,Corner Brook,Teller,Lily,Xu,2016-08-04
+204,34,SMA034,Small,Newfoundland and Labrador,Corner Brook,Teller,Nora,Fisher,2015-12-05
+205,35,SMA035,Small,Nova Scotia,Sydney,Manager,Daniel,Gonzalez,2019-06-20
+206,35,SMA035,Small,Nova Scotia,Sydney,Advisor,Dylan,Bennett,2016-06-28
+207,35,SMA035,Small,Nova Scotia,Sydney,Advisor,Faith,Khan,2021-06-21
+208,35,SMA035,Small,Nova Scotia,Sydney,Teller,Brooke,Harris,2023-01-20
+209,35,SMA035,Small,Nova Scotia,Sydney,Teller,Daniel,Roberts,2019-04-24
+210,35,SMA035,Small,Nova Scotia,Sydney,Teller,Emma,Diaz,2016-11-23
+211,36,SMA036,Small,Quebec,Gatineau,Manager,Dylan,Vargas,2015-01-11
+212,36,SMA036,Small,Quebec,Gatineau,Advisor,Chloe,Underwood,2020-06-14
+213,36,SMA036,Small,Quebec,Gatineau,Advisor,Isaac,Roberts,2023-07-19
+214,36,SMA036,Small,Quebec,Gatineau,Teller,Faith,Nguyen,2017-03-03
+215,36,SMA036,Small,Quebec,Gatineau,Teller,Sienna,Adams,2024-11-08
+216,36,SMA036,Small,Quebec,Gatineau,Teller,Leo,Lee,2018-08-21
+217,37,SMA037,Small,Manitoba,Brandon,Manager,Colin,Brown,2022-05-22
+218,37,SMA037,Small,Manitoba,Brandon,Advisor,Sam,Mitchell,2016-08-12
+219,37,SMA037,Small,Manitoba,Brandon,Advisor,Mila,Vargas,2021-12-09
+220,37,SMA037,Small,Manitoba,Brandon,Teller,Jack,Vargas,2018-07-28
+221,37,SMA037,Small,Manitoba,Brandon,Teller,Charlotte,Hughes,2018-07-19
+222,37,SMA037,Small,Manitoba,Brandon,Teller,Zara,Underwood,2019-01-27
+223,38,SMA038,Small,Northwest Territories,Yellowknife,Manager,Aiden,Edwards,2024-12-16
+224,38,SMA038,Small,Northwest Territories,Yellowknife,Advisor,Sophia,Quinn,2024-06-08
+225,38,SMA038,Small,Northwest Territories,Yellowknife,Advisor,Aaron,Owen,2024-05-22
+226,38,SMA038,Small,Northwest Territories,Yellowknife,Teller,Colin,Kim,2016-11-21
+227,38,SMA038,Small,Northwest Territories,Yellowknife,Teller,Benjamin,Vargas,2022-01-19
+228,38,SMA038,Small,Northwest Territories,Yellowknife,Teller,Mason,Kim,2016-05-11
+229,39,SMA039,Small,Nunavut,Iqaluit,Manager,Mia,Kim,2023-06-17
+230,39,SMA039,Small,Nunavut,Iqaluit,Advisor,Lily,Turner,2017-05-27
+231,39,SMA039,Small,Nunavut,Iqaluit,Advisor,Charlotte,Underwood,2020-02-15
+232,39,SMA039,Small,Nunavut,Iqaluit,Teller,Daniel,Lee,2018-11-24
+233,39,SMA039,Small,Nunavut,Iqaluit,Teller,Faith,Bennett,2023-06-03
+234,39,SMA039,Small,Nunavut,Iqaluit,Teller,Lucas,Brown,2019-09-04
+235,40,SMA040,Small,New Brunswick,Moncton,Manager,Mila,Adams,2020-02-22
+236,40,SMA040,Small,New Brunswick,Moncton,Advisor,Olivia,Gonzalez,2015-10-18
+237,40,SMA040,Small,New Brunswick,Moncton,Advisor,Victoria,Quinn,2016-11-27
+238,40,SMA040,Small,New Brunswick,Moncton,Teller,Jack,Vargas,2021-02-05
+239,40,SMA040,Small,New Brunswick,Moncton,Teller,Benjamin,Davis,2019-08-04
+240,40,SMA040,Small,New Brunswick,Moncton,Teller,Ethan,Roberts,2023-03-13
+241,41,SMA041,Small,New Brunswick,Moncton,Manager,Mila,Lee,2021-11-04
+242,41,SMA041,Small,New Brunswick,Moncton,Advisor,Leo,Clark,2019-01-23
+243,41,SMA041,Small,New Brunswick,Moncton,Advisor,Mason,Patel,2022-08-08
+244,41,SMA041,Small,New Brunswick,Moncton,Teller,Mason,Hughes,2020-09-21
+245,41,SMA041,Small,New Brunswick,Moncton,Teller,Zara,Edwards,2021-05-07
+246,41,SMA041,Small,New Brunswick,Moncton,Teller,Grace,Fisher,2016-11-07
+247,42,SMA042,Small,Northwest Territories,Yellowknife,Manager,William,Roberts,2017-10-07
+248,42,SMA042,Small,Northwest Territories,Yellowknife,Advisor,Daniel,Patel,2024-04-27
+249,42,SMA042,Small,Northwest Territories,Yellowknife,Advisor,Olivia,Xu,2017-10-01
+250,42,SMA042,Small,Northwest Territories,Yellowknife,Teller,Ruby,Lee,2017-09-09
+251,42,SMA042,Small,Northwest Territories,Yellowknife,Teller,Liam,Johnson,2015-03-01
+252,42,SMA042,Small,Northwest Territories,Yellowknife,Teller,Zara,Roberts,2024-06-01
+253,43,SMA043,Small,British Columbia,Surrey,Manager,Hannah,Clark,2023-02-24
+254,43,SMA043,Small,British Columbia,Surrey,Advisor,Daniel,Gonzalez,2022-06-17
+255,43,SMA043,Small,British Columbia,Surrey,Advisor,Mila,Hughes,2022-09-08
+256,43,SMA043,Small,British Columbia,Surrey,Teller,Sienna,Davis,2023-05-15
+257,43,SMA043,Small,British Columbia,Surrey,Teller,Aaliyah,Campbell,2015-08-28
+258,43,SMA043,Small,British Columbia,Surrey,Teller,Lucas,Diaz,2016-08-23
+259,44,SMA044,Small,New Brunswick,Fredericton,Manager,Victoria,Lee,2016-03-09
+260,44,SMA044,Small,New Brunswick,Fredericton,Advisor,Sienna,Walker,2021-10-17
+261,44,SMA044,Small,New Brunswick,Fredericton,Advisor,Sophia,Fisher,2023-10-14
+262,44,SMA044,Small,New Brunswick,Fredericton,Teller,Ethan,Johnson,2023-12-28
+263,44,SMA044,Small,New Brunswick,Fredericton,Teller,Noah,Diaz,2022-04-14
+264,44,SMA044,Small,New Brunswick,Fredericton,Teller,William,Fisher,2021-07-24
+265,45,SMA045,Small,Quebec,Laval,Manager,Victoria,Sanchez,2020-03-22
+266,45,SMA045,Small,Quebec,Laval,Advisor,Charlotte,Foster,2016-02-03
+267,45,SMA045,Small,Quebec,Laval,Advisor,Henry,Hughes,2020-03-18
+268,45,SMA045,Small,Quebec,Laval,Teller,Chloe,Xu,2016-07-12
+269,45,SMA045,Small,Quebec,Laval,Teller,Colin,Diaz,2015-05-20
+270,45,SMA045,Small,Quebec,Laval,Teller,Thomas,Young,2016-10-17
+271,46,SMA046,Small,Alberta,Edmonton,Manager,Olivia,Hughes,2020-09-12
+272,46,SMA046,Small,Alberta,Edmonton,Advisor,Grace,Turner,2024-04-26
+273,46,SMA046,Small,Alberta,Edmonton,Advisor,Henry,Campbell,2024-11-27
+274,46,SMA046,Small,Alberta,Edmonton,Teller,Dylan,Turner,2015-03-09
+275,46,SMA046,Small,Alberta,Edmonton,Teller,Dylan,Vargas,2020-06-01
+276,46,SMA046,Small,Alberta,Edmonton,Teller,Liam,Lee,2024-11-13
+277,47,SMA047,Small,Quebec,Quebec City,Manager,Emma,James,2018-07-14
+278,47,SMA047,Small,Quebec,Quebec City,Advisor,Jack,Xu,2017-06-10
+279,47,SMA047,Small,Quebec,Quebec City,Advisor,Victoria,Garcia,2015-03-06
+280,47,SMA047,Small,Quebec,Quebec City,Teller,Sienna,Edwards,2016-05-15
+281,47,SMA047,Small,Quebec,Quebec City,Teller,Colin,Diaz,2022-10-15
+282,47,SMA047,Small,Quebec,Quebec City,Teller,Amelia,Turner,2018-09-04
+283,48,SMA048,Small,Saskatchewan,Saskatoon,Manager,Sophia,Harris,2023-11-10
+284,48,SMA048,Small,Saskatchewan,Saskatoon,Advisor,Benjamin,Quinn,2021-10-02
+285,48,SMA048,Small,Saskatchewan,Saskatoon,Advisor,Aiden,Patel,2019-04-25
+286,48,SMA048,Small,Saskatchewan,Saskatoon,Teller,Hannah,Sanchez,2019-06-04
+287,48,SMA048,Small,Saskatchewan,Saskatoon,Teller,Aiden,Harris,2021-03-05
+288,48,SMA048,Small,Saskatchewan,Saskatoon,Teller,Ella,Khan,2018-09-18
+289,49,SMA049,Small,Northwest Territories,Yellowknife,Manager,Lucas,Davis,2021-01-15
+290,49,SMA049,Small,Northwest Territories,Yellowknife,Advisor,Daniel,Walker,2024-07-19
+291,49,SMA049,Small,Northwest Territories,Yellowknife,Advisor,Lucas,Clark,2019-02-13
+292,49,SMA049,Small,Northwest Territories,Yellowknife,Teller,Ava,Walker,2017-10-15
+293,49,SMA049,Small,Northwest Territories,Yellowknife,Teller,Dylan,Zhang,2016-07-28
+294,49,SMA049,Small,Northwest Territories,Yellowknife,Teller,Ethan,Roberts,2021-10-13
+295,50,SMA050,Small,Newfoundland and Labrador,St. John's,Manager,Thomas,Xu,2018-06-25
+296,50,SMA050,Small,Newfoundland and Labrador,St. John's,Advisor,Jasmine,Foster,2023-11-04
+297,50,SMA050,Small,Newfoundland and Labrador,St. John's,Advisor,Nora,Irwin,2018-06-12
+298,50,SMA050,Small,Newfoundland and Labrador,St. John's,Teller,Aaliyah,Lee,2018-02-05
+299,50,SMA050,Small,Newfoundland and Labrador,St. John's,Teller,Parker,Owen,2017-10-05
+300,50,SMA050,Small,Newfoundland and Labrador,St. John's,Teller,Aaliyah,Foster,2017-11-16
+301,51,SMA051,Small,New Brunswick,Saint John,Manager,Faith,Walker,2020-03-15
+302,51,SMA051,Small,New Brunswick,Saint John,Advisor,Daniel,Gonzalez,2022-11-10
+303,51,SMA051,Small,New Brunswick,Saint John,Advisor,Ruby,Edwards,2020-09-03
+304,51,SMA051,Small,New Brunswick,Saint John,Teller,Thomas,Fisher,2022-01-02
+305,51,SMA051,Small,New Brunswick,Saint John,Teller,Mason,Underwood,2016-11-28
+306,51,SMA051,Small,New Brunswick,Saint John,Teller,Emma,Irwin,2021-08-19
+307,52,SMA052,Small,Newfoundland and Labrador,St. John's,Manager,Theo,Owen,2020-10-16
+308,52,SMA052,Small,Newfoundland and Labrador,St. John's,Advisor,Lily,Lee,2015-08-04
+309,52,SMA052,Small,Newfoundland and Labrador,St. John's,Advisor,William,Garcia,2023-11-06
+310,52,SMA052,Small,Newfoundland and Labrador,St. John's,Teller,Benjamin,Roberts,2022-08-17
+311,52,SMA052,Small,Newfoundland and Labrador,St. John's,Teller,Nora,Mitchell,2020-06-10
+312,52,SMA052,Small,Newfoundland and Labrador,St. John's,Teller,Ella,Clark,2020-11-20
+313,53,SMA053,Small,Ontario,Markham,Manager,William,Hughes,2023-11-13
+314,53,SMA053,Small,Ontario,Markham,Advisor,Sophia,Sanchez,2024-03-11
+315,53,SMA053,Small,Ontario,Markham,Advisor,Emma,Lee,2020-05-21
+316,53,SMA053,Small,Ontario,Markham,Teller,Dylan,Bennett,2017-10-23
+317,53,SMA053,Small,Ontario,Markham,Teller,Emma,Vargas,2023-07-21
+318,53,SMA053,Small,Ontario,Markham,Teller,William,Kim,2023-02-21
+319,54,SMA054,Small,Northwest Territories,Yellowknife,Manager,Mason,Campbell,2020-05-06
+320,54,SMA054,Small,Northwest Territories,Yellowknife,Advisor,Noah,Xu,2022-04-08
+321,54,SMA054,Small,Northwest Territories,Yellowknife,Advisor,Hannah,Lee,2016-05-28
+322,54,SMA054,Small,Northwest Territories,Yellowknife,Teller,Ethan,Irwin,2023-12-17
+323,54,SMA054,Small,Northwest Territories,Yellowknife,Teller,Benjamin,Xu,2024-03-20
+324,54,SMA054,Small,Northwest Territories,Yellowknife,Teller,Ella,Lee,2017-03-27
+325,55,SMA055,Small,Nunavut,Iqaluit,Manager,Benjamin,Clark,2020-11-24
+326,55,SMA055,Small,Nunavut,Iqaluit,Advisor,Owen,Evans,2024-05-25
+327,55,SMA055,Small,Nunavut,Iqaluit,Advisor,Harper,Quinn,2023-04-10
+328,55,SMA055,Small,Nunavut,Iqaluit,Teller,Charlotte,Owen,2020-11-19
+329,55,SMA055,Small,Nunavut,Iqaluit,Teller,Harper,Fisher,2019-07-17
+330,55,SMA055,Small,Nunavut,Iqaluit,Teller,Nora,Clark,2017-04-26
+331,56,SMA056,Small,Prince Edward Island,Charlottetown,Manager,Chloe,Gonzalez,2020-09-04
+332,56,SMA056,Small,Prince Edward Island,Charlottetown,Advisor,Brooke,James,2016-05-03
+333,56,SMA056,Small,Prince Edward Island,Charlottetown,Advisor,Jasmine,Turner,2022-09-05
+334,56,SMA056,Small,Prince Edward Island,Charlottetown,Teller,Henry,Garcia,2018-08-12
+335,56,SMA056,Small,Prince Edward Island,Charlottetown,Teller,Ava,Clark,2015-07-17
+336,56,SMA056,Small,Prince Edward Island,Charlottetown,Teller,Mason,Roberts,2021-02-12
+337,57,SMA057,Small,Alberta,Calgary,Manager,Ethan,Xu,2017-03-02
+338,57,SMA057,Small,Alberta,Calgary,Advisor,Sophia,Gonzalez,2017-12-16
+339,57,SMA057,Small,Alberta,Calgary,Advisor,Harper,Brown,2016-01-09
+340,57,SMA057,Small,Alberta,Calgary,Teller,Noah,Lee,2023-12-20
+341,57,SMA057,Small,Alberta,Calgary,Teller,Nora,Diaz,2016-05-08
+342,57,SMA057,Small,Alberta,Calgary,Teller,Thomas,Johnson,2015-04-14
+343,58,SMA058,Small,Northwest Territories,Yellowknife,Manager,Grace,Harris,2024-09-01
+344,58,SMA058,Small,Northwest Territories,Yellowknife,Advisor,Aaron,Irwin,2024-04-23
+345,58,SMA058,Small,Northwest Territories,Yellowknife,Advisor,Isaac,Underwood,2021-01-20
+346,58,SMA058,Small,Northwest Territories,Yellowknife,Teller,Zara,Roberts,2024-07-06
+347,58,SMA058,Small,Northwest Territories,Yellowknife,Teller,Colin,Garcia,2023-06-03
+348,58,SMA058,Small,Northwest Territories,Yellowknife,Teller,Nora,Khan,2023-09-18
+349,59,SMA059,Small,Ontario,Brampton,Manager,Benjamin,Adams,2020-05-24
+350,59,SMA059,Small,Ontario,Brampton,Advisor,Ava,Young,2016-06-08
+351,59,SMA059,Small,Ontario,Brampton,Advisor,Colin,Hughes,2024-12-25
+352,59,SMA059,Small,Ontario,Brampton,Teller,William,Kim,2015-06-18
+353,59,SMA059,Small,Ontario,Brampton,Teller,William,Nguyen,2022-12-16
+354,59,SMA059,Small,Ontario,Brampton,Teller,Aaron,Nguyen,2017-02-23
+355,60,SMA060,Small,Yukon,Whitehorse,Manager,Sophia,Owen,2015-04-02
+356,60,SMA060,Small,Yukon,Whitehorse,Advisor,Victoria,Vargas,2023-07-27
+357,60,SMA060,Small,Yukon,Whitehorse,Advisor,Sam,Gonzalez,2019-01-25
+358,60,SMA060,Small,Yukon,Whitehorse,Teller,Aaliyah,Owen,2019-06-28
+359,60,SMA060,Small,Yukon,Whitehorse,Teller,Chloe,Xu,2019-02-26
+360,60,SMA060,Small,Yukon,Whitehorse,Teller,Mason,Diaz,2021-12-15
+361,61,SMA061,Small,Nova Scotia,Dartmouth,Manager,Leo,Harris,2020-09-09
+362,61,SMA061,Small,Nova Scotia,Dartmouth,Advisor,Emma,Diaz,2016-07-20
+363,61,SMA061,Small,Nova Scotia,Dartmouth,Advisor,Liam,Khan,2019-06-04
+364,61,SMA061,Small,Nova Scotia,Dartmouth,Teller,Emma,Walker,2019-05-15
+365,61,SMA061,Small,Nova Scotia,Dartmouth,Teller,Julian,Diaz,2017-12-15
+366,61,SMA061,Small,Nova Scotia,Dartmouth,Teller,Zara,Evans,2015-12-28
+367,62,SMA062,Small,Saskatchewan,Prince Albert,Manager,Ruby,Edwards,2016-11-21
+368,62,SMA062,Small,Saskatchewan,Prince Albert,Advisor,Lucas,Zhang,2023-12-22
+369,62,SMA062,Small,Saskatchewan,Prince Albert,Advisor,Jasmine,Campbell,2017-10-22
+370,62,SMA062,Small,Saskatchewan,Prince Albert,Teller,Harper,Davis,2017-02-08
+371,62,SMA062,Small,Saskatchewan,Prince Albert,Teller,Aaliyah,Zhang,2020-07-19
+372,62,SMA062,Small,Saskatchewan,Prince Albert,Teller,Benjamin,Lee,2022-06-12
+373,63,SMA063,Small,New Brunswick,Fredericton,Manager,Nora,Zhang,2021-06-21
+374,63,SMA063,Small,New Brunswick,Fredericton,Advisor,Ruby,Roberts,2016-01-24
+375,63,SMA063,Small,New Brunswick,Fredericton,Advisor,Liam,Harris,2023-07-18
+376,63,SMA063,Small,New Brunswick,Fredericton,Teller,Grace,Sanchez,2019-12-15
+377,63,SMA063,Small,New Brunswick,Fredericton,Teller,Noah,Underwood,2022-04-04
+378,63,SMA063,Small,New Brunswick,Fredericton,Teller,Hannah,Foster,2022-03-23
+379,64,SMA064,Small,New Brunswick,Fredericton,Manager,Colin,Young,2016-09-18
+380,64,SMA064,Small,New Brunswick,Fredericton,Advisor,Sophia,Vargas,2017-12-23
+381,64,SMA064,Small,New Brunswick,Fredericton,Advisor,Dylan,Nguyen,2020-09-08
+382,64,SMA064,Small,New Brunswick,Fredericton,Teller,Grace,Owen,2017-04-26
+383,64,SMA064,Small,New Brunswick,Fredericton,Teller,Leo,Campbell,2020-09-19
+384,64,SMA064,Small,New Brunswick,Fredericton,Teller,Mason,Fisher,2023-03-20
+385,65,SMA065,Small,Quebec,Montreal,Manager,Lucas,Gonzalez,2023-07-25
+386,65,SMA065,Small,Quebec,Montreal,Advisor,Amelia,Foster,2017-06-21
+387,65,SMA065,Small,Quebec,Montreal,Advisor,Daniel,Evans,2022-11-17
+388,65,SMA065,Small,Quebec,Montreal,Teller,Zara,Kim,2023-11-19
+389,65,SMA065,Small,Quebec,Montreal,Teller,Liam,Kim,2021-09-28
+390,65,SMA065,Small,Quebec,Montreal,Teller,Chloe,Johnson,2023-03-10
+391,66,SMA066,Small,British Columbia,Victoria,Manager,Brooke,Quinn,2020-09-10
+392,66,SMA066,Small,British Columbia,Victoria,Advisor,Emma,Sanchez,2018-11-18
+393,66,SMA066,Small,British Columbia,Victoria,Advisor,Ruby,Kim,2019-10-18
+394,66,SMA066,Small,British Columbia,Victoria,Teller,Emma,Irwin,2017-10-19
+395,66,SMA066,Small,British Columbia,Victoria,Teller,Isaac,Mitchell,2024-12-20
+396,66,SMA066,Small,British Columbia,Victoria,Teller,William,Davis,2015-02-02
+397,67,SMA067,Small,Northwest Territories,Yellowknife,Manager,Theo,Clark,2024-11-01
+398,67,SMA067,Small,Northwest Territories,Yellowknife,Advisor,Leo,Khan,2019-11-10
+399,67,SMA067,Small,Northwest Territories,Yellowknife,Advisor,Charlotte,Roberts,2021-05-15
+400,67,SMA067,Small,Northwest Territories,Yellowknife,Teller,Daniel,Edwards,2017-08-14
+401,67,SMA067,Small,Northwest Territories,Yellowknife,Teller,Charlotte,Fisher,2018-06-20
+402,67,SMA067,Small,Northwest Territories,Yellowknife,Teller,Isaac,Walker,2020-12-28
+403,68,SMA068,Small,Saskatchewan,Saskatoon,Manager,Mason,Irwin,2023-02-11
+404,68,SMA068,Small,Saskatchewan,Saskatoon,Advisor,Owen,Fisher,2016-05-15
+405,68,SMA068,Small,Saskatchewan,Saskatoon,Advisor,Owen,Lee,2016-01-10
+406,68,SMA068,Small,Saskatchewan,Saskatoon,Teller,Ella,Clark,2018-03-27
+407,68,SMA068,Small,Saskatchewan,Saskatoon,Teller,Victoria,Walker,2018-03-16
+408,68,SMA068,Small,Saskatchewan,Saskatoon,Teller,Lily,Fisher,2022-05-16
+409,69,SMA069,Small,Ontario,Ottawa,Manager,Lily,Fisher,2018-04-19
+410,69,SMA069,Small,Ontario,Ottawa,Advisor,Zara,Edwards,2015-05-16
+411,69,SMA069,Small,Ontario,Ottawa,Advisor,Julian,Gonzalez,2019-09-01
+412,69,SMA069,Small,Ontario,Ottawa,Teller,Ethan,Diaz,2017-05-24
+413,69,SMA069,Small,Ontario,Ottawa,Teller,Mason,Bennett,2020-01-13
+414,69,SMA069,Small,Ontario,Ottawa,Teller,Chloe,Owen,2020-09-10
+415,70,SMA070,Small,Quebec,Gatineau,Manager,Harper,Turner,2024-11-20
+416,70,SMA070,Small,Quebec,Gatineau,Advisor,Grace,Kim,2016-07-12
+417,70,SMA070,Small,Quebec,Gatineau,Advisor,William,Zhang,2017-04-20
+418,70,SMA070,Small,Quebec,Gatineau,Teller,Lily,Bennett,2023-01-02
+419,70,SMA070,Small,Quebec,Gatineau,Teller,Benjamin,Kim,2020-08-17
+420,70,SMA070,Small,Quebec,Gatineau,Teller,Jack,Lee,2024-09-05
+421,71,SMA071,Small,Saskatchewan,Prince Albert,Manager,Jasmine,Bennett,2024-12-27
+422,71,SMA071,Small,Saskatchewan,Prince Albert,Advisor,Thomas,Xu,2023-09-18
+423,71,SMA071,Small,Saskatchewan,Prince Albert,Advisor,Leo,Vargas,2022-01-12
+424,71,SMA071,Small,Saskatchewan,Prince Albert,Teller,William,Johnson,2021-10-10
+425,71,SMA071,Small,Saskatchewan,Prince Albert,Teller,Dylan,Campbell,2024-08-09
+426,71,SMA071,Small,Saskatchewan,Prince Albert,Teller,Aaliyah,Quinn,2015-10-16
+427,72,SMA072,Small,British Columbia,Richmond,Manager,Isaac,Roberts,2015-10-23
+428,72,SMA072,Small,British Columbia,Richmond,Advisor,Grace,Owen,2015-08-11
+429,72,SMA072,Small,British Columbia,Richmond,Advisor,Amelia,Lee,2021-12-07
+430,72,SMA072,Small,British Columbia,Richmond,Teller,Amelia,Irwin,2024-08-28
+431,72,SMA072,Small,British Columbia,Richmond,Teller,Chloe,Kim,2023-04-18
+432,72,SMA072,Small,British Columbia,Richmond,Teller,Victoria,Gonzalez,2023-07-11
+433,73,SMA073,Small,British Columbia,Burnaby,Manager,Sam,Young,2019-10-16
+434,73,SMA073,Small,British Columbia,Burnaby,Advisor,Mia,Roberts,2019-09-10
+435,73,SMA073,Small,British Columbia,Burnaby,Advisor,Olivia,Vargas,2019-12-07
+436,73,SMA073,Small,British Columbia,Burnaby,Teller,Dylan,Harris,2020-08-12
+437,73,SMA073,Small,British Columbia,Burnaby,Teller,Aria,Turner,2019-02-19
+438,73,SMA073,Small,British Columbia,Burnaby,Teller,Faith,Khan,2021-07-27
+439,74,SMA074,Small,Saskatchewan,Regina,Manager,Benjamin,Underwood,2016-06-15
+440,74,SMA074,Small,Saskatchewan,Regina,Advisor,Aaliyah,Sanchez,2022-04-07
+441,74,SMA074,Small,Saskatchewan,Regina,Advisor,Sam,Turner,2023-12-09
+442,74,SMA074,Small,Saskatchewan,Regina,Teller,Hannah,Hughes,2024-12-19
+443,74,SMA074,Small,Saskatchewan,Regina,Teller,Owen,Roberts,2015-11-17
+444,74,SMA074,Small,Saskatchewan,Regina,Teller,Olivia,Quinn,2015-02-14
+445,75,SMA075,Small,Saskatchewan,Prince Albert,Manager,Ethan,Kim,2015-09-06
+446,75,SMA075,Small,Saskatchewan,Prince Albert,Advisor,Amelia,Gonzalez,2022-11-07
+447,75,SMA075,Small,Saskatchewan,Prince Albert,Advisor,Sophia,Walker,2019-11-02
+448,75,SMA075,Small,Saskatchewan,Prince Albert,Teller,Emma,Quinn,2023-12-24
+449,75,SMA075,Small,Saskatchewan,Prince Albert,Teller,Benjamin,Nguyen,2021-03-02
+450,75,SMA075,Small,Saskatchewan,Prince Albert,Teller,Lucas,Harris,2017-12-28
+451,76,SMA076,Small,Manitoba,Winnipeg,Manager,Thomas,Hughes,2020-05-15
+452,76,SMA076,Small,Manitoba,Winnipeg,Advisor,Aaliyah,Khan,2023-08-05
+453,76,SMA076,Small,Manitoba,Winnipeg,Advisor,Lily,Fisher,2019-04-26
+454,76,SMA076,Small,Manitoba,Winnipeg,Teller,Grace,Xu,2017-12-15
+455,76,SMA076,Small,Manitoba,Winnipeg,Teller,Aaliyah,Sanchez,2017-01-24
+456,76,SMA076,Small,Manitoba,Winnipeg,Teller,William,Underwood,2024-11-25
+457,77,SMA077,Small,Alberta,Edmonton,Manager,Henry,Irwin,2020-02-13
+458,77,SMA077,Small,Alberta,Edmonton,Advisor,Colin,Hughes,2017-03-16
+459,77,SMA077,Small,Alberta,Edmonton,Advisor,Victoria,Roberts,2015-05-13
+460,77,SMA077,Small,Alberta,Edmonton,Teller,Owen,Evans,2019-06-10
+461,77,SMA077,Small,Alberta,Edmonton,Teller,Mila,Brown,2019-11-12
+462,77,SMA077,Small,Alberta,Edmonton,Teller,Dylan,Roberts,2015-11-04
+463,78,SMA078,Small,New Brunswick,Moncton,Manager,Lucas,Irwin,2019-12-04
+464,78,SMA078,Small,New Brunswick,Moncton,Advisor,Aaron,Underwood,2020-10-08
+465,78,SMA078,Small,New Brunswick,Moncton,Advisor,Olivia,Kim,2022-03-15
+466,78,SMA078,Small,New Brunswick,Moncton,Teller,Julian,Zhang,2021-12-18
+467,78,SMA078,Small,New Brunswick,Moncton,Teller,Charlotte,Khan,2018-04-22
+468,78,SMA078,Small,New Brunswick,Moncton,Teller,Julian,Garcia,2023-08-17
+469,79,SMA079,Small,Nunavut,Iqaluit,Manager,Theo,Johnson,2015-09-17
+470,79,SMA079,Small,Nunavut,Iqaluit,Advisor,Mia,Khan,2017-03-11
+471,79,SMA079,Small,Nunavut,Iqaluit,Advisor,Nora,Evans,2016-11-07
+472,79,SMA079,Small,Nunavut,Iqaluit,Teller,Brooke,Harris,2016-09-15
+473,79,SMA079,Small,Nunavut,Iqaluit,Teller,Chloe,Fisher,2017-09-14
+474,79,SMA079,Small,Nunavut,Iqaluit,Teller,Jack,Edwards,2023-08-22
+475,80,SMA080,Small,Yukon,Whitehorse,Manager,Lucas,Sanchez,2015-12-07
+476,80,SMA080,Small,Yukon,Whitehorse,Advisor,Mila,Foster,2015-07-12
+477,80,SMA080,Small,Yukon,Whitehorse,Advisor,Dylan,Foster,2023-01-03
+478,80,SMA080,Small,Yukon,Whitehorse,Teller,Charlotte,Davis,2019-07-06
+479,80,SMA080,Small,Yukon,Whitehorse,Teller,Hannah,Clark,2020-07-15
+480,80,SMA080,Small,Yukon,Whitehorse,Teller,Ella,Adams,2016-11-22
+481,81,SMA081,Small,Newfoundland and Labrador,St. John's,Manager,Grace,Nguyen,2023-07-17
+482,81,SMA081,Small,Newfoundland and Labrador,St. John's,Advisor,Hannah,Quinn,2015-01-10
+483,81,SMA081,Small,Newfoundland and Labrador,St. John's,Advisor,Jack,Khan,2021-09-13
+484,81,SMA081,Small,Newfoundland and Labrador,St. John's,Teller,Olivia,Roberts,2022-06-05
+485,81,SMA081,Small,Newfoundland and Labrador,St. John's,Teller,Ruby,Owen,2016-01-26
+486,81,SMA081,Small,Newfoundland and Labrador,St. John's,Teller,Colin,Clark,2024-01-08
+487,82,SMA082,Small,Alberta,Calgary,Manager,Julian,Davis,2022-10-22
+488,82,SMA082,Small,Alberta,Calgary,Advisor,Brooke,Edwards,2018-12-02
+489,82,SMA082,Small,Alberta,Calgary,Advisor,Lucas,Evans,2018-09-07
+490,82,SMA082,Small,Alberta,Calgary,Teller,Chloe,Kim,2023-05-08
+491,82,SMA082,Small,Alberta,Calgary,Teller,Theo,Walker,2024-10-25
+492,82,SMA082,Small,Alberta,Calgary,Teller,Faith,Walker,2018-05-05
+493,83,SMA083,Small,Northwest Territories,Yellowknife,Manager,Thomas,Turner,2015-09-19
+494,83,SMA083,Small,Northwest Territories,Yellowknife,Advisor,Liam,Diaz,2023-08-02
+495,83,SMA083,Small,Northwest Territories,Yellowknife,Advisor,Zara,Adams,2023-06-23
+496,83,SMA083,Small,Northwest Territories,Yellowknife,Teller,Amelia,Clark,2017-05-13
+497,83,SMA083,Small,Northwest Territories,Yellowknife,Teller,Liam,Khan,2022-04-28
+498,83,SMA083,Small,Northwest Territories,Yellowknife,Teller,Olivia,Vargas,2017-08-02
+499,84,SMA084,Small,Newfoundland and Labrador,Corner Brook,Manager,Aria,James,2017-07-08
+500,84,SMA084,Small,Newfoundland and Labrador,Corner Brook,Advisor,Parker,Patel,2020-11-03
+501,84,SMA084,Small,Newfoundland and Labrador,Corner Brook,Advisor,Harper,Zhang,2016-09-24
+502,84,SMA084,Small,Newfoundland and Labrador,Corner Brook,Teller,Mia,Edwards,2019-07-22
+503,84,SMA084,Small,Newfoundland and Labrador,Corner Brook,Teller,Julian,Davis,2016-04-26
+504,84,SMA084,Small,Newfoundland and Labrador,Corner Brook,Teller,Mila,Patel,2022-04-28
+505,85,SMA085,Small,Saskatchewan,Saskatoon,Manager,Noah,Owen,2016-12-25
+506,85,SMA085,Small,Saskatchewan,Saskatoon,Advisor,Charlotte,Roberts,2024-12-07
+507,85,SMA085,Small,Saskatchewan,Saskatoon,Advisor,Lucas,Roberts,2023-06-25
+508,85,SMA085,Small,Saskatchewan,Saskatoon,Teller,Sophia,Adams,2022-09-21
+509,85,SMA085,Small,Saskatchewan,Saskatoon,Teller,Zara,Vargas,2019-06-17
+510,85,SMA085,Small,Saskatchewan,Saskatoon,Teller,Leo,Fisher,2016-12-16
+511,86,SMA086,Small,Yukon,Whitehorse,Manager,Mason,Walker,2021-01-19
+512,86,SMA086,Small,Yukon,Whitehorse,Advisor,Olivia,Lee,2015-05-18
+513,86,SMA086,Small,Yukon,Whitehorse,Advisor,Mila,Clark,2019-03-07
+514,86,SMA086,Small,Yukon,Whitehorse,Teller,William,Quinn,2021-10-27
+515,86,SMA086,Small,Yukon,Whitehorse,Teller,Owen,Harris,2023-11-22
+516,86,SMA086,Small,Yukon,Whitehorse,Teller,William,Sanchez,2022-12-21
+517,87,SMA087,Small,Nunavut,Iqaluit,Manager,Jasmine,Young,2017-03-24
+518,87,SMA087,Small,Nunavut,Iqaluit,Advisor,Sam,Harris,2017-09-21
+519,87,SMA087,Small,Nunavut,Iqaluit,Advisor,Chloe,James,2015-02-27
+520,87,SMA087,Small,Nunavut,Iqaluit,Teller,Colin,Edwards,2015-07-05
+521,87,SMA087,Small,Nunavut,Iqaluit,Teller,Aaron,Quinn,2016-12-05
+522,87,SMA087,Small,Nunavut,Iqaluit,Teller,Aiden,Patel,2023-08-12
+523,88,SMA088,Small,Ontario,Kingston,Manager,Colin,Harris,2015-01-18
+524,88,SMA088,Small,Ontario,Kingston,Advisor,Aria,Clark,2015-01-17
+525,88,SMA088,Small,Ontario,Kingston,Advisor,Ruby,Khan,2019-01-17
+526,88,SMA088,Small,Ontario,Kingston,Teller,Dylan,Diaz,2017-02-04
+527,88,SMA088,Small,Ontario,Kingston,Teller,Nora,Lee,2018-04-20
+528,88,SMA088,Small,Ontario,Kingston,Teller,Nora,Sanchez,2020-05-26
+529,89,SMA089,Small,Nova Scotia,Halifax,Manager,Lucas,Fisher,2024-04-23
+530,89,SMA089,Small,Nova Scotia,Halifax,Advisor,Olivia,Vargas,2016-11-28
+531,89,SMA089,Small,Nova Scotia,Halifax,Advisor,Aaliyah,Davis,2016-07-13
+532,89,SMA089,Small,Nova Scotia,Halifax,Teller,Ella,Gonzalez,2015-11-01
+533,89,SMA089,Small,Nova Scotia,Halifax,Teller,Dylan,Mitchell,2016-08-28
+534,89,SMA089,Small,Nova Scotia,Halifax,Teller,Henry,Xu,2024-02-17
+535,90,SMA090,Small,Ontario,London,Manager,Dylan,Gonzalez,2019-01-03
+536,90,SMA090,Small,Ontario,London,Advisor,Faith,Turner,2023-10-22
+537,90,SMA090,Small,Ontario,London,Advisor,Benjamin,Nguyen,2020-01-07
+538,90,SMA090,Small,Ontario,London,Teller,Mila,Lee,2021-02-10
+539,90,SMA090,Small,Ontario,London,Teller,Jasmine,Roberts,2024-07-22
+540,90,SMA090,Small,Ontario,London,Teller,Sam,Xu,2021-12-05
+541,91,SMA091,Small,Yukon,Whitehorse,Manager,Zara,Edwards,2016-07-08
+542,91,SMA091,Small,Yukon,Whitehorse,Advisor,Daniel,Xu,2024-10-20
+543,91,SMA091,Small,Yukon,Whitehorse,Advisor,Lucas,Walker,2015-11-09
+544,91,SMA091,Small,Yukon,Whitehorse,Teller,Harper,Harris,2018-06-18
+545,91,SMA091,Small,Yukon,Whitehorse,Teller,Ella,Diaz,2017-11-19
+546,91,SMA091,Small,Yukon,Whitehorse,Teller,Colin,Adams,2016-10-10
+547,92,SMA092,Small,Yukon,Whitehorse,Manager,Emma,Turner,2017-07-23
+548,92,SMA092,Small,Yukon,Whitehorse,Advisor,Aaron,Lee,2021-06-12
+549,92,SMA092,Small,Yukon,Whitehorse,Advisor,Ethan,Garcia,2015-05-15
+550,92,SMA092,Small,Yukon,Whitehorse,Teller,Mason,Turner,2016-03-03
+551,92,SMA092,Small,Yukon,Whitehorse,Teller,Liam,Diaz,2022-09-18
+552,92,SMA092,Small,Yukon,Whitehorse,Teller,Lily,Clark,2016-01-03
+553,93,SMA093,Small,Saskatchewan,Prince Albert,Manager,Julian,Walker,2021-01-10
+554,93,SMA093,Small,Saskatchewan,Prince Albert,Advisor,Amelia,Adams,2016-12-18
+555,93,SMA093,Small,Saskatchewan,Prince Albert,Advisor,Owen,James,2017-11-13
+556,93,SMA093,Small,Saskatchewan,Prince Albert,Teller,Jasmine,Kim,2019-05-09
+557,93,SMA093,Small,Saskatchewan,Prince Albert,Teller,Leo,Lee,2016-03-14
+558,93,SMA093,Small,Saskatchewan,Prince Albert,Teller,Ruby,Clark,2019-08-26
+559,94,SMA094,Small,Quebec,Laval,Manager,Owen,Harris,2024-10-07
+560,94,SMA094,Small,Quebec,Laval,Advisor,Jack,Hughes,2017-05-01
+561,94,SMA094,Small,Quebec,Laval,Advisor,Lucas,Xu,2024-07-26
+562,94,SMA094,Small,Quebec,Laval,Teller,William,Evans,2020-07-27
+563,94,SMA094,Small,Quebec,Laval,Teller,Aaliyah,Kim,2019-06-20
+564,94,SMA094,Small,Quebec,Laval,Teller,Dylan,Owen,2022-06-06
+565,95,SMA095,Small,Nova Scotia,Dartmouth,Manager,Dylan,Harris,2024-04-11
+566,95,SMA095,Small,Nova Scotia,Dartmouth,Advisor,Ella,Turner,2021-06-04
+567,95,SMA095,Small,Nova Scotia,Dartmouth,Advisor,Theo,Owen,2024-09-06
+568,95,SMA095,Small,Nova Scotia,Dartmouth,Teller,Faith,Campbell,2022-12-07
+569,95,SMA095,Small,Nova Scotia,Dartmouth,Teller,Harper,Underwood,2016-07-22
+570,95,SMA095,Small,Nova Scotia,Dartmouth,Teller,Leo,Kim,2019-04-09
+571,96,SMA096,Small,Northwest Territories,Yellowknife,Manager,Ella,Foster,2022-10-16
+572,96,SMA096,Small,Northwest Territories,Yellowknife,Advisor,Mila,Bennett,2023-09-28
+573,96,SMA096,Small,Northwest Territories,Yellowknife,Advisor,Dylan,Clark,2023-01-26
+574,96,SMA096,Small,Northwest Territories,Yellowknife,Teller,Mason,Khan,2024-11-03
+575,96,SMA096,Small,Northwest Territories,Yellowknife,Teller,Ethan,Roberts,2020-03-21
+576,96,SMA096,Small,Northwest Territories,Yellowknife,Teller,Sienna,Davis,2024-11-22
+577,97,SMA097,Small,Northwest Territories,Yellowknife,Manager,Henry,Hughes,2015-02-09
+578,97,SMA097,Small,Northwest Territories,Yellowknife,Advisor,Olivia,Irwin,2023-09-19
+579,97,SMA097,Small,Northwest Territories,Yellowknife,Advisor,Dylan,Quinn,2022-06-13
+580,97,SMA097,Small,Northwest Territories,Yellowknife,Teller,Jack,Irwin,2017-06-01
+581,97,SMA097,Small,Northwest Territories,Yellowknife,Teller,Charlotte,Hughes,2019-07-03
+582,97,SMA097,Small,Northwest Territories,Yellowknife,Teller,Grace,Lee,2020-05-11
+583,98,SMA098,Small,New Brunswick,Fredericton,Manager,Charlotte,Young,2022-02-15
+584,98,SMA098,Small,New Brunswick,Fredericton,Advisor,Dylan,Evans,2020-02-10
+585,98,SMA098,Small,New Brunswick,Fredericton,Advisor,Benjamin,Johnson,2015-06-21
+586,98,SMA098,Small,New Brunswick,Fredericton,Teller,Ethan,Mitchell,2018-09-06
+587,98,SMA098,Small,New Brunswick,Fredericton,Teller,Aria,Mitchell,2020-09-14
+588,98,SMA098,Small,New Brunswick,Fredericton,Teller,Jack,Quinn,2021-11-06
+589,99,SMA099,Small,British Columbia,Kelowna,Manager,Lucas,Campbell,2024-04-15
+590,99,SMA099,Small,British Columbia,Kelowna,Advisor,Mila,Diaz,2021-01-23
+591,99,SMA099,Small,British Columbia,Kelowna,Advisor,Noah,Patel,2019-12-26
+592,99,SMA099,Small,British Columbia,Kelowna,Teller,Daniel,Hughes,2023-03-12
+593,99,SMA099,Small,British Columbia,Kelowna,Teller,Victoria,Owen,2022-02-09
+594,99,SMA099,Small,British Columbia,Kelowna,Teller,Colin,Harris,2023-11-11
+595,100,SMA100,Small,Prince Edward Island,Summerside,Manager,Mila,Johnson,2020-06-28
+596,100,SMA100,Small,Prince Edward Island,Summerside,Advisor,Jack,Nguyen,2019-10-19
+597,100,SMA100,Small,Prince Edward Island,Summerside,Advisor,Emma,Kim,2020-02-08
+598,100,SMA100,Small,Prince Edward Island,Summerside,Teller,Thomas,Johnson,2017-06-23
+599,100,SMA100,Small,Prince Edward Island,Summerside,Teller,Isaac,Irwin,2021-07-20
+600,100,SMA100,Small,Prince Edward Island,Summerside,Teller,Hannah,Adams,2021-03-16
+601,101,MED101,Medium,Northwest Territories,Yellowknife,Manager,Leo,Underwood,2017-03-11
+602,101,MED101,Medium,Northwest Territories,Yellowknife,Advisor,Harper,Edwards,2020-01-16
+603,101,MED101,Medium,Northwest Territories,Yellowknife,Advisor,Hannah,Owen,2021-09-17
+604,101,MED101,Medium,Northwest Territories,Yellowknife,Advisor,Aaliyah,Harris,2021-11-16
+605,101,MED101,Medium,Northwest Territories,Yellowknife,Teller,Amelia,Evans,2022-03-03
+606,101,MED101,Medium,Northwest Territories,Yellowknife,Teller,Theo,Campbell,2018-05-02
+607,101,MED101,Medium,Northwest Territories,Yellowknife,Teller,Ruby,Quinn,2023-05-06
+608,101,MED101,Medium,Northwest Territories,Yellowknife,Teller,Jack,Harris,2023-09-04
+609,102,MED102,Medium,Prince Edward Island,Charlottetown,Manager,Sam,Zhang,2023-01-25
+610,102,MED102,Medium,Prince Edward Island,Charlottetown,Advisor,Harper,Khan,2018-07-04
+611,102,MED102,Medium,Prince Edward Island,Charlottetown,Advisor,Aaliyah,Roberts,2019-01-15
+612,102,MED102,Medium,Prince Edward Island,Charlottetown,Advisor,Parker,Young,2016-08-28
+613,102,MED102,Medium,Prince Edward Island,Charlottetown,Teller,Grace,Roberts,2018-12-19
+614,102,MED102,Medium,Prince Edward Island,Charlottetown,Teller,Dylan,Young,2024-11-14
+615,102,MED102,Medium,Prince Edward Island,Charlottetown,Teller,Jasmine,Kim,2018-04-26
+616,102,MED102,Medium,Prince Edward Island,Charlottetown,Teller,Chloe,Young,2023-05-20
+617,103,MED103,Medium,Newfoundland and Labrador,St. John's,Manager,Brooke,Underwood,2019-10-09
+618,103,MED103,Medium,Newfoundland and Labrador,St. John's,Advisor,Lily,Hughes,2017-07-02
+619,103,MED103,Medium,Newfoundland and Labrador,St. John's,Advisor,Ruby,Kim,2017-04-05
+620,103,MED103,Medium,Newfoundland and Labrador,St. John's,Advisor,Brooke,Walker,2018-11-13
+621,103,MED103,Medium,Newfoundland and Labrador,St. John's,Teller,Leo,Lee,2024-11-09
+622,103,MED103,Medium,Newfoundland and Labrador,St. John's,Teller,Aaron,Clark,2021-08-03
+623,103,MED103,Medium,Newfoundland and Labrador,St. John's,Teller,Aaron,Garcia,2021-09-24
+624,103,MED103,Medium,Newfoundland and Labrador,St. John's,Teller,Ruby,Zhang,2022-08-11
+625,104,MED104,Medium,Prince Edward Island,Charlottetown,Manager,Jack,Young,2016-09-13
+626,104,MED104,Medium,Prince Edward Island,Charlottetown,Advisor,Noah,Diaz,2018-08-09
+627,104,MED104,Medium,Prince Edward Island,Charlottetown,Advisor,Victoria,Underwood,2020-09-19
+628,104,MED104,Medium,Prince Edward Island,Charlottetown,Advisor,Hannah,Harris,2020-11-25
+629,104,MED104,Medium,Prince Edward Island,Charlottetown,Teller,Chloe,Davis,2016-11-26
+630,104,MED104,Medium,Prince Edward Island,Charlottetown,Teller,Jack,Campbell,2016-03-15
+631,104,MED104,Medium,Prince Edward Island,Charlottetown,Teller,Jack,Brown,2021-04-23
+632,104,MED104,Medium,Prince Edward Island,Charlottetown,Teller,Hannah,Vargas,2017-05-03
+633,105,MED105,Medium,Northwest Territories,Yellowknife,Manager,Emma,Zhang,2017-01-13
+634,105,MED105,Medium,Northwest Territories,Yellowknife,Advisor,Aaron,Vargas,2018-07-21
+635,105,MED105,Medium,Northwest Territories,Yellowknife,Advisor,Emma,Hughes,2015-04-16
+636,105,MED105,Medium,Northwest Territories,Yellowknife,Advisor,Daniel,Kim,2024-04-17
+637,105,MED105,Medium,Northwest Territories,Yellowknife,Teller,Faith,Evans,2015-01-23
+638,105,MED105,Medium,Northwest Territories,Yellowknife,Teller,William,Johnson,2021-12-05
+639,105,MED105,Medium,Northwest Territories,Yellowknife,Teller,Charlotte,Foster,2018-07-03
+640,105,MED105,Medium,Northwest Territories,Yellowknife,Teller,Ethan,Hughes,2020-06-10
+641,106,MED106,Medium,British Columbia,Burnaby,Manager,Aaliyah,Lee,2016-09-19
+642,106,MED106,Medium,British Columbia,Burnaby,Advisor,Aiden,Mitchell,2022-06-24
+643,106,MED106,Medium,British Columbia,Burnaby,Advisor,Noah,Lee,2021-10-22
+644,106,MED106,Medium,British Columbia,Burnaby,Advisor,Harper,Patel,2016-02-05
+645,106,MED106,Medium,British Columbia,Burnaby,Teller,Grace,Adams,2020-07-11
+646,106,MED106,Medium,British Columbia,Burnaby,Teller,Hannah,Roberts,2019-11-03
+647,106,MED106,Medium,British Columbia,Burnaby,Teller,Owen,Underwood,2015-11-10
+648,106,MED106,Medium,British Columbia,Burnaby,Teller,Noah,James,2024-09-07
+649,107,MED107,Medium,Nunavut,Iqaluit,Manager,Aaliyah,Edwards,2018-08-13
+650,107,MED107,Medium,Nunavut,Iqaluit,Advisor,Grace,Roberts,2022-11-20
+651,107,MED107,Medium,Nunavut,Iqaluit,Advisor,Daniel,James,2015-06-11
+652,107,MED107,Medium,Nunavut,Iqaluit,Advisor,Hannah,Adams,2024-07-12
+653,107,MED107,Medium,Nunavut,Iqaluit,Teller,Sam,Nguyen,2022-02-01
+654,107,MED107,Medium,Nunavut,Iqaluit,Teller,Mila,Foster,2015-05-07
+655,107,MED107,Medium,Nunavut,Iqaluit,Teller,Benjamin,Edwards,2021-09-10
+656,107,MED107,Medium,Nunavut,Iqaluit,Teller,Aaron,Irwin,2021-07-23
+657,108,MED108,Medium,Nova Scotia,Halifax,Manager,Ruby,Garcia,2019-02-17
+658,108,MED108,Medium,Nova Scotia,Halifax,Advisor,Noah,Lee,2023-06-13
+659,108,MED108,Medium,Nova Scotia,Halifax,Advisor,Mila,Foster,2019-12-14
+660,108,MED108,Medium,Nova Scotia,Halifax,Advisor,Owen,Edwards,2018-02-14
+661,108,MED108,Medium,Nova Scotia,Halifax,Teller,Grace,Fisher,2024-10-02
+662,108,MED108,Medium,Nova Scotia,Halifax,Teller,Thomas,Nguyen,2016-01-23
+663,108,MED108,Medium,Nova Scotia,Halifax,Teller,Hannah,Brown,2017-08-12
+664,108,MED108,Medium,Nova Scotia,Halifax,Teller,Nora,James,2019-03-12
+665,109,MED109,Medium,British Columbia,Kelowna,Manager,Grace,Campbell,2020-07-09
+666,109,MED109,Medium,British Columbia,Kelowna,Advisor,Nora,Foster,2019-12-19
+667,109,MED109,Medium,British Columbia,Kelowna,Advisor,Aaron,Foster,2022-08-17
+668,109,MED109,Medium,British Columbia,Kelowna,Advisor,Mason,Edwards,2022-10-06
+669,109,MED109,Medium,British Columbia,Kelowna,Teller,Mason,Mitchell,2019-02-19
+670,109,MED109,Medium,British Columbia,Kelowna,Teller,Faith,Johnson,2018-12-17
+671,109,MED109,Medium,British Columbia,Kelowna,Teller,Aiden,Davis,2015-04-02
+672,109,MED109,Medium,British Columbia,Kelowna,Teller,Charlotte,Zhang,2021-03-06
+673,110,MED110,Medium,Ontario,Windsor,Manager,Olivia,Walker,2018-07-24
+674,110,MED110,Medium,Ontario,Windsor,Advisor,Victoria,Turner,2016-10-12
+675,110,MED110,Medium,Ontario,Windsor,Advisor,Grace,Irwin,2015-03-08
+676,110,MED110,Medium,Ontario,Windsor,Advisor,Nora,Davis,2021-02-15
+677,110,MED110,Medium,Ontario,Windsor,Teller,Sophia,Vargas,2020-02-18
+678,110,MED110,Medium,Ontario,Windsor,Teller,Jack,Brown,2020-04-10
+679,110,MED110,Medium,Ontario,Windsor,Teller,Theo,Vargas,2024-04-15
+680,110,MED110,Medium,Ontario,Windsor,Teller,Mason,Harris,2018-12-18
+681,111,MED111,Medium,Yukon,Whitehorse,Manager,Aiden,Clark,2015-04-18
+682,111,MED111,Medium,Yukon,Whitehorse,Advisor,Zara,Brown,2020-01-25
+683,111,MED111,Medium,Yukon,Whitehorse,Advisor,Colin,Adams,2019-02-07
+684,111,MED111,Medium,Yukon,Whitehorse,Advisor,Nora,Roberts,2021-08-02
+685,111,MED111,Medium,Yukon,Whitehorse,Teller,Isaac,Turner,2016-01-08
+686,111,MED111,Medium,Yukon,Whitehorse,Teller,Nora,Clark,2020-08-24
+687,111,MED111,Medium,Yukon,Whitehorse,Teller,Emma,Hughes,2023-03-21
+688,111,MED111,Medium,Yukon,Whitehorse,Teller,Lucas,Foster,2024-10-02
+689,112,MED112,Medium,Nova Scotia,Sydney,Manager,Owen,Underwood,2019-06-26
+690,112,MED112,Medium,Nova Scotia,Sydney,Advisor,Lucas,Walker,2020-08-09
+691,112,MED112,Medium,Nova Scotia,Sydney,Advisor,Olivia,Foster,2018-03-25
+692,112,MED112,Medium,Nova Scotia,Sydney,Advisor,Mila,Hughes,2017-02-06
+693,112,MED112,Medium,Nova Scotia,Sydney,Teller,Harper,Fisher,2020-07-04
+694,112,MED112,Medium,Nova Scotia,Sydney,Teller,Sam,Young,2018-08-10
+695,112,MED112,Medium,Nova Scotia,Sydney,Teller,Jack,Sanchez,2016-02-06
+696,112,MED112,Medium,Nova Scotia,Sydney,Teller,Faith,Vargas,2024-01-07
+697,113,MED113,Medium,Saskatchewan,Regina,Manager,Brooke,Roberts,2020-07-17
+698,113,MED113,Medium,Saskatchewan,Regina,Advisor,Chloe,Vargas,2019-03-01
+699,113,MED113,Medium,Saskatchewan,Regina,Advisor,Lucas,Evans,2023-12-18
+700,113,MED113,Medium,Saskatchewan,Regina,Advisor,Owen,Hughes,2022-02-26
+701,113,MED113,Medium,Saskatchewan,Regina,Teller,Hannah,Johnson,2015-01-27
+702,113,MED113,Medium,Saskatchewan,Regina,Teller,Olivia,Kim,2018-07-12
+703,113,MED113,Medium,Saskatchewan,Regina,Teller,Faith,Garcia,2024-10-09
+704,113,MED113,Medium,Saskatchewan,Regina,Teller,Daniel,Campbell,2016-04-21
+705,114,MED114,Medium,New Brunswick,Fredericton,Manager,William,Johnson,2015-08-02
+706,114,MED114,Medium,New Brunswick,Fredericton,Advisor,Jasmine,Diaz,2021-08-01
+707,114,MED114,Medium,New Brunswick,Fredericton,Advisor,Ella,Diaz,2017-06-07
+708,114,MED114,Medium,New Brunswick,Fredericton,Advisor,Liam,Turner,2019-08-05
+709,114,MED114,Medium,New Brunswick,Fredericton,Teller,Benjamin,Roberts,2019-08-14
+710,114,MED114,Medium,New Brunswick,Fredericton,Teller,Aria,Gonzalez,2015-02-09
+711,114,MED114,Medium,New Brunswick,Fredericton,Teller,Ella,Kim,2021-04-21
+712,114,MED114,Medium,New Brunswick,Fredericton,Teller,Nora,Roberts,2023-01-13
+713,115,MED115,Medium,Yukon,Whitehorse,Manager,Sam,Harris,2020-10-17
+714,115,MED115,Medium,Yukon,Whitehorse,Advisor,Victoria,Adams,2019-03-01
+715,115,MED115,Medium,Yukon,Whitehorse,Advisor,Victoria,Quinn,2015-05-02
+716,115,MED115,Medium,Yukon,Whitehorse,Advisor,Charlotte,James,2020-10-08
+717,115,MED115,Medium,Yukon,Whitehorse,Teller,Jasmine,Hughes,2018-11-08
+718,115,MED115,Medium,Yukon,Whitehorse,Teller,Ruby,Khan,2015-04-19
+719,115,MED115,Medium,Yukon,Whitehorse,Teller,Ella,Young,2017-03-08
+720,115,MED115,Medium,Yukon,Whitehorse,Teller,Mila,Walker,2020-10-01
+721,116,MED116,Medium,Nunavut,Iqaluit,Manager,Theo,Owen,2022-09-10
+722,116,MED116,Medium,Nunavut,Iqaluit,Advisor,Liam,Harris,2015-02-02
+723,116,MED116,Medium,Nunavut,Iqaluit,Advisor,Olivia,Quinn,2015-09-16
+724,116,MED116,Medium,Nunavut,Iqaluit,Advisor,Aiden,Xu,2024-04-26
+725,116,MED116,Medium,Nunavut,Iqaluit,Teller,Hannah,Xu,2017-06-02
+726,116,MED116,Medium,Nunavut,Iqaluit,Teller,Ava,Lee,2024-12-05
+727,116,MED116,Medium,Nunavut,Iqaluit,Teller,Grace,James,2020-02-12
+728,116,MED116,Medium,Nunavut,Iqaluit,Teller,Brooke,Bennett,2024-02-11
+729,117,MED117,Medium,Manitoba,Brandon,Manager,Jasmine,Diaz,2022-11-11
+730,117,MED117,Medium,Manitoba,Brandon,Advisor,Liam,Young,2018-11-19
+731,117,MED117,Medium,Manitoba,Brandon,Advisor,Liam,Adams,2019-12-23
+732,117,MED117,Medium,Manitoba,Brandon,Advisor,Sophia,Kim,2017-12-01
+733,117,MED117,Medium,Manitoba,Brandon,Teller,Dylan,Bennett,2024-01-06
+734,117,MED117,Medium,Manitoba,Brandon,Teller,Julian,Walker,2024-04-21
+735,117,MED117,Medium,Manitoba,Brandon,Teller,Theo,Hughes,2022-03-11
+736,117,MED117,Medium,Manitoba,Brandon,Teller,Daniel,Roberts,2020-06-06
+737,118,MED118,Medium,Northwest Territories,Yellowknife,Manager,Harper,Brown,2019-04-08
+738,118,MED118,Medium,Northwest Territories,Yellowknife,Advisor,Dylan,Foster,2020-05-26
+739,118,MED118,Medium,Northwest Territories,Yellowknife,Advisor,Ethan,Brown,2015-07-15
+740,118,MED118,Medium,Northwest Territories,Yellowknife,Advisor,Amelia,Mitchell,2021-08-13
+741,118,MED118,Medium,Northwest Territories,Yellowknife,Teller,Zara,Khan,2021-02-27
+742,118,MED118,Medium,Northwest Territories,Yellowknife,Teller,Charlotte,Quinn,2017-08-03
+743,118,MED118,Medium,Northwest Territories,Yellowknife,Teller,Benjamin,Underwood,2015-06-09
+744,118,MED118,Medium,Northwest Territories,Yellowknife,Teller,Ethan,Foster,2020-03-13
+745,119,MED119,Medium,British Columbia,Kelowna,Manager,Aria,Garcia,2020-10-20
+746,119,MED119,Medium,British Columbia,Kelowna,Advisor,Charlotte,Campbell,2021-11-06
+747,119,MED119,Medium,British Columbia,Kelowna,Advisor,Julian,Diaz,2017-01-04
+748,119,MED119,Medium,British Columbia,Kelowna,Advisor,William,Patel,2018-07-23
+749,119,MED119,Medium,British Columbia,Kelowna,Teller,Aria,Khan,2019-11-10
+750,119,MED119,Medium,British Columbia,Kelowna,Teller,Thomas,Roberts,2016-01-13
+751,119,MED119,Medium,British Columbia,Kelowna,Teller,Theo,Harris,2017-01-12
+752,119,MED119,Medium,British Columbia,Kelowna,Teller,Aiden,Diaz,2016-05-27
+753,120,MED120,Medium,Northwest Territories,Yellowknife,Manager,Ethan,Campbell,2018-03-21
+754,120,MED120,Medium,Northwest Territories,Yellowknife,Advisor,Sophia,Garcia,2022-02-10
+755,120,MED120,Medium,Northwest Territories,Yellowknife,Advisor,Lucas,Gonzalez,2022-11-09
+756,120,MED120,Medium,Northwest Territories,Yellowknife,Advisor,Emma,Khan,2021-03-12
+757,120,MED120,Medium,Northwest Territories,Yellowknife,Teller,Ella,Zhang,2017-08-02
+758,120,MED120,Medium,Northwest Territories,Yellowknife,Teller,Parker,Evans,2022-05-08
+759,120,MED120,Medium,Northwest Territories,Yellowknife,Teller,Ruby,Edwards,2017-12-22
+760,120,MED120,Medium,Northwest Territories,Yellowknife,Teller,Ethan,Garcia,2020-09-14
+761,121,MED121,Medium,Yukon,Whitehorse,Manager,Ella,James,2021-09-22
+762,121,MED121,Medium,Yukon,Whitehorse,Advisor,Charlotte,Roberts,2022-05-03
+763,121,MED121,Medium,Yukon,Whitehorse,Advisor,Lucas,Davis,2023-10-17
+764,121,MED121,Medium,Yukon,Whitehorse,Advisor,Theo,Lee,2016-08-06
+765,121,MED121,Medium,Yukon,Whitehorse,Teller,Jasmine,Patel,2018-03-02
+766,121,MED121,Medium,Yukon,Whitehorse,Teller,Henry,Garcia,2021-04-27
+767,121,MED121,Medium,Yukon,Whitehorse,Teller,Aaron,Lee,2024-05-11
+768,121,MED121,Medium,Yukon,Whitehorse,Teller,Daniel,Garcia,2021-09-13
+769,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Manager,Nora,Fisher,2015-12-20
+770,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Mila,James,2021-02-14
+771,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Isaac,Lee,2024-10-19
+772,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Ethan,Hughes,2024-02-26
+773,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Teller,Sophia,Khan,2020-07-09
+774,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Teller,Ella,Harris,2024-10-16
+775,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Teller,Benjamin,Nguyen,2019-07-05
+776,122,MED122,Medium,Newfoundland and Labrador,Corner Brook,Teller,Sienna,Bennett,2015-07-11
+777,123,MED123,Medium,Nunavut,Iqaluit,Manager,Charlotte,Turner,2020-01-11
+778,123,MED123,Medium,Nunavut,Iqaluit,Advisor,Thomas,Vargas,2019-08-28
+779,123,MED123,Medium,Nunavut,Iqaluit,Advisor,Dylan,Hughes,2018-03-10
+780,123,MED123,Medium,Nunavut,Iqaluit,Advisor,Harper,Walker,2019-12-14
+781,123,MED123,Medium,Nunavut,Iqaluit,Teller,Julian,Garcia,2018-08-07
+782,123,MED123,Medium,Nunavut,Iqaluit,Teller,Amelia,Harris,2023-06-27
+783,123,MED123,Medium,Nunavut,Iqaluit,Teller,Chloe,Irwin,2017-02-10
+784,123,MED123,Medium,Nunavut,Iqaluit,Teller,Brooke,Irwin,2021-03-25
+785,124,MED124,Medium,Newfoundland and Labrador,St. John's,Manager,Mia,Owen,2015-04-02
+786,124,MED124,Medium,Newfoundland and Labrador,St. John's,Advisor,Jack,Edwards,2020-12-07
+787,124,MED124,Medium,Newfoundland and Labrador,St. John's,Advisor,Ruby,Zhang,2022-09-13
+788,124,MED124,Medium,Newfoundland and Labrador,St. John's,Advisor,Aaron,Johnson,2015-04-12
+789,124,MED124,Medium,Newfoundland and Labrador,St. John's,Teller,Leo,Evans,2017-08-19
+790,124,MED124,Medium,Newfoundland and Labrador,St. John's,Teller,Aria,Young,2020-03-27
+791,124,MED124,Medium,Newfoundland and Labrador,St. John's,Teller,Parker,Garcia,2019-01-13
+792,124,MED124,Medium,Newfoundland and Labrador,St. John's,Teller,Chloe,Mitchell,2024-04-28
+793,125,MED125,Medium,Alberta,Edmonton,Manager,Ruby,Clark,2023-01-28
+794,125,MED125,Medium,Alberta,Edmonton,Advisor,Faith,Brown,2022-03-21
+795,125,MED125,Medium,Alberta,Edmonton,Advisor,Liam,Brown,2018-05-20
+796,125,MED125,Medium,Alberta,Edmonton,Advisor,Thomas,Turner,2021-07-28
+797,125,MED125,Medium,Alberta,Edmonton,Teller,Zara,Fisher,2019-04-15
+798,125,MED125,Medium,Alberta,Edmonton,Teller,Thomas,James,2024-07-19
+799,125,MED125,Medium,Alberta,Edmonton,Teller,Ethan,Brown,2023-11-27
+800,125,MED125,Medium,Alberta,Edmonton,Teller,Mason,Underwood,2019-11-04
+801,126,MED126,Medium,New Brunswick,Fredericton,Manager,Ruby,Walker,2019-05-21
+802,126,MED126,Medium,New Brunswick,Fredericton,Advisor,Brooke,Vargas,2018-03-17
+803,126,MED126,Medium,New Brunswick,Fredericton,Advisor,Owen,Edwards,2024-07-22
+804,126,MED126,Medium,New Brunswick,Fredericton,Advisor,Victoria,Kim,2015-11-16
+805,126,MED126,Medium,New Brunswick,Fredericton,Teller,Sophia,Sanchez,2021-07-13
+806,126,MED126,Medium,New Brunswick,Fredericton,Teller,Benjamin,Owen,2020-12-23
+807,126,MED126,Medium,New Brunswick,Fredericton,Teller,Olivia,Khan,2022-11-12
+808,126,MED126,Medium,New Brunswick,Fredericton,Teller,Lily,Vargas,2017-11-18
+809,127,MED127,Medium,British Columbia,Surrey,Manager,Charlotte,Kim,2019-12-26
+810,127,MED127,Medium,British Columbia,Surrey,Advisor,Aria,Nguyen,2020-11-03
+811,127,MED127,Medium,British Columbia,Surrey,Advisor,Olivia,Young,2018-12-28
+812,127,MED127,Medium,British Columbia,Surrey,Advisor,Thomas,Clark,2020-06-09
+813,127,MED127,Medium,British Columbia,Surrey,Teller,Mila,Underwood,2022-02-16
+814,127,MED127,Medium,British Columbia,Surrey,Teller,Chloe,Foster,2022-04-17
+815,127,MED127,Medium,British Columbia,Surrey,Teller,Grace,Adams,2023-05-14
+816,127,MED127,Medium,British Columbia,Surrey,Teller,Chloe,Lee,2017-04-11
+817,128,MED128,Medium,Nova Scotia,Sydney,Manager,Isaac,Walker,2017-02-16
+818,128,MED128,Medium,Nova Scotia,Sydney,Advisor,William,Nguyen,2020-11-02
+819,128,MED128,Medium,Nova Scotia,Sydney,Advisor,Aiden,Evans,2019-04-25
+820,128,MED128,Medium,Nova Scotia,Sydney,Advisor,Jasmine,Mitchell,2022-02-05
+821,128,MED128,Medium,Nova Scotia,Sydney,Teller,Sienna,Diaz,2021-07-14
+822,128,MED128,Medium,Nova Scotia,Sydney,Teller,Charlotte,Adams,2015-01-18
+823,128,MED128,Medium,Nova Scotia,Sydney,Teller,Mia,Zhang,2015-06-25
+824,128,MED128,Medium,Nova Scotia,Sydney,Teller,Nora,Owen,2015-11-01
+825,129,MED129,Medium,Northwest Territories,Yellowknife,Manager,Dylan,Young,2019-03-04
+826,129,MED129,Medium,Northwest Territories,Yellowknife,Advisor,Ella,Irwin,2024-05-06
+827,129,MED129,Medium,Northwest Territories,Yellowknife,Advisor,Daniel,Davis,2019-05-15
+828,129,MED129,Medium,Northwest Territories,Yellowknife,Advisor,Nora,James,2020-07-22
+829,129,MED129,Medium,Northwest Territories,Yellowknife,Teller,Hannah,Xu,2022-06-25
+830,129,MED129,Medium,Northwest Territories,Yellowknife,Teller,Mia,Mitchell,2021-01-08
+831,129,MED129,Medium,Northwest Territories,Yellowknife,Teller,Olivia,Kim,2018-12-01
+832,129,MED129,Medium,Northwest Territories,Yellowknife,Teller,Mila,Irwin,2017-02-12
+833,130,MED130,Medium,Nunavut,Iqaluit,Manager,Aaron,Sanchez,2023-10-02
+834,130,MED130,Medium,Nunavut,Iqaluit,Advisor,Julian,Edwards,2016-11-27
+835,130,MED130,Medium,Nunavut,Iqaluit,Advisor,Ava,Edwards,2016-07-15
+836,130,MED130,Medium,Nunavut,Iqaluit,Advisor,Ella,Johnson,2023-05-16
+837,130,MED130,Medium,Nunavut,Iqaluit,Teller,Dylan,Lee,2018-12-22
+838,130,MED130,Medium,Nunavut,Iqaluit,Teller,Aaron,Brown,2019-07-22
+839,130,MED130,Medium,Nunavut,Iqaluit,Teller,Ethan,James,2019-10-20
+840,130,MED130,Medium,Nunavut,Iqaluit,Teller,Dylan,Kim,2021-02-17
+841,131,MED131,Medium,Nunavut,Iqaluit,Manager,Grace,Hughes,2022-04-20
+842,131,MED131,Medium,Nunavut,Iqaluit,Advisor,Mia,Sanchez,2023-04-12
+843,131,MED131,Medium,Nunavut,Iqaluit,Advisor,Brooke,Clark,2019-03-02
+844,131,MED131,Medium,Nunavut,Iqaluit,Advisor,Aria,Harris,2018-12-16
+845,131,MED131,Medium,Nunavut,Iqaluit,Teller,William,Roberts,2015-01-22
+846,131,MED131,Medium,Nunavut,Iqaluit,Teller,Emma,Johnson,2024-11-16
+847,131,MED131,Medium,Nunavut,Iqaluit,Teller,Isaac,Garcia,2023-02-24
+848,131,MED131,Medium,Nunavut,Iqaluit,Teller,Ethan,Sanchez,2018-08-10
+849,132,MED132,Medium,Manitoba,Brandon,Manager,Ethan,Nguyen,2015-05-12
+850,132,MED132,Medium,Manitoba,Brandon,Advisor,Faith,Walker,2021-12-04
+851,132,MED132,Medium,Manitoba,Brandon,Advisor,Ethan,Davis,2015-03-22
+852,132,MED132,Medium,Manitoba,Brandon,Advisor,Aaliyah,Mitchell,2020-06-15
+853,132,MED132,Medium,Manitoba,Brandon,Teller,Sienna,Turner,2016-06-27
+854,132,MED132,Medium,Manitoba,Brandon,Teller,William,Nguyen,2016-07-13
+855,132,MED132,Medium,Manitoba,Brandon,Teller,Jack,Turner,2021-12-28
+856,132,MED132,Medium,Manitoba,Brandon,Teller,Charlotte,Clark,2017-02-05
+857,133,MED133,Medium,Nunavut,Iqaluit,Manager,Ethan,Clark,2024-08-26
+858,133,MED133,Medium,Nunavut,Iqaluit,Advisor,Theo,Evans,2017-10-13
+859,133,MED133,Medium,Nunavut,Iqaluit,Advisor,Zara,Campbell,2017-08-16
+860,133,MED133,Medium,Nunavut,Iqaluit,Advisor,Grace,Clark,2022-01-03
+861,133,MED133,Medium,Nunavut,Iqaluit,Teller,Parker,Walker,2015-12-28
+862,133,MED133,Medium,Nunavut,Iqaluit,Teller,Faith,James,2024-12-19
+863,133,MED133,Medium,Nunavut,Iqaluit,Teller,Olivia,Xu,2023-09-23
+864,133,MED133,Medium,Nunavut,Iqaluit,Teller,Dylan,Hughes,2021-11-24
+865,134,MED134,Medium,Alberta,Lethbridge,Manager,Colin,Adams,2017-09-20
+866,134,MED134,Medium,Alberta,Lethbridge,Advisor,Chloe,Brown,2017-09-28
+867,134,MED134,Medium,Alberta,Lethbridge,Advisor,Charlotte,Harris,2017-02-25
+868,134,MED134,Medium,Alberta,Lethbridge,Advisor,Leo,Walker,2018-06-09
+869,134,MED134,Medium,Alberta,Lethbridge,Teller,Chloe,Irwin,2018-09-21
+870,134,MED134,Medium,Alberta,Lethbridge,Teller,Ella,Bennett,2018-02-15
+871,134,MED134,Medium,Alberta,Lethbridge,Teller,Harper,Evans,2016-08-15
+872,134,MED134,Medium,Alberta,Lethbridge,Teller,Victoria,Johnson,2022-12-21
+873,135,MED135,Medium,Ontario,Ottawa,Manager,Amelia,Davis,2023-09-01
+874,135,MED135,Medium,Ontario,Ottawa,Advisor,Emma,Vargas,2023-09-07
+875,135,MED135,Medium,Ontario,Ottawa,Advisor,Aaliyah,Fisher,2020-06-27
+876,135,MED135,Medium,Ontario,Ottawa,Advisor,Chloe,Quinn,2022-06-18
+877,135,MED135,Medium,Ontario,Ottawa,Teller,Sienna,Gonzalez,2020-12-15
+878,135,MED135,Medium,Ontario,Ottawa,Teller,Grace,Hughes,2018-01-11
+879,135,MED135,Medium,Ontario,Ottawa,Teller,Zara,Underwood,2023-09-12
+880,135,MED135,Medium,Ontario,Ottawa,Teller,Dylan,Hughes,2015-03-16
+881,136,MED136,Medium,British Columbia,Abbotsford,Manager,Ethan,Sanchez,2024-04-07
+882,136,MED136,Medium,British Columbia,Abbotsford,Advisor,Grace,Bennett,2018-08-27
+883,136,MED136,Medium,British Columbia,Abbotsford,Advisor,Mia,Xu,2016-07-02
+884,136,MED136,Medium,British Columbia,Abbotsford,Advisor,Aaron,Johnson,2022-08-22
+885,136,MED136,Medium,British Columbia,Abbotsford,Teller,Mila,Irwin,2017-08-01
+886,136,MED136,Medium,British Columbia,Abbotsford,Teller,Nora,Edwards,2023-07-27
+887,136,MED136,Medium,British Columbia,Abbotsford,Teller,Mila,Gonzalez,2023-03-23
+888,136,MED136,Medium,British Columbia,Abbotsford,Teller,Mila,Nguyen,2017-02-13
+889,137,MED137,Medium,Northwest Territories,Yellowknife,Manager,Ella,Clark,2024-12-25
+890,137,MED137,Medium,Northwest Territories,Yellowknife,Advisor,Owen,Turner,2021-06-10
+891,137,MED137,Medium,Northwest Territories,Yellowknife,Advisor,Harper,Kim,2017-07-20
+892,137,MED137,Medium,Northwest Territories,Yellowknife,Advisor,Dylan,Irwin,2019-12-18
+893,137,MED137,Medium,Northwest Territories,Yellowknife,Teller,Victoria,Patel,2018-04-20
+894,137,MED137,Medium,Northwest Territories,Yellowknife,Teller,Brooke,Underwood,2020-11-05
+895,137,MED137,Medium,Northwest Territories,Yellowknife,Teller,Brooke,Nguyen,2023-09-23
+896,137,MED137,Medium,Northwest Territories,Yellowknife,Teller,Aaron,Walker,2016-06-18
+897,138,MED138,Medium,New Brunswick,Saint John,Manager,Faith,Khan,2019-07-26
+898,138,MED138,Medium,New Brunswick,Saint John,Advisor,Aiden,James,2016-01-13
+899,138,MED138,Medium,New Brunswick,Saint John,Advisor,Isaac,Edwards,2015-04-09
+900,138,MED138,Medium,New Brunswick,Saint John,Advisor,Jasmine,Underwood,2019-03-27
+901,138,MED138,Medium,New Brunswick,Saint John,Teller,Chloe,Underwood,2018-09-02
+902,138,MED138,Medium,New Brunswick,Saint John,Teller,Zara,Evans,2016-10-28
+903,138,MED138,Medium,New Brunswick,Saint John,Teller,Faith,Quinn,2023-07-08
+904,138,MED138,Medium,New Brunswick,Saint John,Teller,Lily,Underwood,2015-07-13
+905,139,MED139,Medium,Nova Scotia,Sydney,Manager,Aria,Edwards,2015-12-09
+906,139,MED139,Medium,Nova Scotia,Sydney,Advisor,Mia,Evans,2018-11-23
+907,139,MED139,Medium,Nova Scotia,Sydney,Advisor,Brooke,Zhang,2024-09-24
+908,139,MED139,Medium,Nova Scotia,Sydney,Advisor,Julian,Owen,2018-05-15
+909,139,MED139,Medium,Nova Scotia,Sydney,Teller,Liam,Foster,2017-03-24
+910,139,MED139,Medium,Nova Scotia,Sydney,Teller,Lily,Johnson,2021-01-14
+911,139,MED139,Medium,Nova Scotia,Sydney,Teller,Ruby,Sanchez,2017-03-19
+912,139,MED139,Medium,Nova Scotia,Sydney,Teller,Parker,Brown,2020-08-23
+913,140,MED140,Medium,British Columbia,Vancouver,Manager,Victoria,Edwards,2024-11-10
+914,140,MED140,Medium,British Columbia,Vancouver,Advisor,Leo,Young,2016-12-11
+915,140,MED140,Medium,British Columbia,Vancouver,Advisor,Nora,Quinn,2017-09-03
+916,140,MED140,Medium,British Columbia,Vancouver,Advisor,Lily,Mitchell,2021-09-18
+917,140,MED140,Medium,British Columbia,Vancouver,Teller,Lucas,Garcia,2020-04-07
+918,140,MED140,Medium,British Columbia,Vancouver,Teller,Colin,Xu,2020-06-10
+919,140,MED140,Medium,British Columbia,Vancouver,Teller,Noah,James,2022-09-27
+920,140,MED140,Medium,British Columbia,Vancouver,Teller,Aaliyah,Brown,2016-11-12
+921,141,MED141,Medium,New Brunswick,Fredericton,Manager,Benjamin,Walker,2021-02-13
+922,141,MED141,Medium,New Brunswick,Fredericton,Advisor,Parker,Khan,2019-01-17
+923,141,MED141,Medium,New Brunswick,Fredericton,Advisor,Mason,Irwin,2023-08-16
+924,141,MED141,Medium,New Brunswick,Fredericton,Advisor,Benjamin,Underwood,2018-06-17
+925,141,MED141,Medium,New Brunswick,Fredericton,Teller,Emma,Hughes,2017-09-18
+926,141,MED141,Medium,New Brunswick,Fredericton,Teller,Aiden,Foster,2018-11-21
+927,141,MED141,Medium,New Brunswick,Fredericton,Teller,Noah,Diaz,2016-04-18
+928,141,MED141,Medium,New Brunswick,Fredericton,Teller,Dylan,Diaz,2016-12-22
+929,142,MED142,Medium,British Columbia,Vancouver,Manager,Brooke,Xu,2015-02-03
+930,142,MED142,Medium,British Columbia,Vancouver,Advisor,Chloe,Nguyen,2019-09-03
+931,142,MED142,Medium,British Columbia,Vancouver,Advisor,Theo,Quinn,2019-07-13
+932,142,MED142,Medium,British Columbia,Vancouver,Advisor,Harper,Bennett,2021-06-01
+933,142,MED142,Medium,British Columbia,Vancouver,Teller,Ella,Johnson,2023-01-21
+934,142,MED142,Medium,British Columbia,Vancouver,Teller,Sienna,Foster,2024-01-23
+935,142,MED142,Medium,British Columbia,Vancouver,Teller,Daniel,Young,2023-02-10
+936,142,MED142,Medium,British Columbia,Vancouver,Teller,Faith,Vargas,2024-02-10
+937,143,MED143,Medium,Yukon,Whitehorse,Manager,Lucas,Campbell,2022-03-18
+938,143,MED143,Medium,Yukon,Whitehorse,Advisor,Olivia,Kim,2021-09-10
+939,143,MED143,Medium,Yukon,Whitehorse,Advisor,Aaron,Lee,2019-11-26
+940,143,MED143,Medium,Yukon,Whitehorse,Advisor,Aaliyah,Zhang,2015-09-28
+941,143,MED143,Medium,Yukon,Whitehorse,Teller,Aria,Lee,2016-01-01
+942,143,MED143,Medium,Yukon,Whitehorse,Teller,Theo,Bennett,2023-09-03
+943,143,MED143,Medium,Yukon,Whitehorse,Teller,Thomas,Patel,2020-04-14
+944,143,MED143,Medium,Yukon,Whitehorse,Teller,Aaliyah,Irwin,2017-03-06
+945,144,MED144,Medium,Alberta,Grande Prairie,Manager,Mia,Johnson,2017-11-26
+946,144,MED144,Medium,Alberta,Grande Prairie,Advisor,Theo,Edwards,2023-08-21
+947,144,MED144,Medium,Alberta,Grande Prairie,Advisor,Aria,Foster,2019-11-03
+948,144,MED144,Medium,Alberta,Grande Prairie,Advisor,Parker,Hughes,2018-12-19
+949,144,MED144,Medium,Alberta,Grande Prairie,Teller,Leo,Xu,2020-03-22
+950,144,MED144,Medium,Alberta,Grande Prairie,Teller,Aaliyah,Roberts,2016-05-20
+951,144,MED144,Medium,Alberta,Grande Prairie,Teller,Daniel,Owen,2020-08-15
+952,144,MED144,Medium,Alberta,Grande Prairie,Teller,William,Vargas,2024-03-19
+953,145,MED145,Medium,Prince Edward Island,Summerside,Manager,Henry,Mitchell,2015-06-08
+954,145,MED145,Medium,Prince Edward Island,Summerside,Advisor,Olivia,Diaz,2019-06-05
+955,145,MED145,Medium,Prince Edward Island,Summerside,Advisor,Faith,Xu,2022-08-15
+956,145,MED145,Medium,Prince Edward Island,Summerside,Advisor,Zara,Vargas,2022-09-04
+957,145,MED145,Medium,Prince Edward Island,Summerside,Teller,Liam,Garcia,2019-03-18
+958,145,MED145,Medium,Prince Edward Island,Summerside,Teller,Mia,Sanchez,2016-12-03
+959,145,MED145,Medium,Prince Edward Island,Summerside,Teller,Ava,Irwin,2015-10-19
+960,145,MED145,Medium,Prince Edward Island,Summerside,Teller,Lucas,Patel,2015-09-09
+961,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Manager,Mason,Bennett,2018-10-24
+962,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Sophia,Kim,2022-09-17
+963,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Emma,Bennett,2020-09-01
+964,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Colin,Roberts,2024-11-06
+965,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Teller,Lily,Kim,2022-03-06
+966,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Teller,Theo,Lee,2022-06-02
+967,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Teller,Olivia,Harris,2018-02-09
+968,146,MED146,Medium,Newfoundland and Labrador,Corner Brook,Teller,Mason,Quinn,2015-11-07
+969,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Manager,Charlotte,Fisher,2015-01-21
+970,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Victoria,Hughes,2023-11-27
+971,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Ruby,Sanchez,2024-09-19
+972,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Liam,Adams,2021-06-19
+973,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Teller,Aaliyah,Foster,2023-05-13
+974,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Teller,Olivia,James,2021-06-27
+975,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Teller,Zara,Harris,2022-10-01
+976,147,MED147,Medium,Newfoundland and Labrador,Corner Brook,Teller,Lily,Kim,2022-03-08
+977,148,MED148,Medium,Quebec,Sherbrooke,Manager,Noah,Lee,2017-03-12
+978,148,MED148,Medium,Quebec,Sherbrooke,Advisor,Julian,Johnson,2018-07-26
+979,148,MED148,Medium,Quebec,Sherbrooke,Advisor,William,Johnson,2022-11-16
+980,148,MED148,Medium,Quebec,Sherbrooke,Advisor,Charlotte,Patel,2024-03-21
+981,148,MED148,Medium,Quebec,Sherbrooke,Teller,Amelia,Campbell,2018-01-05
+982,148,MED148,Medium,Quebec,Sherbrooke,Teller,Theo,Mitchell,2017-11-17
+983,148,MED148,Medium,Quebec,Sherbrooke,Teller,Benjamin,Lee,2015-03-09
+984,148,MED148,Medium,Quebec,Sherbrooke,Teller,Liam,James,2021-10-19
+985,149,MED149,Medium,Northwest Territories,Yellowknife,Manager,Emma,Patel,2022-10-16
+986,149,MED149,Medium,Northwest Territories,Yellowknife,Advisor,Charlotte,Mitchell,2018-07-20
+987,149,MED149,Medium,Northwest Territories,Yellowknife,Advisor,Isaac,Nguyen,2024-11-17
+988,149,MED149,Medium,Northwest Territories,Yellowknife,Advisor,Parker,Mitchell,2020-08-20
+989,149,MED149,Medium,Northwest Territories,Yellowknife,Teller,Mila,Foster,2018-07-13
+990,149,MED149,Medium,Northwest Territories,Yellowknife,Teller,Hannah,Hughes,2015-04-17
+991,149,MED149,Medium,Northwest Territories,Yellowknife,Teller,Lily,Clark,2017-10-04
+992,149,MED149,Medium,Northwest Territories,Yellowknife,Teller,Liam,Gonzalez,2024-10-02
+993,150,MED150,Medium,Yukon,Whitehorse,Manager,Charlotte,Kim,2024-09-27
+994,150,MED150,Medium,Yukon,Whitehorse,Advisor,Aiden,Diaz,2023-07-12
+995,150,MED150,Medium,Yukon,Whitehorse,Advisor,Benjamin,James,2021-04-26
+996,150,MED150,Medium,Yukon,Whitehorse,Advisor,Charlotte,Adams,2020-10-26
+997,150,MED150,Medium,Yukon,Whitehorse,Teller,Dylan,Hughes,2021-03-09
+998,150,MED150,Medium,Yukon,Whitehorse,Teller,Charlotte,Quinn,2016-05-20
+999,150,MED150,Medium,Yukon,Whitehorse,Teller,Sam,Clark,2019-04-01
+1000,150,MED150,Medium,Yukon,Whitehorse,Teller,Brooke,Brown,2024-09-04
+1001,151,MED151,Medium,Newfoundland and Labrador,St. John's,Manager,Aaliyah,Patel,2020-07-12
+1002,151,MED151,Medium,Newfoundland and Labrador,St. John's,Advisor,Ethan,Lee,2021-11-19
+1003,151,MED151,Medium,Newfoundland and Labrador,St. John's,Advisor,Parker,Sanchez,2023-07-19
+1004,151,MED151,Medium,Newfoundland and Labrador,St. John's,Advisor,Mason,Turner,2021-04-14
+1005,151,MED151,Medium,Newfoundland and Labrador,St. John's,Teller,Aria,Gonzalez,2017-06-18
+1006,151,MED151,Medium,Newfoundland and Labrador,St. John's,Teller,Aria,Gonzalez,2019-05-19
+1007,151,MED151,Medium,Newfoundland and Labrador,St. John's,Teller,Zara,Bennett,2017-11-04
+1008,151,MED151,Medium,Newfoundland and Labrador,St. John's,Teller,Olivia,Evans,2017-02-07
+1009,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Manager,Aria,Edwards,2017-07-21
+1010,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Aiden,Garcia,2017-08-20
+1011,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Henry,Garcia,2016-05-08
+1012,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Mason,Garcia,2024-01-24
+1013,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Teller,Ella,Bennett,2024-11-17
+1014,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Teller,Sophia,Edwards,2017-11-16
+1015,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Teller,Harper,Brown,2018-11-26
+1016,152,MED152,Medium,Newfoundland and Labrador,Corner Brook,Teller,Nora,Underwood,2018-01-26
+1017,153,MED153,Medium,Prince Edward Island,Charlottetown,Manager,Faith,Davis,2020-04-21
+1018,153,MED153,Medium,Prince Edward Island,Charlottetown,Advisor,Aiden,Mitchell,2016-05-25
+1019,153,MED153,Medium,Prince Edward Island,Charlottetown,Advisor,Lucas,Young,2021-07-19
+1020,153,MED153,Medium,Prince Edward Island,Charlottetown,Advisor,Mia,James,2015-12-23
+1021,153,MED153,Medium,Prince Edward Island,Charlottetown,Teller,Daniel,Garcia,2023-05-24
+1022,153,MED153,Medium,Prince Edward Island,Charlottetown,Teller,Aria,Young,2020-05-08
+1023,153,MED153,Medium,Prince Edward Island,Charlottetown,Teller,Julian,Owen,2022-07-19
+1024,153,MED153,Medium,Prince Edward Island,Charlottetown,Teller,Aiden,Sanchez,2017-07-17
+1025,154,MED154,Medium,Quebec,Sherbrooke,Manager,Lily,Underwood,2020-02-26
+1026,154,MED154,Medium,Quebec,Sherbrooke,Advisor,Lily,Sanchez,2023-10-09
+1027,154,MED154,Medium,Quebec,Sherbrooke,Advisor,Dylan,Evans,2021-10-16
+1028,154,MED154,Medium,Quebec,Sherbrooke,Advisor,Owen,Xu,2022-11-15
+1029,154,MED154,Medium,Quebec,Sherbrooke,Teller,Mila,Campbell,2022-02-09
+1030,154,MED154,Medium,Quebec,Sherbrooke,Teller,Daniel,Adams,2018-11-23
+1031,154,MED154,Medium,Quebec,Sherbrooke,Teller,Olivia,Walker,2021-06-17
+1032,154,MED154,Medium,Quebec,Sherbrooke,Teller,Sam,Brown,2019-04-10
+1033,155,MED155,Medium,Quebec,Gatineau,Manager,Daniel,Nguyen,2022-06-12
+1034,155,MED155,Medium,Quebec,Gatineau,Advisor,Noah,Turner,2017-12-22
+1035,155,MED155,Medium,Quebec,Gatineau,Advisor,Mia,Harris,2018-04-24
+1036,155,MED155,Medium,Quebec,Gatineau,Advisor,Owen,Sanchez,2018-04-07
+1037,155,MED155,Medium,Quebec,Gatineau,Teller,Owen,Young,2017-02-04
+1038,155,MED155,Medium,Quebec,Gatineau,Teller,Emma,Harris,2024-01-25
+1039,155,MED155,Medium,Quebec,Gatineau,Teller,Sam,Davis,2022-06-20
+1040,155,MED155,Medium,Quebec,Gatineau,Teller,Victoria,Harris,2024-05-16
+1041,156,MED156,Medium,British Columbia,Abbotsford,Manager,Ruby,Bennett,2018-10-05
+1042,156,MED156,Medium,British Columbia,Abbotsford,Advisor,Chloe,James,2021-08-18
+1043,156,MED156,Medium,British Columbia,Abbotsford,Advisor,Benjamin,Irwin,2020-07-28
+1044,156,MED156,Medium,British Columbia,Abbotsford,Advisor,Faith,Nguyen,2022-02-23
+1045,156,MED156,Medium,British Columbia,Abbotsford,Teller,Nora,Fisher,2020-12-01
+1046,156,MED156,Medium,British Columbia,Abbotsford,Teller,Aiden,Patel,2021-10-04
+1047,156,MED156,Medium,British Columbia,Abbotsford,Teller,Victoria,Zhang,2024-05-06
+1048,156,MED156,Medium,British Columbia,Abbotsford,Teller,Aria,Sanchez,2018-05-16
+1049,157,MED157,Medium,Prince Edward Island,Summerside,Manager,Liam,Harris,2021-04-14
+1050,157,MED157,Medium,Prince Edward Island,Summerside,Advisor,Dylan,Zhang,2020-07-09
+1051,157,MED157,Medium,Prince Edward Island,Summerside,Advisor,Harper,Nguyen,2024-03-19
+1052,157,MED157,Medium,Prince Edward Island,Summerside,Advisor,Faith,Quinn,2016-12-09
+1053,157,MED157,Medium,Prince Edward Island,Summerside,Teller,Owen,Diaz,2021-04-05
+1054,157,MED157,Medium,Prince Edward Island,Summerside,Teller,Isaac,Gonzalez,2015-03-14
+1055,157,MED157,Medium,Prince Edward Island,Summerside,Teller,Leo,Kim,2023-09-24
+1056,157,MED157,Medium,Prince Edward Island,Summerside,Teller,Victoria,Harris,2019-05-18
+1057,158,MED158,Medium,Prince Edward Island,Charlottetown,Manager,Ethan,Mitchell,2015-04-27
+1058,158,MED158,Medium,Prince Edward Island,Charlottetown,Advisor,Parker,Gonzalez,2016-08-24
+1059,158,MED158,Medium,Prince Edward Island,Charlottetown,Advisor,William,Sanchez,2020-06-18
+1060,158,MED158,Medium,Prince Edward Island,Charlottetown,Advisor,Aria,Sanchez,2020-01-14
+1061,158,MED158,Medium,Prince Edward Island,Charlottetown,Teller,Grace,Young,2024-04-19
+1062,158,MED158,Medium,Prince Edward Island,Charlottetown,Teller,Theo,Khan,2017-05-12
+1063,158,MED158,Medium,Prince Edward Island,Charlottetown,Teller,Victoria,Irwin,2022-12-15
+1064,158,MED158,Medium,Prince Edward Island,Charlottetown,Teller,Emma,Adams,2024-05-15
+1065,159,MED159,Medium,Northwest Territories,Yellowknife,Manager,Aaron,Xu,2021-11-20
+1066,159,MED159,Medium,Northwest Territories,Yellowknife,Advisor,Theo,Bennett,2016-02-06
+1067,159,MED159,Medium,Northwest Territories,Yellowknife,Advisor,William,Quinn,2020-06-21
+1068,159,MED159,Medium,Northwest Territories,Yellowknife,Advisor,Sophia,Turner,2024-11-13
+1069,159,MED159,Medium,Northwest Territories,Yellowknife,Teller,Ruby,Evans,2020-12-19
+1070,159,MED159,Medium,Northwest Territories,Yellowknife,Teller,Nora,Evans,2021-03-06
+1071,159,MED159,Medium,Northwest Territories,Yellowknife,Teller,Ava,Kim,2018-11-09
+1072,159,MED159,Medium,Northwest Territories,Yellowknife,Teller,Dylan,Garcia,2018-03-13
+1073,160,MED160,Medium,Quebec,Montreal,Manager,Charlotte,Edwards,2015-07-17
+1074,160,MED160,Medium,Quebec,Montreal,Advisor,Emma,Hughes,2019-10-05
+1075,160,MED160,Medium,Quebec,Montreal,Advisor,Emma,Adams,2019-04-08
+1076,160,MED160,Medium,Quebec,Montreal,Advisor,Sophia,Evans,2017-03-17
+1077,160,MED160,Medium,Quebec,Montreal,Teller,Jasmine,Campbell,2015-11-12
+1078,160,MED160,Medium,Quebec,Montreal,Teller,Victoria,Gonzalez,2022-09-09
+1079,160,MED160,Medium,Quebec,Montreal,Teller,Aria,Evans,2017-12-18
+1080,160,MED160,Medium,Quebec,Montreal,Teller,Liam,Fisher,2024-07-17
+1081,161,MED161,Medium,Northwest Territories,Yellowknife,Manager,Charlotte,Khan,2018-02-15
+1082,161,MED161,Medium,Northwest Territories,Yellowknife,Advisor,Thomas,Zhang,2021-05-05
+1083,161,MED161,Medium,Northwest Territories,Yellowknife,Advisor,Thomas,Brown,2015-09-27
+1084,161,MED161,Medium,Northwest Territories,Yellowknife,Advisor,Hannah,Young,2019-08-18
+1085,161,MED161,Medium,Northwest Territories,Yellowknife,Teller,Aiden,Harris,2022-05-01
+1086,161,MED161,Medium,Northwest Territories,Yellowknife,Teller,Henry,Underwood,2024-04-26
+1087,161,MED161,Medium,Northwest Territories,Yellowknife,Teller,Aiden,Zhang,2018-07-18
+1088,161,MED161,Medium,Northwest Territories,Yellowknife,Teller,Henry,Bennett,2018-03-23
+1089,162,MED162,Medium,Nunavut,Iqaluit,Manager,Olivia,Sanchez,2016-07-21
+1090,162,MED162,Medium,Nunavut,Iqaluit,Advisor,Owen,James,2024-12-22
+1091,162,MED162,Medium,Nunavut,Iqaluit,Advisor,Ruby,Underwood,2023-05-14
+1092,162,MED162,Medium,Nunavut,Iqaluit,Advisor,Mia,Foster,2017-03-10
+1093,162,MED162,Medium,Nunavut,Iqaluit,Teller,Grace,Fisher,2024-08-09
+1094,162,MED162,Medium,Nunavut,Iqaluit,Teller,Dylan,Harris,2018-06-01
+1095,162,MED162,Medium,Nunavut,Iqaluit,Teller,Isaac,Edwards,2023-01-06
+1096,162,MED162,Medium,Nunavut,Iqaluit,Teller,Ethan,Underwood,2019-03-23
+1097,163,MED163,Medium,New Brunswick,Saint John,Manager,Olivia,Garcia,2017-01-16
+1098,163,MED163,Medium,New Brunswick,Saint John,Advisor,Noah,Xu,2021-05-26
+1099,163,MED163,Medium,New Brunswick,Saint John,Advisor,Leo,Zhang,2022-12-26
+1100,163,MED163,Medium,New Brunswick,Saint John,Advisor,Benjamin,Xu,2016-03-02
+1101,163,MED163,Medium,New Brunswick,Saint John,Teller,Ruby,Bennett,2016-09-16
+1102,163,MED163,Medium,New Brunswick,Saint John,Teller,Liam,Owen,2019-07-27
+1103,163,MED163,Medium,New Brunswick,Saint John,Teller,Aiden,Johnson,2018-07-25
+1104,163,MED163,Medium,New Brunswick,Saint John,Teller,Harper,Roberts,2015-04-15
+1105,164,MED164,Medium,Nunavut,Iqaluit,Manager,Colin,Patel,2022-07-22
+1106,164,MED164,Medium,Nunavut,Iqaluit,Advisor,Thomas,Walker,2017-11-24
+1107,164,MED164,Medium,Nunavut,Iqaluit,Advisor,Benjamin,James,2016-05-16
+1108,164,MED164,Medium,Nunavut,Iqaluit,Advisor,Aaron,Vargas,2018-06-02
+1109,164,MED164,Medium,Nunavut,Iqaluit,Teller,Colin,Patel,2016-04-21
+1110,164,MED164,Medium,Nunavut,Iqaluit,Teller,Henry,Walker,2015-03-26
+1111,164,MED164,Medium,Nunavut,Iqaluit,Teller,Ruby,Johnson,2021-04-01
+1112,164,MED164,Medium,Nunavut,Iqaluit,Teller,Benjamin,Gonzalez,2024-03-12
+1113,165,MED165,Medium,Yukon,Whitehorse,Manager,Jasmine,Harris,2016-11-20
+1114,165,MED165,Medium,Yukon,Whitehorse,Advisor,William,Edwards,2015-06-21
+1115,165,MED165,Medium,Yukon,Whitehorse,Advisor,Isaac,Khan,2016-03-16
+1116,165,MED165,Medium,Yukon,Whitehorse,Advisor,Olivia,Walker,2023-11-25
+1117,165,MED165,Medium,Yukon,Whitehorse,Teller,Zara,Evans,2018-01-23
+1118,165,MED165,Medium,Yukon,Whitehorse,Teller,Ella,Young,2017-05-02
+1119,165,MED165,Medium,Yukon,Whitehorse,Teller,Leo,Evans,2023-05-18
+1120,165,MED165,Medium,Yukon,Whitehorse,Teller,Dylan,Harris,2018-10-06
+1121,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Manager,Jack,Turner,2024-09-06
+1122,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Daniel,James,2017-08-10
+1123,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Parker,Khan,2020-08-01
+1124,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Advisor,Aaron,Irwin,2021-12-06
+1125,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Teller,Ava,Zhang,2024-04-11
+1126,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Teller,Daniel,Khan,2021-04-17
+1127,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Teller,Faith,Harris,2023-03-20
+1128,166,MED166,Medium,Newfoundland and Labrador,Corner Brook,Teller,Sophia,Walker,2021-11-11
+1129,167,MED167,Medium,Quebec,Montreal,Manager,Colin,Foster,2015-03-06
+1130,167,MED167,Medium,Quebec,Montreal,Advisor,Benjamin,Owen,2016-08-07
+1131,167,MED167,Medium,Quebec,Montreal,Advisor,Ethan,Davis,2024-11-27
+1132,167,MED167,Medium,Quebec,Montreal,Advisor,Ella,Harris,2023-10-23
+1133,167,MED167,Medium,Quebec,Montreal,Teller,Mila,Sanchez,2015-06-08
+1134,167,MED167,Medium,Quebec,Montreal,Teller,Julian,Foster,2015-04-21
+1135,167,MED167,Medium,Quebec,Montreal,Teller,Leo,Garcia,2022-11-02
+1136,167,MED167,Medium,Quebec,Montreal,Teller,Mason,Clark,2020-12-02
+1137,168,MED168,Medium,Prince Edward Island,Summerside,Manager,Benjamin,Foster,2019-02-07
+1138,168,MED168,Medium,Prince Edward Island,Summerside,Advisor,Nora,Hughes,2016-12-08
+1139,168,MED168,Medium,Prince Edward Island,Summerside,Advisor,Sam,Adams,2018-04-17
+1140,168,MED168,Medium,Prince Edward Island,Summerside,Advisor,Colin,Roberts,2024-11-06
+1141,168,MED168,Medium,Prince Edward Island,Summerside,Teller,Aria,Clark,2016-11-19
+1142,168,MED168,Medium,Prince Edward Island,Summerside,Teller,Zara,Fisher,2021-02-06
+1143,168,MED168,Medium,Prince Edward Island,Summerside,Teller,Liam,Bennett,2023-06-22
+1144,168,MED168,Medium,Prince Edward Island,Summerside,Teller,Jasmine,Khan,2024-08-12
+1145,169,MED169,Medium,Saskatchewan,Prince Albert,Manager,Mason,Clark,2021-12-11
+1146,169,MED169,Medium,Saskatchewan,Prince Albert,Advisor,Julian,Roberts,2024-09-07
+1147,169,MED169,Medium,Saskatchewan,Prince Albert,Advisor,Ella,Sanchez,2020-08-15
+1148,169,MED169,Medium,Saskatchewan,Prince Albert,Advisor,Lucas,Brown,2015-05-20
+1149,169,MED169,Medium,Saskatchewan,Prince Albert,Teller,Ava,James,2017-05-01
+1150,169,MED169,Medium,Saskatchewan,Prince Albert,Teller,Thomas,Quinn,2018-06-01
+1151,169,MED169,Medium,Saskatchewan,Prince Albert,Teller,Dylan,Turner,2023-09-18
+1152,169,MED169,Medium,Saskatchewan,Prince Albert,Teller,Theo,Lee,2016-01-15
+1153,170,MED170,Medium,Saskatchewan,Regina,Manager,Parker,Zhang,2024-04-08
+1154,170,MED170,Medium,Saskatchewan,Regina,Advisor,Parker,Vargas,2016-10-13
+1155,170,MED170,Medium,Saskatchewan,Regina,Advisor,Theo,Patel,2016-12-11
+1156,170,MED170,Medium,Saskatchewan,Regina,Advisor,Charlotte,Nguyen,2022-12-23
+1157,170,MED170,Medium,Saskatchewan,Regina,Teller,Theo,Hughes,2024-11-10
+1158,170,MED170,Medium,Saskatchewan,Regina,Teller,Benjamin,Adams,2016-01-25
+1159,170,MED170,Medium,Saskatchewan,Regina,Teller,William,Young,2021-07-28
+1160,170,MED170,Medium,Saskatchewan,Regina,Teller,Grace,Quinn,2024-01-21
+1161,171,MED171,Medium,Yukon,Whitehorse,Manager,Thomas,James,2015-06-18
+1162,171,MED171,Medium,Yukon,Whitehorse,Advisor,Theo,Lee,2020-09-23
+1163,171,MED171,Medium,Yukon,Whitehorse,Advisor,Olivia,Lee,2015-11-24
+1164,171,MED171,Medium,Yukon,Whitehorse,Advisor,Lucas,Evans,2024-10-17
+1165,171,MED171,Medium,Yukon,Whitehorse,Teller,Emma,Quinn,2021-05-26
+1166,171,MED171,Medium,Yukon,Whitehorse,Teller,Lucas,Lee,2017-06-03
+1167,171,MED171,Medium,Yukon,Whitehorse,Teller,Charlotte,Edwards,2023-07-09
+1168,171,MED171,Medium,Yukon,Whitehorse,Teller,Emma,Bennett,2023-07-25
+1169,172,MED172,Medium,Nunavut,Iqaluit,Manager,Charlotte,Owen,2022-07-21
+1170,172,MED172,Medium,Nunavut,Iqaluit,Advisor,Theo,Owen,2023-10-24
+1171,172,MED172,Medium,Nunavut,Iqaluit,Advisor,Nora,Roberts,2018-02-09
+1172,172,MED172,Medium,Nunavut,Iqaluit,Advisor,Henry,Walker,2024-02-04
+1173,172,MED172,Medium,Nunavut,Iqaluit,Teller,Colin,Clark,2021-06-12
+1174,172,MED172,Medium,Nunavut,Iqaluit,Teller,Mia,Walker,2020-10-21
+1175,172,MED172,Medium,Nunavut,Iqaluit,Teller,Ava,Vargas,2017-06-20
+1176,172,MED172,Medium,Nunavut,Iqaluit,Teller,Harper,Lee,2022-01-27
+1177,173,MED173,Medium,Alberta,Edmonton,Manager,Isaac,Garcia,2016-12-02
+1178,173,MED173,Medium,Alberta,Edmonton,Advisor,Owen,Lee,2019-01-11
+1179,173,MED173,Medium,Alberta,Edmonton,Advisor,Dylan,Johnson,2019-08-16
+1180,173,MED173,Medium,Alberta,Edmonton,Advisor,Ava,Xu,2018-12-18
+1181,173,MED173,Medium,Alberta,Edmonton,Teller,Noah,Patel,2023-09-25
+1182,173,MED173,Medium,Alberta,Edmonton,Teller,Parker,Gonzalez,2024-12-05
+1183,173,MED173,Medium,Alberta,Edmonton,Teller,Dylan,Campbell,2021-10-22
+1184,173,MED173,Medium,Alberta,Edmonton,Teller,Nora,Davis,2019-03-02
+1185,174,MED174,Medium,Manitoba,Winnipeg,Manager,Chloe,Fisher,2015-02-13
+1186,174,MED174,Medium,Manitoba,Winnipeg,Advisor,Colin,Turner,2020-02-01
+1187,174,MED174,Medium,Manitoba,Winnipeg,Advisor,Sophia,Adams,2018-07-17
+1188,174,MED174,Medium,Manitoba,Winnipeg,Advisor,Brooke,Hughes,2020-08-28
+1189,174,MED174,Medium,Manitoba,Winnipeg,Teller,Julian,Khan,2016-03-07
+1190,174,MED174,Medium,Manitoba,Winnipeg,Teller,Lily,Fisher,2023-12-01
+1191,174,MED174,Medium,Manitoba,Winnipeg,Teller,Benjamin,Roberts,2023-05-11
+1192,174,MED174,Medium,Manitoba,Winnipeg,Teller,Leo,Bennett,2017-01-12
+1193,175,MED175,Medium,Northwest Territories,Yellowknife,Manager,Aaron,Vargas,2018-09-09
+1194,175,MED175,Medium,Northwest Territories,Yellowknife,Advisor,Chloe,Sanchez,2021-01-18
+1195,175,MED175,Medium,Northwest Territories,Yellowknife,Advisor,Ruby,Quinn,2017-06-13
+1196,175,MED175,Medium,Northwest Territories,Yellowknife,Advisor,Colin,Kim,2016-12-13
+1197,175,MED175,Medium,Northwest Territories,Yellowknife,Teller,Nora,Quinn,2021-04-19
+1198,175,MED175,Medium,Northwest Territories,Yellowknife,Teller,Isaac,Diaz,2019-10-11
+1199,175,MED175,Medium,Northwest Territories,Yellowknife,Teller,Harper,Khan,2017-04-21
+1200,175,MED175,Medium,Northwest Territories,Yellowknife,Teller,Hannah,Khan,2018-03-10
+1201,176,MED176,Medium,Nunavut,Iqaluit,Manager,Isaac,Mitchell,2020-02-18
+1202,176,MED176,Medium,Nunavut,Iqaluit,Advisor,Sam,Johnson,2017-06-27
+1203,176,MED176,Medium,Nunavut,Iqaluit,Advisor,Isaac,Campbell,2020-07-14
+1204,176,MED176,Medium,Nunavut,Iqaluit,Advisor,Thomas,Evans,2019-03-25
+1205,176,MED176,Medium,Nunavut,Iqaluit,Teller,Mia,Hughes,2017-03-01
+1206,176,MED176,Medium,Nunavut,Iqaluit,Teller,Sienna,Turner,2024-10-20
+1207,176,MED176,Medium,Nunavut,Iqaluit,Teller,Olivia,Quinn,2018-11-01
+1208,176,MED176,Medium,Nunavut,Iqaluit,Teller,Zara,Garcia,2022-03-17
+1209,177,MED177,Medium,Prince Edward Island,Summerside,Manager,Liam,Adams,2022-08-05
+1210,177,MED177,Medium,Prince Edward Island,Summerside,Advisor,Jasmine,Owen,2018-01-14
+1211,177,MED177,Medium,Prince Edward Island,Summerside,Advisor,Aiden,Turner,2021-04-24
+1212,177,MED177,Medium,Prince Edward Island,Summerside,Advisor,Colin,Owen,2018-02-06
+1213,177,MED177,Medium,Prince Edward Island,Summerside,Teller,Harper,Harris,2020-08-08
+1214,177,MED177,Medium,Prince Edward Island,Summerside,Teller,Henry,Bennett,2015-10-24
+1215,177,MED177,Medium,Prince Edward Island,Summerside,Teller,Ella,Walker,2021-10-24
+1216,177,MED177,Medium,Prince Edward Island,Summerside,Teller,Theo,Khan,2023-11-23
+1217,178,MED178,Medium,Yukon,Whitehorse,Manager,Ethan,Evans,2022-01-08
+1218,178,MED178,Medium,Yukon,Whitehorse,Advisor,Nora,Khan,2021-12-02
+1219,178,MED178,Medium,Yukon,Whitehorse,Advisor,Aria,Adams,2023-11-02
+1220,178,MED178,Medium,Yukon,Whitehorse,Advisor,Mia,Underwood,2022-07-10
+1221,178,MED178,Medium,Yukon,Whitehorse,Teller,Sophia,Fisher,2017-07-10
+1222,178,MED178,Medium,Yukon,Whitehorse,Teller,Sienna,Edwards,2023-03-15
+1223,178,MED178,Medium,Yukon,Whitehorse,Teller,Aaliyah,Evans,2016-12-17
+1224,178,MED178,Medium,Yukon,Whitehorse,Teller,Grace,Nguyen,2024-12-18
+1225,179,MED179,Medium,British Columbia,Burnaby,Manager,Victoria,Evans,2015-03-15
+1226,179,MED179,Medium,British Columbia,Burnaby,Advisor,Mila,Owen,2022-02-09
+1227,179,MED179,Medium,British Columbia,Burnaby,Advisor,Victoria,Mitchell,2016-02-04
+1228,179,MED179,Medium,British Columbia,Burnaby,Advisor,Brooke,Evans,2020-02-17
+1229,179,MED179,Medium,British Columbia,Burnaby,Teller,Brooke,Adams,2023-10-06
+1230,179,MED179,Medium,British Columbia,Burnaby,Teller,Ella,Adams,2015-03-11
+1231,179,MED179,Medium,British Columbia,Burnaby,Teller,Theo,Lee,2017-03-06
+1232,179,MED179,Medium,British Columbia,Burnaby,Teller,Brooke,Edwards,2021-05-10
+1233,180,MED180,Medium,Nunavut,Iqaluit,Manager,Aaron,Nguyen,2016-03-07
+1234,180,MED180,Medium,Nunavut,Iqaluit,Advisor,Aiden,Sanchez,2015-08-16
+1235,180,MED180,Medium,Nunavut,Iqaluit,Advisor,Leo,Khan,2015-10-16
+1236,180,MED180,Medium,Nunavut,Iqaluit,Advisor,Owen,Patel,2024-11-16
+1237,180,MED180,Medium,Nunavut,Iqaluit,Teller,Jack,Clark,2022-02-20
+1238,180,MED180,Medium,Nunavut,Iqaluit,Teller,Julian,Brown,2018-09-09
+1239,180,MED180,Medium,Nunavut,Iqaluit,Teller,Sienna,Patel,2015-03-05
+1240,180,MED180,Medium,Nunavut,Iqaluit,Teller,Chloe,Young,2015-03-28
+1241,181,MED181,Medium,Ontario,Kingston,Manager,William,Garcia,2015-02-14
+1242,181,MED181,Medium,Ontario,Kingston,Advisor,Liam,Mitchell,2019-10-22
+1243,181,MED181,Medium,Ontario,Kingston,Advisor,Dylan,Nguyen,2022-12-19
+1244,181,MED181,Medium,Ontario,Kingston,Advisor,Mason,Davis,2016-05-11
+1245,181,MED181,Medium,Ontario,Kingston,Teller,Mason,Adams,2016-07-27
+1246,181,MED181,Medium,Ontario,Kingston,Teller,Aria,Foster,2019-08-05
+1247,181,MED181,Medium,Ontario,Kingston,Teller,Grace,Turner,2020-09-14
+1248,181,MED181,Medium,Ontario,Kingston,Teller,Nora,Patel,2018-10-02
+1249,182,MED182,Medium,Quebec,Sherbrooke,Manager,Emma,Gonzalez,2024-12-10
+1250,182,MED182,Medium,Quebec,Sherbrooke,Advisor,Henry,Walker,2019-09-19
+1251,182,MED182,Medium,Quebec,Sherbrooke,Advisor,Sienna,Young,2017-10-19
+1252,182,MED182,Medium,Quebec,Sherbrooke,Advisor,Leo,James,2022-08-26
+1253,182,MED182,Medium,Quebec,Sherbrooke,Teller,Liam,Quinn,2019-04-01
+1254,182,MED182,Medium,Quebec,Sherbrooke,Teller,Grace,Campbell,2022-11-26
+1255,182,MED182,Medium,Quebec,Sherbrooke,Teller,Grace,Patel,2024-07-14
+1256,182,MED182,Medium,Quebec,Sherbrooke,Teller,Benjamin,Xu,2020-09-26
+1257,183,MED183,Medium,Northwest Territories,Yellowknife,Manager,Aaron,Owen,2019-05-26
+1258,183,MED183,Medium,Northwest Territories,Yellowknife,Advisor,Daniel,Vargas,2019-09-18
+1259,183,MED183,Medium,Northwest Territories,Yellowknife,Advisor,Victoria,Brown,2016-11-11
+1260,183,MED183,Medium,Northwest Territories,Yellowknife,Advisor,William,Bennett,2024-10-01
+1261,183,MED183,Medium,Northwest Territories,Yellowknife,Teller,Liam,Owen,2020-06-22
+1262,183,MED183,Medium,Northwest Territories,Yellowknife,Teller,Charlotte,Gonzalez,2015-11-05
+1263,183,MED183,Medium,Northwest Territories,Yellowknife,Teller,Charlotte,Lee,2022-09-11
+1264,183,MED183,Medium,Northwest Territories,Yellowknife,Teller,Jack,Clark,2015-09-10
+1265,184,MED184,Medium,Prince Edward Island,Summerside,Manager,Noah,Xu,2020-02-05
+1266,184,MED184,Medium,Prince Edward Island,Summerside,Advisor,Ruby,Campbell,2020-07-21
+1267,184,MED184,Medium,Prince Edward Island,Summerside,Advisor,Sam,Mitchell,2024-10-13
+1268,184,MED184,Medium,Prince Edward Island,Summerside,Advisor,Liam,Johnson,2019-12-28
+1269,184,MED184,Medium,Prince Edward Island,Summerside,Teller,Victoria,Davis,2019-07-03
+1270,184,MED184,Medium,Prince Edward Island,Summerside,Teller,Leo,Roberts,2020-08-27
+1271,184,MED184,Medium,Prince Edward Island,Summerside,Teller,Thomas,Patel,2023-05-06
+1272,184,MED184,Medium,Prince Edward Island,Summerside,Teller,Grace,Zhang,2015-04-03
+1273,185,MED185,Medium,New Brunswick,Saint John,Manager,Charlotte,Irwin,2017-04-11
+1274,185,MED185,Medium,New Brunswick,Saint John,Advisor,Charlotte,James,2019-06-05
+1275,185,MED185,Medium,New Brunswick,Saint John,Advisor,Ethan,James,2017-04-24
+1276,185,MED185,Medium,New Brunswick,Saint John,Advisor,Benjamin,Fisher,2021-12-28
+1277,185,MED185,Medium,New Brunswick,Saint John,Teller,Nora,Johnson,2015-05-02
+1278,185,MED185,Medium,New Brunswick,Saint John,Teller,Faith,Garcia,2020-08-02
+1279,185,MED185,Medium,New Brunswick,Saint John,Teller,Ethan,James,2019-01-19
+1280,185,MED185,Medium,New Brunswick,Saint John,Teller,Thomas,Patel,2020-04-07
+1281,186,MED186,Medium,Manitoba,Brandon,Manager,Harper,Johnson,2019-03-06
+1282,186,MED186,Medium,Manitoba,Brandon,Advisor,Ruby,Johnson,2015-10-18
+1283,186,MED186,Medium,Manitoba,Brandon,Advisor,Lily,Hughes,2018-09-12
+1284,186,MED186,Medium,Manitoba,Brandon,Advisor,Aria,Walker,2019-03-23
+1285,186,MED186,Medium,Manitoba,Brandon,Teller,Sophia,Roberts,2017-02-10
+1286,186,MED186,Medium,Manitoba,Brandon,Teller,Sienna,Xu,2023-08-02
+1287,186,MED186,Medium,Manitoba,Brandon,Teller,Hannah,Campbell,2022-11-02
+1288,186,MED186,Medium,Manitoba,Brandon,Teller,Ethan,Adams,2015-02-14
+1289,187,MED187,Medium,Nova Scotia,Halifax,Manager,Sienna,Young,2019-06-27
+1290,187,MED187,Medium,Nova Scotia,Halifax,Advisor,Mia,Khan,2016-08-19
+1291,187,MED187,Medium,Nova Scotia,Halifax,Advisor,Hannah,Garcia,2022-02-15
+1292,187,MED187,Medium,Nova Scotia,Halifax,Advisor,Thomas,Fisher,2022-04-08
+1293,187,MED187,Medium,Nova Scotia,Halifax,Teller,Isaac,Sanchez,2020-07-06
+1294,187,MED187,Medium,Nova Scotia,Halifax,Teller,Dylan,Xu,2020-08-16
+1295,187,MED187,Medium,Nova Scotia,Halifax,Teller,Ava,Foster,2022-02-12
+1296,187,MED187,Medium,Nova Scotia,Halifax,Teller,Charlotte,Fisher,2017-05-25
+1297,188,MED188,Medium,Saskatchewan,Prince Albert,Manager,Lily,Hughes,2021-12-26
+1298,188,MED188,Medium,Saskatchewan,Prince Albert,Advisor,Ethan,Walker,2023-11-03
+1299,188,MED188,Medium,Saskatchewan,Prince Albert,Advisor,Thomas,Khan,2022-07-19
+1300,188,MED188,Medium,Saskatchewan,Prince Albert,Advisor,Amelia,Roberts,2024-04-18
+1301,188,MED188,Medium,Saskatchewan,Prince Albert,Teller,Jasmine,Gonzalez,2021-02-11
+1302,188,MED188,Medium,Saskatchewan,Prince Albert,Teller,Noah,Diaz,2021-10-26
+1303,188,MED188,Medium,Saskatchewan,Prince Albert,Teller,William,Khan,2018-03-22
+1304,188,MED188,Medium,Saskatchewan,Prince Albert,Teller,Colin,Foster,2024-08-04
+1305,189,MED189,Medium,Prince Edward Island,Summerside,Manager,Aria,Hughes,2022-03-10
+1306,189,MED189,Medium,Prince Edward Island,Summerside,Advisor,Lucas,Foster,2024-02-22
+1307,189,MED189,Medium,Prince Edward Island,Summerside,Advisor,Julian,Adams,2020-08-21
+1308,189,MED189,Medium,Prince Edward Island,Summerside,Advisor,Colin,Edwards,2016-04-27
+1309,189,MED189,Medium,Prince Edward Island,Summerside,Teller,Hannah,Brown,2017-11-05
+1310,189,MED189,Medium,Prince Edward Island,Summerside,Teller,Harper,Khan,2019-07-20
+1311,189,MED189,Medium,Prince Edward Island,Summerside,Teller,Theo,Evans,2018-04-22
+1312,189,MED189,Medium,Prince Edward Island,Summerside,Teller,Victoria,Vargas,2024-11-10
+1313,190,MED190,Medium,Nova Scotia,Sydney,Manager,Emma,Brown,2024-09-13
+1314,190,MED190,Medium,Nova Scotia,Sydney,Advisor,Hannah,Underwood,2015-06-18
+1315,190,MED190,Medium,Nova Scotia,Sydney,Advisor,Chloe,Brown,2023-06-04
+1316,190,MED190,Medium,Nova Scotia,Sydney,Advisor,Sophia,Campbell,2018-07-23
+1317,190,MED190,Medium,Nova Scotia,Sydney,Teller,Mila,Bennett,2020-12-13
+1318,190,MED190,Medium,Nova Scotia,Sydney,Teller,Lucas,Adams,2021-09-07
+1319,190,MED190,Medium,Nova Scotia,Sydney,Teller,Colin,Nguyen,2022-03-07
+1320,190,MED190,Medium,Nova Scotia,Sydney,Teller,Aria,Adams,2020-07-05
+1321,191,MED191,Medium,Manitoba,Portage la Prairie,Manager,Hannah,Brown,2016-11-01
+1322,191,MED191,Medium,Manitoba,Portage la Prairie,Advisor,Isaac,Harris,2021-03-03
+1323,191,MED191,Medium,Manitoba,Portage la Prairie,Advisor,Hannah,Clark,2022-12-20
+1324,191,MED191,Medium,Manitoba,Portage la Prairie,Advisor,Henry,Nguyen,2022-09-14
+1325,191,MED191,Medium,Manitoba,Portage la Prairie,Teller,Aria,Evans,2021-06-08
+1326,191,MED191,Medium,Manitoba,Portage la Prairie,Teller,Liam,Diaz,2024-01-19
+1327,191,MED191,Medium,Manitoba,Portage la Prairie,Teller,Leo,Roberts,2023-05-14
+1328,191,MED191,Medium,Manitoba,Portage la Prairie,Teller,Sam,Zhang,2015-01-19
+1329,192,MED192,Medium,New Brunswick,Saint John,Manager,Grace,Gonzalez,2016-03-24
+1330,192,MED192,Medium,New Brunswick,Saint John,Advisor,Nora,Turner,2022-09-03
+1331,192,MED192,Medium,New Brunswick,Saint John,Advisor,Nora,Garcia,2018-08-21
+1332,192,MED192,Medium,New Brunswick,Saint John,Advisor,Colin,Foster,2023-10-10
+1333,192,MED192,Medium,New Brunswick,Saint John,Teller,Sienna,Edwards,2020-09-25
+1334,192,MED192,Medium,New Brunswick,Saint John,Teller,Aiden,Gonzalez,2022-09-16
+1335,192,MED192,Medium,New Brunswick,Saint John,Teller,Theo,Xu,2021-06-26
+1336,192,MED192,Medium,New Brunswick,Saint John,Teller,Sophia,Underwood,2017-01-23
+1337,193,MED193,Medium,Prince Edward Island,Summerside,Manager,Chloe,Gonzalez,2024-03-19
+1338,193,MED193,Medium,Prince Edward Island,Summerside,Advisor,Chloe,Underwood,2024-01-10
+1339,193,MED193,Medium,Prince Edward Island,Summerside,Advisor,Leo,Garcia,2017-09-03
+1340,193,MED193,Medium,Prince Edward Island,Summerside,Advisor,Ruby,Sanchez,2017-10-09
+1341,193,MED193,Medium,Prince Edward Island,Summerside,Teller,Ruby,Sanchez,2015-12-04
+1342,193,MED193,Medium,Prince Edward Island,Summerside,Teller,Julian,Nguyen,2024-12-05
+1343,193,MED193,Medium,Prince Edward Island,Summerside,Teller,Colin,Evans,2020-03-09
+1344,193,MED193,Medium,Prince Edward Island,Summerside,Teller,Dylan,Roberts,2022-03-26
+1345,194,MED194,Medium,Newfoundland and Labrador,St. John's,Manager,Emma,Lee,2024-03-27
+1346,194,MED194,Medium,Newfoundland and Labrador,St. John's,Advisor,Leo,Clark,2021-04-22
+1347,194,MED194,Medium,Newfoundland and Labrador,St. John's,Advisor,Harper,Mitchell,2018-10-24
+1348,194,MED194,Medium,Newfoundland and Labrador,St. John's,Advisor,Zara,Edwards,2019-02-02
+1349,194,MED194,Medium,Newfoundland and Labrador,St. John's,Teller,Jasmine,Fisher,2021-08-10
+1350,194,MED194,Medium,Newfoundland and Labrador,St. John's,Teller,Charlotte,Khan,2018-07-22
+1351,194,MED194,Medium,Newfoundland and Labrador,St. John's,Teller,Brooke,Adams,2022-05-05
+1352,194,MED194,Medium,Newfoundland and Labrador,St. John's,Teller,Nora,Diaz,2015-05-26
+1353,195,MED195,Medium,New Brunswick,Moncton,Manager,Nora,Davis,2016-09-21
+1354,195,MED195,Medium,New Brunswick,Moncton,Advisor,Zara,Diaz,2024-11-28
+1355,195,MED195,Medium,New Brunswick,Moncton,Advisor,Ruby,Xu,2019-05-26
+1356,195,MED195,Medium,New Brunswick,Moncton,Advisor,Ethan,Sanchez,2024-07-15
+1357,195,MED195,Medium,New Brunswick,Moncton,Teller,Faith,Roberts,2024-04-17
+1358,195,MED195,Medium,New Brunswick,Moncton,Teller,William,Nguyen,2020-09-01
+1359,195,MED195,Medium,New Brunswick,Moncton,Teller,Faith,Brown,2016-01-14
+1360,195,MED195,Medium,New Brunswick,Moncton,Teller,Ethan,James,2016-11-15
+1361,196,MED196,Medium,Saskatchewan,Regina,Manager,Parker,Owen,2015-01-20
+1362,196,MED196,Medium,Saskatchewan,Regina,Advisor,Emma,Edwards,2024-11-27
+1363,196,MED196,Medium,Saskatchewan,Regina,Advisor,Noah,Johnson,2016-02-28
+1364,196,MED196,Medium,Saskatchewan,Regina,Advisor,Julian,Kim,2021-11-25
+1365,196,MED196,Medium,Saskatchewan,Regina,Teller,Aaliyah,Nguyen,2016-12-06
+1366,196,MED196,Medium,Saskatchewan,Regina,Teller,Parker,Underwood,2022-11-03
+1367,196,MED196,Medium,Saskatchewan,Regina,Teller,Aaron,Fisher,2019-07-23
+1368,196,MED196,Medium,Saskatchewan,Regina,Teller,Colin,Walker,2019-03-25
+1369,197,MED197,Medium,Quebec,Laval,Manager,Ella,Adams,2020-01-09
+1370,197,MED197,Medium,Quebec,Laval,Advisor,Parker,Nguyen,2022-02-16
+1371,197,MED197,Medium,Quebec,Laval,Advisor,Mia,Bennett,2017-11-16
+1372,197,MED197,Medium,Quebec,Laval,Advisor,Ethan,Lee,2023-07-07
+1373,197,MED197,Medium,Quebec,Laval,Teller,Sienna,Hughes,2022-12-09
+1374,197,MED197,Medium,Quebec,Laval,Teller,Ethan,Davis,2016-02-19
+1375,197,MED197,Medium,Quebec,Laval,Teller,Parker,Evans,2015-08-05
+1376,197,MED197,Medium,Quebec,Laval,Teller,Aaliyah,Brown,2015-11-13
+1377,198,MED198,Medium,Manitoba,Winnipeg,Manager,Lucas,Brown,2023-12-25
+1378,198,MED198,Medium,Manitoba,Winnipeg,Advisor,Leo,Gonzalez,2021-07-28
+1379,198,MED198,Medium,Manitoba,Winnipeg,Advisor,Daniel,Khan,2018-01-13
+1380,198,MED198,Medium,Manitoba,Winnipeg,Advisor,Dylan,Gonzalez,2016-10-18
+1381,198,MED198,Medium,Manitoba,Winnipeg,Teller,Zara,Xu,2019-07-02
+1382,198,MED198,Medium,Manitoba,Winnipeg,Teller,Aaron,Garcia,2020-09-28
+1383,198,MED198,Medium,Manitoba,Winnipeg,Teller,William,Garcia,2022-05-21
+1384,198,MED198,Medium,Manitoba,Winnipeg,Teller,Mia,Nguyen,2023-01-13
+1385,199,MED199,Medium,Northwest Territories,Yellowknife,Manager,Dylan,Adams,2016-11-23
+1386,199,MED199,Medium,Northwest Territories,Yellowknife,Advisor,Zara,Harris,2016-11-15
+1387,199,MED199,Medium,Northwest Territories,Yellowknife,Advisor,Mia,Kim,2015-04-01
+1388,199,MED199,Medium,Northwest Territories,Yellowknife,Advisor,Mila,Roberts,2022-07-03
+1389,199,MED199,Medium,Northwest Territories,Yellowknife,Teller,Sam,Vargas,2022-09-27
+1390,199,MED199,Medium,Northwest Territories,Yellowknife,Teller,Harper,Campbell,2015-06-02
+1391,199,MED199,Medium,Northwest Territories,Yellowknife,Teller,William,Davis,2021-02-07
+1392,199,MED199,Medium,Northwest Territories,Yellowknife,Teller,Aaliyah,James,2022-11-28
+1393,200,MED200,Medium,Newfoundland and Labrador,St. John's,Manager,Daniel,Davis,2017-08-21
+1394,200,MED200,Medium,Newfoundland and Labrador,St. John's,Advisor,Ava,Gonzalez,2024-01-08
+1395,200,MED200,Medium,Newfoundland and Labrador,St. John's,Advisor,Dylan,Kim,2015-03-21
+1396,200,MED200,Medium,Newfoundland and Labrador,St. John's,Advisor,Chloe,Vargas,2016-08-20
+1397,200,MED200,Medium,Newfoundland and Labrador,St. John's,Teller,Jasmine,Foster,2016-02-16
+1398,200,MED200,Medium,Newfoundland and Labrador,St. John's,Teller,Julian,Quinn,2016-04-14
+1399,200,MED200,Medium,Newfoundland and Labrador,St. John's,Teller,William,Bennett,2020-02-22
+1400,200,MED200,Medium,Newfoundland and Labrador,St. John's,Teller,Theo,Khan,2017-06-27
+1401,201,LAR201,Large,Yukon,Whitehorse,Manager,Mila,Nguyen,2020-02-04
+1402,201,LAR201,Large,Yukon,Whitehorse,Advisor,Ruby,Lee,2021-03-23
+1403,201,LAR201,Large,Yukon,Whitehorse,Advisor,Mason,Mitchell,2022-04-19
+1404,201,LAR201,Large,Yukon,Whitehorse,Advisor,Benjamin,Kim,2016-11-20
+1405,201,LAR201,Large,Yukon,Whitehorse,Advisor,Ella,Mitchell,2015-08-03
+1406,201,LAR201,Large,Yukon,Whitehorse,Teller,Aiden,Brown,2017-02-23
+1407,201,LAR201,Large,Yukon,Whitehorse,Teller,Aaliyah,Underwood,2021-12-26
+1408,201,LAR201,Large,Yukon,Whitehorse,Teller,Charlotte,Kim,2018-03-21
+1409,201,LAR201,Large,Yukon,Whitehorse,Teller,Ruby,James,2022-07-08
+1410,201,LAR201,Large,Yukon,Whitehorse,Teller,Liam,Davis,2024-03-23
+1411,202,LAR202,Large,New Brunswick,Saint John,Manager,Aaron,Vargas,2020-07-01
+1412,202,LAR202,Large,New Brunswick,Saint John,Advisor,Aria,Roberts,2018-02-17
+1413,202,LAR202,Large,New Brunswick,Saint John,Advisor,Ethan,Zhang,2023-09-08
+1414,202,LAR202,Large,New Brunswick,Saint John,Advisor,Jack,Patel,2019-01-07
+1415,202,LAR202,Large,New Brunswick,Saint John,Advisor,Grace,Lee,2022-08-06
+1416,202,LAR202,Large,New Brunswick,Saint John,Teller,Jasmine,Davis,2015-11-12
+1417,202,LAR202,Large,New Brunswick,Saint John,Teller,Sophia,Patel,2021-05-11
+1418,202,LAR202,Large,New Brunswick,Saint John,Teller,Sienna,Fisher,2015-02-24
+1419,202,LAR202,Large,New Brunswick,Saint John,Teller,Chloe,Khan,2017-03-26
+1420,202,LAR202,Large,New Brunswick,Saint John,Teller,Ava,Harris,2023-02-03
+1421,203,LAR203,Large,Alberta,Lethbridge,Manager,Amelia,Owen,2020-04-25
+1422,203,LAR203,Large,Alberta,Lethbridge,Advisor,Grace,Walker,2018-02-08
+1423,203,LAR203,Large,Alberta,Lethbridge,Advisor,Amelia,Owen,2021-04-03
+1424,203,LAR203,Large,Alberta,Lethbridge,Advisor,Charlotte,Harris,2015-07-05
+1425,203,LAR203,Large,Alberta,Lethbridge,Advisor,Noah,Fisher,2017-07-12
+1426,203,LAR203,Large,Alberta,Lethbridge,Teller,Hannah,Fisher,2018-11-12
+1427,203,LAR203,Large,Alberta,Lethbridge,Teller,Ruby,Owen,2020-03-02
+1428,203,LAR203,Large,Alberta,Lethbridge,Teller,Dylan,Edwards,2019-03-04
+1429,203,LAR203,Large,Alberta,Lethbridge,Teller,Jack,Fisher,2021-03-25
+1430,203,LAR203,Large,Alberta,Lethbridge,Teller,William,Quinn,2019-10-06
+1431,204,LAR204,Large,Yukon,Whitehorse,Manager,Emma,Clark,2023-08-28
+1432,204,LAR204,Large,Yukon,Whitehorse,Advisor,Noah,Gonzalez,2022-05-01
+1433,204,LAR204,Large,Yukon,Whitehorse,Advisor,Henry,Roberts,2018-06-14
+1434,204,LAR204,Large,Yukon,Whitehorse,Advisor,Mila,Quinn,2024-03-19
+1435,204,LAR204,Large,Yukon,Whitehorse,Advisor,Aiden,Clark,2015-01-16
+1436,204,LAR204,Large,Yukon,Whitehorse,Teller,Lily,Davis,2021-09-13
+1437,204,LAR204,Large,Yukon,Whitehorse,Teller,Charlotte,Hughes,2022-08-08
+1438,204,LAR204,Large,Yukon,Whitehorse,Teller,Emma,Brown,2021-04-05
+1439,204,LAR204,Large,Yukon,Whitehorse,Teller,Zara,Underwood,2018-11-03
+1440,204,LAR204,Large,Yukon,Whitehorse,Teller,Ava,Gonzalez,2019-03-23
+1441,205,LAR205,Large,New Brunswick,Saint John,Manager,Jack,Fisher,2017-12-13
+1442,205,LAR205,Large,New Brunswick,Saint John,Advisor,Liam,Zhang,2022-12-21
+1443,205,LAR205,Large,New Brunswick,Saint John,Advisor,Aiden,Foster,2021-12-11
+1444,205,LAR205,Large,New Brunswick,Saint John,Advisor,Nora,Davis,2019-07-25
+1445,205,LAR205,Large,New Brunswick,Saint John,Advisor,Ruby,Khan,2024-04-26
+1446,205,LAR205,Large,New Brunswick,Saint John,Teller,Faith,Garcia,2024-06-24
+1447,205,LAR205,Large,New Brunswick,Saint John,Teller,Chloe,Irwin,2020-01-04
+1448,205,LAR205,Large,New Brunswick,Saint John,Teller,Ella,Zhang,2022-10-02
+1449,205,LAR205,Large,New Brunswick,Saint John,Teller,Mason,Zhang,2017-11-18
+1450,205,LAR205,Large,New Brunswick,Saint John,Teller,Brooke,Foster,2023-12-25
+1451,206,LAR206,Large,Alberta,Edmonton,Manager,Owen,Khan,2016-11-16
+1452,206,LAR206,Large,Alberta,Edmonton,Advisor,Mila,Patel,2018-06-12
+1453,206,LAR206,Large,Alberta,Edmonton,Advisor,Ruby,Irwin,2021-05-02
+1454,206,LAR206,Large,Alberta,Edmonton,Advisor,Daniel,Zhang,2020-08-16
+1455,206,LAR206,Large,Alberta,Edmonton,Advisor,Lily,James,2016-08-23
+1456,206,LAR206,Large,Alberta,Edmonton,Teller,Sam,Khan,2019-08-20
+1457,206,LAR206,Large,Alberta,Edmonton,Teller,Mason,Foster,2018-08-03
+1458,206,LAR206,Large,Alberta,Edmonton,Teller,Emma,Bennett,2017-05-03
+1459,206,LAR206,Large,Alberta,Edmonton,Teller,Ethan,Mitchell,2019-02-23
+1460,206,LAR206,Large,Alberta,Edmonton,Teller,Isaac,Harris,2017-04-17
+1461,207,LAR207,Large,Northwest Territories,Yellowknife,Manager,Amelia,Khan,2017-08-12
+1462,207,LAR207,Large,Northwest Territories,Yellowknife,Advisor,Amelia,Evans,2015-05-07
+1463,207,LAR207,Large,Northwest Territories,Yellowknife,Advisor,Daniel,Campbell,2018-09-21
+1464,207,LAR207,Large,Northwest Territories,Yellowknife,Advisor,William,Clark,2024-06-21
+1465,207,LAR207,Large,Northwest Territories,Yellowknife,Advisor,Aaliyah,Walker,2022-10-22
+1466,207,LAR207,Large,Northwest Territories,Yellowknife,Teller,Dylan,James,2023-08-15
+1467,207,LAR207,Large,Northwest Territories,Yellowknife,Teller,Thomas,Kim,2019-03-26
+1468,207,LAR207,Large,Northwest Territories,Yellowknife,Teller,Parker,Quinn,2022-06-10
+1469,207,LAR207,Large,Northwest Territories,Yellowknife,Teller,Chloe,Lee,2020-05-15
+1470,207,LAR207,Large,Northwest Territories,Yellowknife,Teller,Jasmine,Mitchell,2023-05-06
+1471,208,LAR208,Large,British Columbia,Abbotsford,Manager,Jasmine,Roberts,2016-01-11
+1472,208,LAR208,Large,British Columbia,Abbotsford,Advisor,Theo,Kim,2022-05-12
+1473,208,LAR208,Large,British Columbia,Abbotsford,Advisor,Liam,Patel,2023-12-02
+1474,208,LAR208,Large,British Columbia,Abbotsford,Advisor,Colin,Walker,2020-03-12
+1475,208,LAR208,Large,British Columbia,Abbotsford,Advisor,Harper,Khan,2017-09-10
+1476,208,LAR208,Large,British Columbia,Abbotsford,Teller,Grace,Campbell,2021-08-25
+1477,208,LAR208,Large,British Columbia,Abbotsford,Teller,Isaac,Fisher,2020-03-01
+1478,208,LAR208,Large,British Columbia,Abbotsford,Teller,Sam,Irwin,2020-11-23
+1479,208,LAR208,Large,British Columbia,Abbotsford,Teller,Sophia,Gonzalez,2019-10-22
+1480,208,LAR208,Large,British Columbia,Abbotsford,Teller,Isaac,Evans,2020-12-04
+1481,209,LAR209,Large,Nunavut,Iqaluit,Manager,Hannah,Johnson,2019-01-13
+1482,209,LAR209,Large,Nunavut,Iqaluit,Advisor,Sienna,Quinn,2022-06-03
+1483,209,LAR209,Large,Nunavut,Iqaluit,Advisor,Victoria,Edwards,2024-11-07
+1484,209,LAR209,Large,Nunavut,Iqaluit,Advisor,Mila,James,2018-05-07
+1485,209,LAR209,Large,Nunavut,Iqaluit,Advisor,Ava,Garcia,2023-08-22
+1486,209,LAR209,Large,Nunavut,Iqaluit,Teller,Colin,Garcia,2023-07-07
+1487,209,LAR209,Large,Nunavut,Iqaluit,Teller,Leo,Walker,2024-10-17
+1488,209,LAR209,Large,Nunavut,Iqaluit,Teller,Chloe,Zhang,2021-03-23
+1489,209,LAR209,Large,Nunavut,Iqaluit,Teller,Henry,Zhang,2021-06-01
+1490,209,LAR209,Large,Nunavut,Iqaluit,Teller,Sophia,Young,2020-05-15
+1491,210,LAR210,Large,Newfoundland and Labrador,St. John's,Manager,Harper,Clark,2022-05-06
+1492,210,LAR210,Large,Newfoundland and Labrador,St. John's,Advisor,Henry,Clark,2017-10-20
+1493,210,LAR210,Large,Newfoundland and Labrador,St. John's,Advisor,Emma,Lee,2018-05-16
+1494,210,LAR210,Large,Newfoundland and Labrador,St. John's,Advisor,Nora,Xu,2016-10-25
+1495,210,LAR210,Large,Newfoundland and Labrador,St. John's,Advisor,Ella,Garcia,2015-07-21
+1496,210,LAR210,Large,Newfoundland and Labrador,St. John's,Teller,Ruby,Clark,2017-09-15
+1497,210,LAR210,Large,Newfoundland and Labrador,St. John's,Teller,Brooke,Kim,2018-03-27
+1498,210,LAR210,Large,Newfoundland and Labrador,St. John's,Teller,Ella,Underwood,2023-08-02
+1499,210,LAR210,Large,Newfoundland and Labrador,St. John's,Teller,Thomas,Vargas,2022-09-24
+1500,210,LAR210,Large,Newfoundland and Labrador,St. John's,Teller,Jack,Quinn,2015-01-05
+1501,211,LAR211,Large,Manitoba,Brandon,Manager,Grace,Underwood,2021-03-16
+1502,211,LAR211,Large,Manitoba,Brandon,Advisor,Dylan,Roberts,2015-02-25
+1503,211,LAR211,Large,Manitoba,Brandon,Advisor,Ruby,Harris,2016-10-24
+1504,211,LAR211,Large,Manitoba,Brandon,Advisor,Mason,Gonzalez,2024-07-28
+1505,211,LAR211,Large,Manitoba,Brandon,Advisor,Parker,Gonzalez,2016-06-17
+1506,211,LAR211,Large,Manitoba,Brandon,Teller,Theo,Campbell,2019-03-19
+1507,211,LAR211,Large,Manitoba,Brandon,Teller,Chloe,Lee,2020-08-23
+1508,211,LAR211,Large,Manitoba,Brandon,Teller,Hannah,Young,2017-01-09
+1509,211,LAR211,Large,Manitoba,Brandon,Teller,Mason,Clark,2020-01-10
+1510,211,LAR211,Large,Manitoba,Brandon,Teller,Sophia,James,2016-09-07
+1511,212,LAR212,Large,Yukon,Whitehorse,Manager,Julian,Mitchell,2023-06-28
+1512,212,LAR212,Large,Yukon,Whitehorse,Advisor,Victoria,Vargas,2019-11-23
+1513,212,LAR212,Large,Yukon,Whitehorse,Advisor,Dylan,Zhang,2016-09-19
+1514,212,LAR212,Large,Yukon,Whitehorse,Advisor,Zara,Lee,2015-03-17
+1515,212,LAR212,Large,Yukon,Whitehorse,Advisor,Sophia,Zhang,2022-07-11
+1516,212,LAR212,Large,Yukon,Whitehorse,Teller,Jasmine,Hughes,2018-03-17
+1517,212,LAR212,Large,Yukon,Whitehorse,Teller,Olivia,Owen,2023-10-23
+1518,212,LAR212,Large,Yukon,Whitehorse,Teller,Nora,Khan,2023-12-25
+1519,212,LAR212,Large,Yukon,Whitehorse,Teller,Grace,Clark,2022-02-04
+1520,212,LAR212,Large,Yukon,Whitehorse,Teller,Hannah,Campbell,2022-06-10
+1521,213,LAR213,Large,Nunavut,Iqaluit,Manager,Harper,James,2020-03-23
+1522,213,LAR213,Large,Nunavut,Iqaluit,Advisor,Thomas,Campbell,2016-04-05
+1523,213,LAR213,Large,Nunavut,Iqaluit,Advisor,Dylan,Lee,2018-05-05
+1524,213,LAR213,Large,Nunavut,Iqaluit,Advisor,Noah,Kim,2016-07-23
+1525,213,LAR213,Large,Nunavut,Iqaluit,Advisor,Grace,Foster,2015-08-25
+1526,213,LAR213,Large,Nunavut,Iqaluit,Teller,Henry,Davis,2018-02-02
+1527,213,LAR213,Large,Nunavut,Iqaluit,Teller,Colin,Irwin,2024-01-16
+1528,213,LAR213,Large,Nunavut,Iqaluit,Teller,Grace,Sanchez,2015-02-10
+1529,213,LAR213,Large,Nunavut,Iqaluit,Teller,Colin,Brown,2016-02-20
+1530,213,LAR213,Large,Nunavut,Iqaluit,Teller,Noah,Owen,2017-11-12
+1531,214,LAR214,Large,Ontario,Ottawa,Manager,Ruby,Young,2020-03-28
+1532,214,LAR214,Large,Ontario,Ottawa,Advisor,Lily,Roberts,2023-10-03
+1533,214,LAR214,Large,Ontario,Ottawa,Advisor,Ethan,Brown,2023-04-23
+1534,214,LAR214,Large,Ontario,Ottawa,Advisor,Mia,Underwood,2017-09-01
+1535,214,LAR214,Large,Ontario,Ottawa,Advisor,Ethan,Patel,2023-12-16
+1536,214,LAR214,Large,Ontario,Ottawa,Teller,Mason,Nguyen,2022-11-04
+1537,214,LAR214,Large,Ontario,Ottawa,Teller,Liam,Young,2021-07-07
+1538,214,LAR214,Large,Ontario,Ottawa,Teller,Lily,Quinn,2021-02-25
+1539,214,LAR214,Large,Ontario,Ottawa,Teller,Victoria,Johnson,2022-02-17
+1540,214,LAR214,Large,Ontario,Ottawa,Teller,Hannah,Harris,2020-12-10
+1541,215,LAR215,Large,Newfoundland and Labrador,St. John's,Manager,Victoria,Harris,2016-07-10
+1542,215,LAR215,Large,Newfoundland and Labrador,St. John's,Advisor,Jack,Vargas,2022-04-18
+1543,215,LAR215,Large,Newfoundland and Labrador,St. John's,Advisor,Amelia,Underwood,2021-04-28
+1544,215,LAR215,Large,Newfoundland and Labrador,St. John's,Advisor,Daniel,Gonzalez,2020-03-01
+1545,215,LAR215,Large,Newfoundland and Labrador,St. John's,Advisor,Faith,Harris,2016-07-15
+1546,215,LAR215,Large,Newfoundland and Labrador,St. John's,Teller,Nora,Garcia,2016-03-13
+1547,215,LAR215,Large,Newfoundland and Labrador,St. John's,Teller,Lucas,Hughes,2017-02-12
+1548,215,LAR215,Large,Newfoundland and Labrador,St. John's,Teller,Mia,Xu,2018-10-28
+1549,215,LAR215,Large,Newfoundland and Labrador,St. John's,Teller,Lucas,Johnson,2018-07-24
+1550,215,LAR215,Large,Newfoundland and Labrador,St. John's,Teller,Leo,Turner,2024-10-09
+1551,216,LAR216,Large,Yukon,Whitehorse,Manager,Charlotte,Bennett,2022-09-09
+1552,216,LAR216,Large,Yukon,Whitehorse,Advisor,Isaac,Fisher,2016-02-09
+1553,216,LAR216,Large,Yukon,Whitehorse,Advisor,Leo,Harris,2018-11-05
+1554,216,LAR216,Large,Yukon,Whitehorse,Advisor,Ava,Hughes,2015-02-16
+1555,216,LAR216,Large,Yukon,Whitehorse,Advisor,Faith,Campbell,2017-07-20
+1556,216,LAR216,Large,Yukon,Whitehorse,Teller,Faith,Walker,2017-05-20
+1557,216,LAR216,Large,Yukon,Whitehorse,Teller,Sienna,Hughes,2016-11-25
+1558,216,LAR216,Large,Yukon,Whitehorse,Teller,Nora,Harris,2022-04-10
+1559,216,LAR216,Large,Yukon,Whitehorse,Teller,Colin,Harris,2022-09-09
+1560,216,LAR216,Large,Yukon,Whitehorse,Teller,Sam,Xu,2023-09-01
+1561,217,LAR217,Large,Yukon,Whitehorse,Manager,Grace,Adams,2022-06-28
+1562,217,LAR217,Large,Yukon,Whitehorse,Advisor,Ella,Evans,2022-01-02
+1563,217,LAR217,Large,Yukon,Whitehorse,Advisor,Liam,Vargas,2017-08-14
+1564,217,LAR217,Large,Yukon,Whitehorse,Advisor,Hannah,Vargas,2021-08-25
+1565,217,LAR217,Large,Yukon,Whitehorse,Advisor,Grace,Harris,2023-11-18
+1566,217,LAR217,Large,Yukon,Whitehorse,Teller,Theo,Gonzalez,2022-09-28
+1567,217,LAR217,Large,Yukon,Whitehorse,Teller,Jasmine,Irwin,2015-07-09
+1568,217,LAR217,Large,Yukon,Whitehorse,Teller,Leo,Adams,2024-11-12
+1569,217,LAR217,Large,Yukon,Whitehorse,Teller,Sophia,Walker,2015-01-19
+1570,217,LAR217,Large,Yukon,Whitehorse,Teller,Benjamin,Kim,2020-06-26
+1571,218,LAR218,Large,Nunavut,Iqaluit,Manager,Ella,Hughes,2021-06-12
+1572,218,LAR218,Large,Nunavut,Iqaluit,Advisor,Amelia,Young,2015-11-08
+1573,218,LAR218,Large,Nunavut,Iqaluit,Advisor,Owen,Roberts,2019-10-03
+1574,218,LAR218,Large,Nunavut,Iqaluit,Advisor,Dylan,Foster,2019-02-11
+1575,218,LAR218,Large,Nunavut,Iqaluit,Advisor,Jasmine,Campbell,2023-06-02
+1576,218,LAR218,Large,Nunavut,Iqaluit,Teller,Jack,Diaz,2024-09-14
+1577,218,LAR218,Large,Nunavut,Iqaluit,Teller,Ruby,Campbell,2022-10-01
+1578,218,LAR218,Large,Nunavut,Iqaluit,Teller,Victoria,Adams,2024-07-11
+1579,218,LAR218,Large,Nunavut,Iqaluit,Teller,Theo,Hughes,2022-02-23
+1580,218,LAR218,Large,Nunavut,Iqaluit,Teller,Faith,Patel,2020-08-17
+1581,219,LAR219,Large,Yukon,Whitehorse,Manager,Sienna,Vargas,2020-07-07
+1582,219,LAR219,Large,Yukon,Whitehorse,Advisor,Leo,Foster,2023-04-10
+1583,219,LAR219,Large,Yukon,Whitehorse,Advisor,Parker,Edwards,2019-10-13
+1584,219,LAR219,Large,Yukon,Whitehorse,Advisor,Olivia,Garcia,2024-02-19
+1585,219,LAR219,Large,Yukon,Whitehorse,Advisor,William,Turner,2016-10-26
+1586,219,LAR219,Large,Yukon,Whitehorse,Teller,Nora,Gonzalez,2021-04-12
+1587,219,LAR219,Large,Yukon,Whitehorse,Teller,Daniel,Vargas,2023-05-14
+1588,219,LAR219,Large,Yukon,Whitehorse,Teller,Colin,Khan,2020-04-14
+1589,219,LAR219,Large,Yukon,Whitehorse,Teller,Lucas,Sanchez,2024-09-15
+1590,219,LAR219,Large,Yukon,Whitehorse,Teller,Colin,Nguyen,2015-11-23
+1591,220,LAR220,Large,Newfoundland and Labrador,St. John's,Manager,Noah,Fisher,2019-11-18
+1592,220,LAR220,Large,Newfoundland and Labrador,St. John's,Advisor,Sienna,Diaz,2024-12-21
+1593,220,LAR220,Large,Newfoundland and Labrador,St. John's,Advisor,Chloe,James,2018-06-15
+1594,220,LAR220,Large,Newfoundland and Labrador,St. John's,Advisor,Isaac,Roberts,2017-12-22
+1595,220,LAR220,Large,Newfoundland and Labrador,St. John's,Advisor,Thomas,Diaz,2021-06-28
+1596,220,LAR220,Large,Newfoundland and Labrador,St. John's,Teller,Daniel,Patel,2021-05-27
+1597,220,LAR220,Large,Newfoundland and Labrador,St. John's,Teller,Sophia,Mitchell,2019-11-20
+1598,220,LAR220,Large,Newfoundland and Labrador,St. John's,Teller,Owen,Bennett,2018-02-05
+1599,220,LAR220,Large,Newfoundland and Labrador,St. John's,Teller,Mia,Campbell,2018-05-15
+1600,220,LAR220,Large,Newfoundland and Labrador,St. John's,Teller,Leo,Diaz,2021-11-02
+1601,221,LAR221,Large,Alberta,Edmonton,Manager,Hannah,Campbell,2019-05-22
+1602,221,LAR221,Large,Alberta,Edmonton,Advisor,Aria,Nguyen,2015-12-16
+1603,221,LAR221,Large,Alberta,Edmonton,Advisor,Ava,Edwards,2016-06-20
+1604,221,LAR221,Large,Alberta,Edmonton,Advisor,Thomas,Foster,2021-06-22
+1605,221,LAR221,Large,Alberta,Edmonton,Advisor,Colin,Garcia,2021-12-27
+1606,221,LAR221,Large,Alberta,Edmonton,Teller,Hannah,Roberts,2016-10-24
+1607,221,LAR221,Large,Alberta,Edmonton,Teller,Lily,Johnson,2023-11-27
+1608,221,LAR221,Large,Alberta,Edmonton,Teller,Mila,James,2019-08-03
+1609,221,LAR221,Large,Alberta,Edmonton,Teller,Owen,Johnson,2020-06-27
+1610,221,LAR221,Large,Alberta,Edmonton,Teller,Mila,Adams,2018-07-07
+1611,222,LAR222,Large,British Columbia,Vancouver,Manager,Noah,Turner,2022-07-09
+1612,222,LAR222,Large,British Columbia,Vancouver,Advisor,Mila,Edwards,2022-09-12
+1613,222,LAR222,Large,British Columbia,Vancouver,Advisor,Dylan,Johnson,2020-09-14
+1614,222,LAR222,Large,British Columbia,Vancouver,Advisor,Charlotte,Roberts,2019-03-12
+1615,222,LAR222,Large,British Columbia,Vancouver,Advisor,Charlotte,Zhang,2019-01-21
+1616,222,LAR222,Large,British Columbia,Vancouver,Teller,Julian,Davis,2015-12-26
+1617,222,LAR222,Large,British Columbia,Vancouver,Teller,Colin,Roberts,2019-09-13
+1618,222,LAR222,Large,British Columbia,Vancouver,Teller,Thomas,Zhang,2016-09-28
+1619,222,LAR222,Large,British Columbia,Vancouver,Teller,Owen,Evans,2021-01-13
+1620,222,LAR222,Large,British Columbia,Vancouver,Teller,Parker,Vargas,2016-04-10
+1621,223,LAR223,Large,Alberta,Edmonton,Manager,Aaron,Walker,2021-01-09
+1622,223,LAR223,Large,Alberta,Edmonton,Advisor,Emma,Harris,2022-12-14
+1623,223,LAR223,Large,Alberta,Edmonton,Advisor,William,Diaz,2016-03-23
+1624,223,LAR223,Large,Alberta,Edmonton,Advisor,Parker,Irwin,2016-06-14
+1625,223,LAR223,Large,Alberta,Edmonton,Advisor,Julian,Walker,2022-12-01
+1626,223,LAR223,Large,Alberta,Edmonton,Teller,Chloe,Nguyen,2022-11-05
+1627,223,LAR223,Large,Alberta,Edmonton,Teller,Aiden,Bennett,2018-11-10
+1628,223,LAR223,Large,Alberta,Edmonton,Teller,Victoria,Garcia,2016-03-08
+1629,223,LAR223,Large,Alberta,Edmonton,Teller,Nora,Kim,2024-11-14
+1630,223,LAR223,Large,Alberta,Edmonton,Teller,Victoria,Evans,2022-12-05
+1631,224,LAR224,Large,Manitoba,Winnipeg,Manager,Sophia,Owen,2016-07-12
+1632,224,LAR224,Large,Manitoba,Winnipeg,Advisor,Liam,Bennett,2021-10-08
+1633,224,LAR224,Large,Manitoba,Winnipeg,Advisor,Ava,Campbell,2023-11-20
+1634,224,LAR224,Large,Manitoba,Winnipeg,Advisor,Aaron,Quinn,2016-08-07
+1635,224,LAR224,Large,Manitoba,Winnipeg,Advisor,Parker,Mitchell,2015-07-20
+1636,224,LAR224,Large,Manitoba,Winnipeg,Teller,Henry,Sanchez,2017-02-12
+1637,224,LAR224,Large,Manitoba,Winnipeg,Teller,Jasmine,Johnson,2015-12-17
+1638,224,LAR224,Large,Manitoba,Winnipeg,Teller,Henry,Fisher,2022-02-08
+1639,224,LAR224,Large,Manitoba,Winnipeg,Teller,Brooke,Patel,2018-05-10
+1640,224,LAR224,Large,Manitoba,Winnipeg,Teller,Leo,Adams,2017-07-28
+1641,225,LAR225,Large,Alberta,Grande Prairie,Manager,Sophia,Owen,2021-03-14
+1642,225,LAR225,Large,Alberta,Grande Prairie,Advisor,Isaac,Campbell,2019-05-08
+1643,225,LAR225,Large,Alberta,Grande Prairie,Advisor,Sienna,Evans,2018-06-19
+1644,225,LAR225,Large,Alberta,Grande Prairie,Advisor,Faith,Fisher,2016-01-16
+1645,225,LAR225,Large,Alberta,Grande Prairie,Advisor,Hannah,Walker,2021-11-07
+1646,225,LAR225,Large,Alberta,Grande Prairie,Teller,Brooke,Adams,2021-12-20
+1647,225,LAR225,Large,Alberta,Grande Prairie,Teller,Parker,Foster,2016-09-02
+1648,225,LAR225,Large,Alberta,Grande Prairie,Teller,Chloe,Xu,2018-08-12
+1649,225,LAR225,Large,Alberta,Grande Prairie,Teller,Julian,Davis,2015-05-17
+1650,225,LAR225,Large,Alberta,Grande Prairie,Teller,Sienna,Adams,2019-07-22
+1651,226,LAR226,Large,Saskatchewan,Regina,Manager,Mila,Nguyen,2019-03-17
+1652,226,LAR226,Large,Saskatchewan,Regina,Advisor,Leo,Xu,2022-03-03
+1653,226,LAR226,Large,Saskatchewan,Regina,Advisor,Victoria,James,2021-03-09
+1654,226,LAR226,Large,Saskatchewan,Regina,Advisor,Grace,Walker,2015-03-16
+1655,226,LAR226,Large,Saskatchewan,Regina,Advisor,Ruby,Zhang,2021-05-09
+1656,226,LAR226,Large,Saskatchewan,Regina,Teller,Sienna,Sanchez,2023-06-14
+1657,226,LAR226,Large,Saskatchewan,Regina,Teller,Jasmine,Walker,2022-03-18
+1658,226,LAR226,Large,Saskatchewan,Regina,Teller,Colin,Evans,2015-04-05
+1659,226,LAR226,Large,Saskatchewan,Regina,Teller,Chloe,Quinn,2017-01-16
+1660,226,LAR226,Large,Saskatchewan,Regina,Teller,Parker,Mitchell,2022-07-04
+1661,227,LAR227,Large,New Brunswick,Fredericton,Manager,Zara,Harris,2022-08-04
+1662,227,LAR227,Large,New Brunswick,Fredericton,Advisor,Isaac,Johnson,2020-02-07
+1663,227,LAR227,Large,New Brunswick,Fredericton,Advisor,Sophia,Nguyen,2017-12-17
+1664,227,LAR227,Large,New Brunswick,Fredericton,Advisor,Ruby,Patel,2024-01-17
+1665,227,LAR227,Large,New Brunswick,Fredericton,Advisor,Theo,Nguyen,2021-02-08
+1666,227,LAR227,Large,New Brunswick,Fredericton,Teller,Leo,Hughes,2020-01-10
+1667,227,LAR227,Large,New Brunswick,Fredericton,Teller,Faith,Johnson,2021-06-19
+1668,227,LAR227,Large,New Brunswick,Fredericton,Teller,Ethan,Walker,2017-01-03
+1669,227,LAR227,Large,New Brunswick,Fredericton,Teller,Jack,Gonzalez,2022-11-09
+1670,227,LAR227,Large,New Brunswick,Fredericton,Teller,Julian,Brown,2020-01-21
+1671,228,LAR228,Large,Prince Edward Island,Summerside,Manager,Theo,Kim,2018-01-26
+1672,228,LAR228,Large,Prince Edward Island,Summerside,Advisor,Aaliyah,Underwood,2020-01-24
+1673,228,LAR228,Large,Prince Edward Island,Summerside,Advisor,Daniel,Adams,2016-07-09
+1674,228,LAR228,Large,Prince Edward Island,Summerside,Advisor,Liam,Roberts,2021-02-01
+1675,228,LAR228,Large,Prince Edward Island,Summerside,Advisor,Noah,Mitchell,2021-07-10
+1676,228,LAR228,Large,Prince Edward Island,Summerside,Teller,Aaliyah,Lee,2016-05-16
+1677,228,LAR228,Large,Prince Edward Island,Summerside,Teller,Henry,Vargas,2024-03-12
+1678,228,LAR228,Large,Prince Edward Island,Summerside,Teller,Colin,Hughes,2020-09-07
+1679,228,LAR228,Large,Prince Edward Island,Summerside,Teller,Leo,Evans,2021-08-09
+1680,228,LAR228,Large,Prince Edward Island,Summerside,Teller,Theo,Diaz,2016-07-26
+1681,229,LAR229,Large,Saskatchewan,Prince Albert,Manager,Henry,Diaz,2016-01-17
+1682,229,LAR229,Large,Saskatchewan,Prince Albert,Advisor,William,Fisher,2018-11-22
+1683,229,LAR229,Large,Saskatchewan,Prince Albert,Advisor,Brooke,Lee,2022-09-21
+1684,229,LAR229,Large,Saskatchewan,Prince Albert,Advisor,Aaliyah,James,2016-05-15
+1685,229,LAR229,Large,Saskatchewan,Prince Albert,Advisor,Henry,Garcia,2022-05-05
+1686,229,LAR229,Large,Saskatchewan,Prince Albert,Teller,Hannah,Vargas,2018-09-14
+1687,229,LAR229,Large,Saskatchewan,Prince Albert,Teller,Sophia,Edwards,2023-02-02
+1688,229,LAR229,Large,Saskatchewan,Prince Albert,Teller,Lily,Hughes,2023-07-14
+1689,229,LAR229,Large,Saskatchewan,Prince Albert,Teller,Ethan,Fisher,2024-05-12
+1690,229,LAR229,Large,Saskatchewan,Prince Albert,Teller,Parker,Garcia,2023-01-04
+1691,230,LAR230,Large,Nunavut,Iqaluit,Manager,Liam,Bennett,2015-02-14
+1692,230,LAR230,Large,Nunavut,Iqaluit,Advisor,Brooke,Vargas,2020-10-24
+1693,230,LAR230,Large,Nunavut,Iqaluit,Advisor,Jack,Evans,2024-05-11
+1694,230,LAR230,Large,Nunavut,Iqaluit,Advisor,Liam,Patel,2017-02-24
+1695,230,LAR230,Large,Nunavut,Iqaluit,Advisor,Julian,Sanchez,2016-07-18
+1696,230,LAR230,Large,Nunavut,Iqaluit,Teller,Ava,Brown,2021-02-01
+1697,230,LAR230,Large,Nunavut,Iqaluit,Teller,Jasmine,Gonzalez,2022-12-13
+1698,230,LAR230,Large,Nunavut,Iqaluit,Teller,Colin,Harris,2019-10-27
+1699,230,LAR230,Large,Nunavut,Iqaluit,Teller,Sienna,Zhang,2021-05-03
+1700,230,LAR230,Large,Nunavut,Iqaluit,Teller,Hannah,Kim,2015-04-04
+1701,231,LAR231,Large,Ontario,London,Manager,Noah,Gonzalez,2017-11-08
+1702,231,LAR231,Large,Ontario,London,Advisor,Henry,Khan,2018-02-10
+1703,231,LAR231,Large,Ontario,London,Advisor,Jack,Lee,2022-07-01
+1704,231,LAR231,Large,Ontario,London,Advisor,Grace,Mitchell,2017-12-23
+1705,231,LAR231,Large,Ontario,London,Advisor,Harper,Harris,2022-01-28
+1706,231,LAR231,Large,Ontario,London,Teller,Harper,Roberts,2018-05-19
+1707,231,LAR231,Large,Ontario,London,Teller,Lucas,Edwards,2020-01-04
+1708,231,LAR231,Large,Ontario,London,Teller,Aaron,Diaz,2021-08-24
+1709,231,LAR231,Large,Ontario,London,Teller,Mila,Underwood,2015-08-13
+1710,231,LAR231,Large,Ontario,London,Teller,Leo,Irwin,2024-12-20
+1711,232,LAR232,Large,Northwest Territories,Yellowknife,Manager,Brooke,Edwards,2023-01-14
+1712,232,LAR232,Large,Northwest Territories,Yellowknife,Advisor,Theo,Walker,2023-02-09
+1713,232,LAR232,Large,Northwest Territories,Yellowknife,Advisor,Aaliyah,Clark,2022-02-16
+1714,232,LAR232,Large,Northwest Territories,Yellowknife,Advisor,Sienna,Young,2022-12-14
+1715,232,LAR232,Large,Northwest Territories,Yellowknife,Advisor,Ava,Mitchell,2019-12-07
+1716,232,LAR232,Large,Northwest Territories,Yellowknife,Teller,Charlotte,Young,2022-04-17
+1717,232,LAR232,Large,Northwest Territories,Yellowknife,Teller,Olivia,Xu,2024-12-22
+1718,232,LAR232,Large,Northwest Territories,Yellowknife,Teller,Jack,Kim,2019-12-23
+1719,232,LAR232,Large,Northwest Territories,Yellowknife,Teller,Ella,Clark,2020-08-26
+1720,232,LAR232,Large,Northwest Territories,Yellowknife,Teller,Jasmine,Patel,2019-12-24
+1721,233,LAR233,Large,Quebec,Trois-Rivieres,Manager,Hannah,Nguyen,2018-03-20
+1722,233,LAR233,Large,Quebec,Trois-Rivieres,Advisor,Leo,Hughes,2021-08-10
+1723,233,LAR233,Large,Quebec,Trois-Rivieres,Advisor,Owen,Patel,2023-01-01
+1724,233,LAR233,Large,Quebec,Trois-Rivieres,Advisor,Zara,Sanchez,2020-11-06
+1725,233,LAR233,Large,Quebec,Trois-Rivieres,Advisor,Liam,Irwin,2015-02-11
+1726,233,LAR233,Large,Quebec,Trois-Rivieres,Teller,Henry,Johnson,2024-04-04
+1727,233,LAR233,Large,Quebec,Trois-Rivieres,Teller,Aria,Quinn,2022-05-11
+1728,233,LAR233,Large,Quebec,Trois-Rivieres,Teller,Zara,Davis,2023-05-05
+1729,233,LAR233,Large,Quebec,Trois-Rivieres,Teller,Dylan,Irwin,2024-11-04
+1730,233,LAR233,Large,Quebec,Trois-Rivieres,Teller,Brooke,Edwards,2022-08-27
+1731,234,LAR234,Large,Yukon,Whitehorse,Manager,Sienna,Hughes,2023-01-17
+1732,234,LAR234,Large,Yukon,Whitehorse,Advisor,Ethan,Mitchell,2016-04-12
+1733,234,LAR234,Large,Yukon,Whitehorse,Advisor,Jasmine,Underwood,2022-09-16
+1734,234,LAR234,Large,Yukon,Whitehorse,Advisor,Ethan,Lee,2020-06-27
+1735,234,LAR234,Large,Yukon,Whitehorse,Advisor,Hannah,Johnson,2018-08-14
+1736,234,LAR234,Large,Yukon,Whitehorse,Teller,Aiden,Roberts,2022-06-10
+1737,234,LAR234,Large,Yukon,Whitehorse,Teller,Lily,Mitchell,2016-05-12
+1738,234,LAR234,Large,Yukon,Whitehorse,Teller,Brooke,Clark,2020-11-22
+1739,234,LAR234,Large,Yukon,Whitehorse,Teller,Owen,Lee,2023-07-26
+1740,234,LAR234,Large,Yukon,Whitehorse,Teller,Olivia,Kim,2021-07-14
+1741,235,LAR235,Large,New Brunswick,Saint John,Manager,Ava,Evans,2017-01-23
+1742,235,LAR235,Large,New Brunswick,Saint John,Advisor,Nora,Foster,2016-06-11
+1743,235,LAR235,Large,New Brunswick,Saint John,Advisor,Lucas,Mitchell,2021-01-13
+1744,235,LAR235,Large,New Brunswick,Saint John,Advisor,Benjamin,Lee,2024-01-21
+1745,235,LAR235,Large,New Brunswick,Saint John,Advisor,Brooke,James,2019-07-13
+1746,235,LAR235,Large,New Brunswick,Saint John,Teller,Faith,Vargas,2020-06-01
+1747,235,LAR235,Large,New Brunswick,Saint John,Teller,Ruby,James,2024-03-23
+1748,235,LAR235,Large,New Brunswick,Saint John,Teller,Lucas,Evans,2018-09-20
+1749,235,LAR235,Large,New Brunswick,Saint John,Teller,Sienna,Evans,2020-11-13
+1750,235,LAR235,Large,New Brunswick,Saint John,Teller,Mia,Vargas,2016-01-18
+1751,236,LAR236,Large,Saskatchewan,Saskatoon,Manager,Nora,Khan,2019-04-03
+1752,236,LAR236,Large,Saskatchewan,Saskatoon,Advisor,Lily,Vargas,2023-06-25
+1753,236,LAR236,Large,Saskatchewan,Saskatoon,Advisor,Aaron,Mitchell,2015-01-26
+1754,236,LAR236,Large,Saskatchewan,Saskatoon,Advisor,Sam,Sanchez,2018-05-24
+1755,236,LAR236,Large,Saskatchewan,Saskatoon,Advisor,Henry,Irwin,2016-12-02
+1756,236,LAR236,Large,Saskatchewan,Saskatoon,Teller,Mason,Sanchez,2023-06-04
+1757,236,LAR236,Large,Saskatchewan,Saskatoon,Teller,Chloe,Johnson,2022-05-19
+1758,236,LAR236,Large,Saskatchewan,Saskatoon,Teller,Aiden,Fisher,2020-04-26
+1759,236,LAR236,Large,Saskatchewan,Saskatoon,Teller,Mila,Khan,2024-04-12
+1760,236,LAR236,Large,Saskatchewan,Saskatoon,Teller,Thomas,Underwood,2024-11-05
+1761,237,LAR237,Large,Nunavut,Iqaluit,Manager,Owen,Hughes,2020-09-19
+1762,237,LAR237,Large,Nunavut,Iqaluit,Advisor,Mia,Zhang,2022-02-05
+1763,237,LAR237,Large,Nunavut,Iqaluit,Advisor,Brooke,Diaz,2021-02-03
+1764,237,LAR237,Large,Nunavut,Iqaluit,Advisor,Chloe,Diaz,2017-08-07
+1765,237,LAR237,Large,Nunavut,Iqaluit,Advisor,Harper,Foster,2020-11-17
+1766,237,LAR237,Large,Nunavut,Iqaluit,Teller,Lucas,James,2021-05-19
+1767,237,LAR237,Large,Nunavut,Iqaluit,Teller,Leo,Diaz,2022-12-16
+1768,237,LAR237,Large,Nunavut,Iqaluit,Teller,Amelia,Mitchell,2017-09-05
+1769,237,LAR237,Large,Nunavut,Iqaluit,Teller,Leo,Fisher,2017-12-17
+1770,237,LAR237,Large,Nunavut,Iqaluit,Teller,Nora,Johnson,2018-08-16
+1771,238,LAR238,Large,Ontario,Hamilton,Manager,Grace,Clark,2016-02-12
+1772,238,LAR238,Large,Ontario,Hamilton,Advisor,Theo,Underwood,2015-09-05
+1773,238,LAR238,Large,Ontario,Hamilton,Advisor,Grace,Zhang,2019-06-10
+1774,238,LAR238,Large,Ontario,Hamilton,Advisor,Sophia,Harris,2015-03-05
+1775,238,LAR238,Large,Ontario,Hamilton,Advisor,Mila,Clark,2015-05-10
+1776,238,LAR238,Large,Ontario,Hamilton,Teller,Noah,Nguyen,2022-01-04
+1777,238,LAR238,Large,Ontario,Hamilton,Teller,Aria,Young,2016-01-14
+1778,238,LAR238,Large,Ontario,Hamilton,Teller,Charlotte,Vargas,2024-08-11
+1779,238,LAR238,Large,Ontario,Hamilton,Teller,Ella,Gonzalez,2024-03-25
+1780,238,LAR238,Large,Ontario,Hamilton,Teller,Hannah,Irwin,2022-08-22
+1781,239,LAR239,Large,New Brunswick,Fredericton,Manager,Emma,Clark,2021-04-13
+1782,239,LAR239,Large,New Brunswick,Fredericton,Advisor,William,Khan,2015-11-15
+1783,239,LAR239,Large,New Brunswick,Fredericton,Advisor,Ruby,Garcia,2017-12-01
+1784,239,LAR239,Large,New Brunswick,Fredericton,Advisor,Theo,Vargas,2023-11-04
+1785,239,LAR239,Large,New Brunswick,Fredericton,Advisor,Aaliyah,Garcia,2018-10-18
+1786,239,LAR239,Large,New Brunswick,Fredericton,Teller,Theo,Edwards,2024-09-07
+1787,239,LAR239,Large,New Brunswick,Fredericton,Teller,Charlotte,Irwin,2015-02-22
+1788,239,LAR239,Large,New Brunswick,Fredericton,Teller,Sam,Nguyen,2015-05-26
+1789,239,LAR239,Large,New Brunswick,Fredericton,Teller,Noah,Roberts,2024-08-03
+1790,239,LAR239,Large,New Brunswick,Fredericton,Teller,Sam,Walker,2021-10-02
+1791,240,LAR240,Large,New Brunswick,Fredericton,Manager,Henry,Nguyen,2021-01-28
+1792,240,LAR240,Large,New Brunswick,Fredericton,Advisor,Nora,Walker,2021-05-03
+1793,240,LAR240,Large,New Brunswick,Fredericton,Advisor,Grace,Hughes,2023-03-10
+1794,240,LAR240,Large,New Brunswick,Fredericton,Advisor,Isaac,Nguyen,2019-02-05
+1795,240,LAR240,Large,New Brunswick,Fredericton,Advisor,Thomas,Clark,2017-01-20
+1796,240,LAR240,Large,New Brunswick,Fredericton,Teller,Victoria,Nguyen,2015-12-02
+1797,240,LAR240,Large,New Brunswick,Fredericton,Teller,Thomas,Adams,2016-06-05
+1798,240,LAR240,Large,New Brunswick,Fredericton,Teller,Amelia,Walker,2019-07-27
+1799,240,LAR240,Large,New Brunswick,Fredericton,Teller,Grace,Edwards,2018-04-25
+1800,240,LAR240,Large,New Brunswick,Fredericton,Teller,Julian,Roberts,2022-09-25
+1801,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Manager,Ruby,Edwards,2020-08-18
+1802,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Advisor,Amelia,Foster,2022-01-14
+1803,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Advisor,Aaron,Quinn,2015-05-18
+1804,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Advisor,Mila,Hughes,2018-09-21
+1805,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Advisor,Hannah,Vargas,2024-07-15
+1806,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Teller,Emma,Irwin,2018-03-12
+1807,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Teller,Sam,Mitchell,2018-09-14
+1808,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Teller,Aria,Evans,2015-01-27
+1809,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Teller,Jack,Underwood,2017-01-02
+1810,241,LAR241,Large,Newfoundland and Labrador,Corner Brook,Teller,Charlotte,Turner,2024-05-27
+1811,242,LAR242,Large,Northwest Territories,Yellowknife,Manager,Aaron,Patel,2024-09-10
+1812,242,LAR242,Large,Northwest Territories,Yellowknife,Advisor,Benjamin,Mitchell,2023-10-03
+1813,242,LAR242,Large,Northwest Territories,Yellowknife,Advisor,Thomas,Garcia,2021-12-04
+1814,242,LAR242,Large,Northwest Territories,Yellowknife,Advisor,Hannah,Turner,2021-04-20
+1815,242,LAR242,Large,Northwest Territories,Yellowknife,Advisor,Lily,Walker,2020-11-09
+1816,242,LAR242,Large,Northwest Territories,Yellowknife,Teller,Brooke,Evans,2019-04-22
+1817,242,LAR242,Large,Northwest Territories,Yellowknife,Teller,Victoria,Xu,2018-08-20
+1818,242,LAR242,Large,Northwest Territories,Yellowknife,Teller,William,Campbell,2017-11-01
+1819,242,LAR242,Large,Northwest Territories,Yellowknife,Teller,Julian,Gonzalez,2015-01-22
+1820,242,LAR242,Large,Northwest Territories,Yellowknife,Teller,Liam,Clark,2023-12-23
+1821,243,LAR243,Large,New Brunswick,Moncton,Manager,Aaliyah,Foster,2023-01-27
+1822,243,LAR243,Large,New Brunswick,Moncton,Advisor,Colin,Evans,2016-06-27
+1823,243,LAR243,Large,New Brunswick,Moncton,Advisor,Ella,Young,2021-03-27
+1824,243,LAR243,Large,New Brunswick,Moncton,Advisor,Dylan,Brown,2016-08-12
+1825,243,LAR243,Large,New Brunswick,Moncton,Advisor,Mia,Evans,2015-04-24
+1826,243,LAR243,Large,New Brunswick,Moncton,Teller,Ava,Turner,2020-04-03
+1827,243,LAR243,Large,New Brunswick,Moncton,Teller,Sienna,Vargas,2018-04-16
+1828,243,LAR243,Large,New Brunswick,Moncton,Teller,Mason,Davis,2019-08-23
+1829,243,LAR243,Large,New Brunswick,Moncton,Teller,Brooke,Patel,2015-04-27
+1830,243,LAR243,Large,New Brunswick,Moncton,Teller,Aaron,Bennett,2016-05-19
+1831,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Manager,Aria,Owen,2024-11-22
+1832,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Advisor,Julian,Nguyen,2016-10-05
+1833,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Advisor,Daniel,Kim,2019-10-28
+1834,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Advisor,Olivia,James,2019-04-28
+1835,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Advisor,Faith,Campbell,2023-10-09
+1836,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Teller,Faith,Fisher,2015-07-21
+1837,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Teller,Faith,Edwards,2020-07-28
+1838,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Teller,Amelia,Turner,2016-11-17
+1839,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Teller,Jack,Harris,2020-09-25
+1840,244,LAR244,Large,Newfoundland and Labrador,Corner Brook,Teller,Benjamin,Quinn,2015-05-14
+1841,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Manager,Aiden,Bennett,2018-06-03
+1842,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Advisor,Theo,Campbell,2018-12-14
+1843,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Advisor,Daniel,Roberts,2018-03-11
+1844,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Advisor,Thomas,Foster,2016-01-16
+1845,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Advisor,Henry,Campbell,2024-11-11
+1846,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Teller,Parker,Roberts,2016-08-08
+1847,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Teller,William,Edwards,2020-09-26
+1848,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Teller,Owen,Foster,2024-10-15
+1849,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Teller,Ethan,Evans,2024-02-03
+1850,245,LAR245,Large,Newfoundland and Labrador,Corner Brook,Teller,Chloe,Davis,2021-06-28
+1851,246,LAR246,Large,Nunavut,Iqaluit,Manager,Chloe,Evans,2015-05-20
+1852,246,LAR246,Large,Nunavut,Iqaluit,Advisor,Aaron,Diaz,2016-02-22
+1853,246,LAR246,Large,Nunavut,Iqaluit,Advisor,Chloe,Edwards,2019-07-13
+1854,246,LAR246,Large,Nunavut,Iqaluit,Advisor,Ethan,Clark,2018-10-26
+1855,246,LAR246,Large,Nunavut,Iqaluit,Advisor,Colin,Brown,2022-07-15
+1856,246,LAR246,Large,Nunavut,Iqaluit,Teller,Henry,Hughes,2020-11-22
+1857,246,LAR246,Large,Nunavut,Iqaluit,Teller,Ava,Fisher,2023-06-19
+1858,246,LAR246,Large,Nunavut,Iqaluit,Teller,Mia,Hughes,2016-01-20
+1859,246,LAR246,Large,Nunavut,Iqaluit,Teller,Brooke,Foster,2024-04-19
+1860,246,LAR246,Large,Nunavut,Iqaluit,Teller,Hannah,Irwin,2019-06-14
+1861,247,LAR247,Large,New Brunswick,Saint John,Manager,Liam,Roberts,2017-01-02
+1862,247,LAR247,Large,New Brunswick,Saint John,Advisor,Hannah,Vargas,2024-07-17
+1863,247,LAR247,Large,New Brunswick,Saint John,Advisor,Aaliyah,Young,2019-10-18
+1864,247,LAR247,Large,New Brunswick,Saint John,Advisor,Isaac,Lee,2022-05-20
+1865,247,LAR247,Large,New Brunswick,Saint John,Advisor,William,Underwood,2020-01-17
+1866,247,LAR247,Large,New Brunswick,Saint John,Teller,Mila,Lee,2015-04-17
+1867,247,LAR247,Large,New Brunswick,Saint John,Teller,Aria,Edwards,2021-06-07
+1868,247,LAR247,Large,New Brunswick,Saint John,Teller,Mia,Owen,2016-06-07
+1869,247,LAR247,Large,New Brunswick,Saint John,Teller,Colin,Gonzalez,2022-10-23
+1870,247,LAR247,Large,New Brunswick,Saint John,Teller,William,Xu,2024-05-14
+1871,248,LAR248,Large,Saskatchewan,Regina,Manager,Jack,Davis,2022-04-01
+1872,248,LAR248,Large,Saskatchewan,Regina,Advisor,Aaron,Quinn,2018-08-20
+1873,248,LAR248,Large,Saskatchewan,Regina,Advisor,Noah,Roberts,2022-12-25
+1874,248,LAR248,Large,Saskatchewan,Regina,Advisor,William,Adams,2018-07-06
+1875,248,LAR248,Large,Saskatchewan,Regina,Advisor,Aiden,Zhang,2015-02-12
+1876,248,LAR248,Large,Saskatchewan,Regina,Teller,Ava,Johnson,2017-05-15
+1877,248,LAR248,Large,Saskatchewan,Regina,Teller,Mia,Zhang,2015-01-07
+1878,248,LAR248,Large,Saskatchewan,Regina,Teller,Mia,Underwood,2017-04-09
+1879,248,LAR248,Large,Saskatchewan,Regina,Teller,Liam,Xu,2023-04-06
+1880,248,LAR248,Large,Saskatchewan,Regina,Teller,Mia,Campbell,2017-05-04
+1881,249,LAR249,Large,Ontario,Hamilton,Manager,Aaliyah,Johnson,2020-04-10
+1882,249,LAR249,Large,Ontario,Hamilton,Advisor,Jack,Roberts,2020-06-22
+1883,249,LAR249,Large,Ontario,Hamilton,Advisor,Jasmine,James,2024-07-23
+1884,249,LAR249,Large,Ontario,Hamilton,Advisor,Daniel,Johnson,2017-03-26
+1885,249,LAR249,Large,Ontario,Hamilton,Advisor,Mia,Owen,2023-07-23
+1886,249,LAR249,Large,Ontario,Hamilton,Teller,Mason,Walker,2024-07-21
+1887,249,LAR249,Large,Ontario,Hamilton,Teller,Owen,Davis,2024-10-07
+1888,249,LAR249,Large,Ontario,Hamilton,Teller,Sam,Underwood,2017-06-08
+1889,249,LAR249,Large,Ontario,Hamilton,Teller,Chloe,Turner,2017-09-19
+1890,249,LAR249,Large,Ontario,Hamilton,Teller,Leo,Patel,2016-08-26
+1891,250,LAR250,Large,Northwest Territories,Yellowknife,Manager,Lily,Adams,2023-06-16
+1892,250,LAR250,Large,Northwest Territories,Yellowknife,Advisor,Nora,Fisher,2017-06-23
+1893,250,LAR250,Large,Northwest Territories,Yellowknife,Advisor,Mason,James,2022-12-16
+1894,250,LAR250,Large,Northwest Territories,Yellowknife,Advisor,Charlotte,Turner,2024-07-21
+1895,250,LAR250,Large,Northwest Territories,Yellowknife,Advisor,Mila,Davis,2018-04-07
+1896,250,LAR250,Large,Northwest Territories,Yellowknife,Teller,Harper,Roberts,2021-04-10
+1897,250,LAR250,Large,Northwest Territories,Yellowknife,Teller,Henry,Adams,2024-03-27
+1898,250,LAR250,Large,Northwest Territories,Yellowknife,Teller,Mason,Sanchez,2023-02-05
+1899,250,LAR250,Large,Northwest Territories,Yellowknife,Teller,Emma,Underwood,2022-09-12
+1900,250,LAR250,Large,Northwest Territories,Yellowknife,Teller,Olivia,Davis,2022-09-20
+1901,251,LAR251,Large,Saskatchewan,Saskatoon,Manager,Jack,Diaz,2021-06-26
+1902,251,LAR251,Large,Saskatchewan,Saskatoon,Advisor,Leo,Walker,2019-07-01
+1903,251,LAR251,Large,Saskatchewan,Saskatoon,Advisor,Liam,Evans,2018-05-21
+1904,251,LAR251,Large,Saskatchewan,Saskatoon,Advisor,Daniel,Young,2016-05-27
+1905,251,LAR251,Large,Saskatchewan,Saskatoon,Advisor,Lily,Irwin,2023-11-03
+1906,251,LAR251,Large,Saskatchewan,Saskatoon,Teller,Ruby,Quinn,2016-02-03
+1907,251,LAR251,Large,Saskatchewan,Saskatoon,Teller,Mason,Davis,2023-04-11
+1908,251,LAR251,Large,Saskatchewan,Saskatoon,Teller,Mia,Xu,2019-05-24
+1909,251,LAR251,Large,Saskatchewan,Saskatoon,Teller,Faith,Turner,2018-12-20
+1910,251,LAR251,Large,Saskatchewan,Saskatoon,Teller,Hannah,Khan,2019-01-25
+1911,252,LAR252,Large,Manitoba,Brandon,Manager,Lucas,Bennett,2024-11-01
+1912,252,LAR252,Large,Manitoba,Brandon,Advisor,Charlotte,Irwin,2017-07-08
+1913,252,LAR252,Large,Manitoba,Brandon,Advisor,Olivia,Patel,2022-04-17
+1914,252,LAR252,Large,Manitoba,Brandon,Advisor,Mila,Fisher,2022-06-26
+1915,252,LAR252,Large,Manitoba,Brandon,Advisor,Emma,Walker,2018-07-25
+1916,252,LAR252,Large,Manitoba,Brandon,Teller,Dylan,Clark,2018-08-15
+1917,252,LAR252,Large,Manitoba,Brandon,Teller,Aria,Campbell,2020-03-19
+1918,252,LAR252,Large,Manitoba,Brandon,Teller,Hannah,Vargas,2015-08-26
+1919,252,LAR252,Large,Manitoba,Brandon,Teller,Colin,Young,2020-04-14
+1920,252,LAR252,Large,Manitoba,Brandon,Teller,Henry,Bennett,2023-05-11
+1921,253,LAR253,Large,Prince Edward Island,Charlottetown,Manager,Hannah,Lee,2020-10-21
+1922,253,LAR253,Large,Prince Edward Island,Charlottetown,Advisor,Julian,Bennett,2021-04-13
+1923,253,LAR253,Large,Prince Edward Island,Charlottetown,Advisor,Daniel,Khan,2021-04-16
+1924,253,LAR253,Large,Prince Edward Island,Charlottetown,Advisor,Ethan,Xu,2024-08-21
+1925,253,LAR253,Large,Prince Edward Island,Charlottetown,Advisor,Thomas,Garcia,2017-02-22
+1926,253,LAR253,Large,Prince Edward Island,Charlottetown,Teller,Aria,Nguyen,2015-12-20
+1927,253,LAR253,Large,Prince Edward Island,Charlottetown,Teller,Leo,Campbell,2017-04-03
+1928,253,LAR253,Large,Prince Edward Island,Charlottetown,Teller,Ella,Underwood,2018-04-10
+1929,253,LAR253,Large,Prince Edward Island,Charlottetown,Teller,Colin,James,2016-08-02
+1930,253,LAR253,Large,Prince Edward Island,Charlottetown,Teller,Mason,James,2015-03-11
+1931,254,LAR254,Large,Nova Scotia,Dartmouth,Manager,Grace,Kim,2023-07-16
+1932,254,LAR254,Large,Nova Scotia,Dartmouth,Advisor,Daniel,Adams,2018-03-28
+1933,254,LAR254,Large,Nova Scotia,Dartmouth,Advisor,Noah,Vargas,2021-12-22
+1934,254,LAR254,Large,Nova Scotia,Dartmouth,Advisor,Charlotte,Mitchell,2024-10-10
+1935,254,LAR254,Large,Nova Scotia,Dartmouth,Advisor,Mila,Owen,2023-12-22
+1936,254,LAR254,Large,Nova Scotia,Dartmouth,Teller,Jack,Turner,2018-01-05
+1937,254,LAR254,Large,Nova Scotia,Dartmouth,Teller,Harper,Foster,2021-10-26
+1938,254,LAR254,Large,Nova Scotia,Dartmouth,Teller,Owen,James,2020-10-16
+1939,254,LAR254,Large,Nova Scotia,Dartmouth,Teller,Jack,Fisher,2024-01-24
+1940,254,LAR254,Large,Nova Scotia,Dartmouth,Teller,Emma,Underwood,2022-06-23
+1941,255,LAR255,Large,Nunavut,Iqaluit,Manager,Sienna,Nguyen,2021-04-06
+1942,255,LAR255,Large,Nunavut,Iqaluit,Advisor,Sienna,Diaz,2022-07-22
+1943,255,LAR255,Large,Nunavut,Iqaluit,Advisor,Liam,Hughes,2021-12-02
+1944,255,LAR255,Large,Nunavut,Iqaluit,Advisor,Owen,Mitchell,2019-11-18
+1945,255,LAR255,Large,Nunavut,Iqaluit,Advisor,Sophia,Foster,2018-08-14
+1946,255,LAR255,Large,Nunavut,Iqaluit,Teller,Aria,Johnson,2020-02-25
+1947,255,LAR255,Large,Nunavut,Iqaluit,Teller,Ethan,Irwin,2020-07-15
+1948,255,LAR255,Large,Nunavut,Iqaluit,Teller,Jasmine,Sanchez,2018-09-02
+1949,255,LAR255,Large,Nunavut,Iqaluit,Teller,Jack,Campbell,2016-11-23
+1950,255,LAR255,Large,Nunavut,Iqaluit,Teller,Faith,Fisher,2021-06-24
+1951,256,LAR256,Large,Nova Scotia,Halifax,Manager,Benjamin,Brown,2019-02-23
+1952,256,LAR256,Large,Nova Scotia,Halifax,Advisor,Hannah,Walker,2022-08-15
+1953,256,LAR256,Large,Nova Scotia,Halifax,Advisor,Daniel,Garcia,2023-11-08
+1954,256,LAR256,Large,Nova Scotia,Halifax,Advisor,Brooke,Evans,2017-08-27
+1955,256,LAR256,Large,Nova Scotia,Halifax,Advisor,Ruby,Mitchell,2017-01-20
+1956,256,LAR256,Large,Nova Scotia,Halifax,Teller,Ethan,Nguyen,2019-02-18
+1957,256,LAR256,Large,Nova Scotia,Halifax,Teller,Lucas,Mitchell,2016-11-25
+1958,256,LAR256,Large,Nova Scotia,Halifax,Teller,Aiden,Turner,2017-08-12
+1959,256,LAR256,Large,Nova Scotia,Halifax,Teller,Liam,Patel,2015-11-18
+1960,256,LAR256,Large,Nova Scotia,Halifax,Teller,Noah,Evans,2015-11-26
+1961,257,LAR257,Large,Newfoundland and Labrador,St. John's,Manager,Dylan,Vargas,2022-01-20
+1962,257,LAR257,Large,Newfoundland and Labrador,St. John's,Advisor,Aiden,Edwards,2021-04-08
+1963,257,LAR257,Large,Newfoundland and Labrador,St. John's,Advisor,Mason,Roberts,2018-02-01
+1964,257,LAR257,Large,Newfoundland and Labrador,St. John's,Advisor,Amelia,Campbell,2015-06-27
+1965,257,LAR257,Large,Newfoundland and Labrador,St. John's,Advisor,Mia,Foster,2018-02-26
+1966,257,LAR257,Large,Newfoundland and Labrador,St. John's,Teller,Colin,Mitchell,2017-01-14
+1967,257,LAR257,Large,Newfoundland and Labrador,St. John's,Teller,Lily,Hughes,2020-06-18
+1968,257,LAR257,Large,Newfoundland and Labrador,St. John's,Teller,Aaron,Owen,2024-04-18
+1969,257,LAR257,Large,Newfoundland and Labrador,St. John's,Teller,Lucas,Diaz,2016-04-07
+1970,257,LAR257,Large,Newfoundland and Labrador,St. John's,Teller,Ethan,Young,2020-03-01
+1971,258,LAR258,Large,Nova Scotia,Sydney,Manager,Aiden,Adams,2018-08-08
+1972,258,LAR258,Large,Nova Scotia,Sydney,Advisor,Daniel,Turner,2024-06-02
+1973,258,LAR258,Large,Nova Scotia,Sydney,Advisor,Daniel,Patel,2021-05-25
+1974,258,LAR258,Large,Nova Scotia,Sydney,Advisor,Julian,Harris,2016-12-18
+1975,258,LAR258,Large,Nova Scotia,Sydney,Advisor,Theo,Mitchell,2019-02-20
+1976,258,LAR258,Large,Nova Scotia,Sydney,Teller,Victoria,Adams,2017-06-06
+1977,258,LAR258,Large,Nova Scotia,Sydney,Teller,Aaron,Walker,2022-02-11
+1978,258,LAR258,Large,Nova Scotia,Sydney,Teller,Ava,Evans,2021-09-21
+1979,258,LAR258,Large,Nova Scotia,Sydney,Teller,Olivia,Irwin,2024-12-01
+1980,258,LAR258,Large,Nova Scotia,Sydney,Teller,Olivia,Campbell,2024-02-10
+1981,259,LAR259,Large,Alberta,Lethbridge,Manager,Sienna,Garcia,2015-03-12
+1982,259,LAR259,Large,Alberta,Lethbridge,Advisor,Leo,Underwood,2018-03-13
+1983,259,LAR259,Large,Alberta,Lethbridge,Advisor,Noah,Davis,2018-12-20
+1984,259,LAR259,Large,Alberta,Lethbridge,Advisor,Harper,Xu,2017-05-11
+1985,259,LAR259,Large,Alberta,Lethbridge,Advisor,Aaliyah,Davis,2023-07-21
+1986,259,LAR259,Large,Alberta,Lethbridge,Teller,Sophia,Campbell,2018-12-11
+1987,259,LAR259,Large,Alberta,Lethbridge,Teller,William,Roberts,2018-09-02
+1988,259,LAR259,Large,Alberta,Lethbridge,Teller,Colin,Roberts,2018-10-28
+1989,259,LAR259,Large,Alberta,Lethbridge,Teller,Ella,James,2020-03-15
+1990,259,LAR259,Large,Alberta,Lethbridge,Teller,Aaron,Brown,2016-08-03
+1991,260,LAR260,Large,Alberta,Calgary,Manager,Noah,Kim,2016-03-19
+1992,260,LAR260,Large,Alberta,Calgary,Advisor,Aria,Patel,2018-09-03
+1993,260,LAR260,Large,Alberta,Calgary,Advisor,Henry,Fisher,2019-03-24
+1994,260,LAR260,Large,Alberta,Calgary,Advisor,Mia,Roberts,2021-03-20
+1995,260,LAR260,Large,Alberta,Calgary,Advisor,Owen,Vargas,2019-10-15
+1996,260,LAR260,Large,Alberta,Calgary,Teller,Aaron,Owen,2019-08-03
+1997,260,LAR260,Large,Alberta,Calgary,Teller,Mason,Bennett,2021-03-16
+1998,260,LAR260,Large,Alberta,Calgary,Teller,Harper,Diaz,2023-10-24
+1999,260,LAR260,Large,Alberta,Calgary,Teller,Henry,Lee,2022-01-25
+2000,260,LAR260,Large,Alberta,Calgary,Teller,Ella,Diaz,2016-05-20
+2001,261,LAR261,Large,Newfoundland and Labrador,St. John's,Manager,Parker,Adams,2022-05-15
+2002,261,LAR261,Large,Newfoundland and Labrador,St. John's,Advisor,Sophia,Adams,2023-10-16
+2003,261,LAR261,Large,Newfoundland and Labrador,St. John's,Advisor,Daniel,Xu,2017-12-16
+2004,261,LAR261,Large,Newfoundland and Labrador,St. John's,Advisor,Mia,Lee,2018-01-01
+2005,261,LAR261,Large,Newfoundland and Labrador,St. John's,Advisor,Lily,Zhang,2022-07-14
+2006,261,LAR261,Large,Newfoundland and Labrador,St. John's,Teller,Lucas,Zhang,2021-08-10
+2007,261,LAR261,Large,Newfoundland and Labrador,St. John's,Teller,Aaliyah,Foster,2021-01-04
+2008,261,LAR261,Large,Newfoundland and Labrador,St. John's,Teller,Ella,Mitchell,2018-07-09
+2009,261,LAR261,Large,Newfoundland and Labrador,St. John's,Teller,Zara,Irwin,2022-11-23
+2010,261,LAR261,Large,Newfoundland and Labrador,St. John's,Teller,Mason,Edwards,2021-07-24
+2011,262,LAR262,Large,Alberta,Edmonton,Manager,Benjamin,Zhang,2015-12-22
+2012,262,LAR262,Large,Alberta,Edmonton,Advisor,Aaliyah,Lee,2019-10-15
+2013,262,LAR262,Large,Alberta,Edmonton,Advisor,Faith,Lee,2019-04-20
+2014,262,LAR262,Large,Alberta,Edmonton,Advisor,Mila,Mitchell,2015-02-25
+2015,262,LAR262,Large,Alberta,Edmonton,Advisor,Emma,Adams,2021-12-19
+2016,262,LAR262,Large,Alberta,Edmonton,Teller,Emma,James,2018-07-06
+2017,262,LAR262,Large,Alberta,Edmonton,Teller,Henry,Sanchez,2019-09-18
+2018,262,LAR262,Large,Alberta,Edmonton,Teller,Colin,Adams,2024-05-24
+2019,262,LAR262,Large,Alberta,Edmonton,Teller,Amelia,Garcia,2016-11-19
+2020,262,LAR262,Large,Alberta,Edmonton,Teller,Zara,Lee,2019-12-07
+2021,263,LAR263,Large,Nunavut,Iqaluit,Manager,Aiden,Mitchell,2022-01-04
+2022,263,LAR263,Large,Nunavut,Iqaluit,Advisor,Daniel,Clark,2023-07-21
+2023,263,LAR263,Large,Nunavut,Iqaluit,Advisor,Sophia,Diaz,2017-03-12
+2024,263,LAR263,Large,Nunavut,Iqaluit,Advisor,Liam,Kim,2018-08-06
+2025,263,LAR263,Large,Nunavut,Iqaluit,Advisor,Lily,Johnson,2022-10-27
+2026,263,LAR263,Large,Nunavut,Iqaluit,Teller,Noah,Nguyen,2018-01-24
+2027,263,LAR263,Large,Nunavut,Iqaluit,Teller,Liam,Owen,2019-07-15
+2028,263,LAR263,Large,Nunavut,Iqaluit,Teller,Aaron,Hughes,2017-02-10
+2029,263,LAR263,Large,Nunavut,Iqaluit,Teller,Emma,Adams,2016-05-03
+2030,263,LAR263,Large,Nunavut,Iqaluit,Teller,William,Campbell,2024-04-16
+2031,264,LAR264,Large,New Brunswick,Saint John,Manager,Aiden,Edwards,2019-01-22
+2032,264,LAR264,Large,New Brunswick,Saint John,Advisor,Mila,Davis,2016-04-17
+2033,264,LAR264,Large,New Brunswick,Saint John,Advisor,Aiden,Adams,2024-09-25
+2034,264,LAR264,Large,New Brunswick,Saint John,Advisor,Ruby,Harris,2022-06-20
+2035,264,LAR264,Large,New Brunswick,Saint John,Advisor,Henry,Xu,2020-11-11
+2036,264,LAR264,Large,New Brunswick,Saint John,Teller,Victoria,Roberts,2020-11-13
+2037,264,LAR264,Large,New Brunswick,Saint John,Teller,Ella,Edwards,2020-06-26
+2038,264,LAR264,Large,New Brunswick,Saint John,Teller,Ethan,Brown,2022-12-13
+2039,264,LAR264,Large,New Brunswick,Saint John,Teller,Hannah,Campbell,2024-02-28
+2040,264,LAR264,Large,New Brunswick,Saint John,Teller,Nora,Turner,2018-06-15
+2041,265,LAR265,Large,Prince Edward Island,Summerside,Manager,Amelia,Owen,2015-11-27
+2042,265,LAR265,Large,Prince Edward Island,Summerside,Advisor,Victoria,Campbell,2020-01-26
+2043,265,LAR265,Large,Prince Edward Island,Summerside,Advisor,Victoria,Evans,2018-10-16
+2044,265,LAR265,Large,Prince Edward Island,Summerside,Advisor,Lucas,Garcia,2020-07-16
+2045,265,LAR265,Large,Prince Edward Island,Summerside,Advisor,Colin,Hughes,2021-05-20
+2046,265,LAR265,Large,Prince Edward Island,Summerside,Teller,Mia,Lee,2023-10-26
+2047,265,LAR265,Large,Prince Edward Island,Summerside,Teller,Brooke,Irwin,2015-03-16
+2048,265,LAR265,Large,Prince Edward Island,Summerside,Teller,Emma,Vargas,2023-08-06
+2049,265,LAR265,Large,Prince Edward Island,Summerside,Teller,Harper,Johnson,2022-11-18
+2050,265,LAR265,Large,Prince Edward Island,Summerside,Teller,Owen,Roberts,2018-03-25
+2051,266,LAR266,Large,Northwest Territories,Yellowknife,Manager,Henry,Campbell,2017-06-13
+2052,266,LAR266,Large,Northwest Territories,Yellowknife,Advisor,Ruby,Quinn,2019-11-16
+2053,266,LAR266,Large,Northwest Territories,Yellowknife,Advisor,Colin,Johnson,2017-09-21
+2054,266,LAR266,Large,Northwest Territories,Yellowknife,Advisor,Leo,Garcia,2020-04-19
+2055,266,LAR266,Large,Northwest Territories,Yellowknife,Advisor,Julian,Foster,2020-07-23
+2056,266,LAR266,Large,Northwest Territories,Yellowknife,Teller,Ella,Diaz,2018-04-09
+2057,266,LAR266,Large,Northwest Territories,Yellowknife,Teller,Grace,Underwood,2016-02-03
+2058,266,LAR266,Large,Northwest Territories,Yellowknife,Teller,William,Owen,2016-10-12
+2059,266,LAR266,Large,Northwest Territories,Yellowknife,Teller,Hannah,Walker,2021-10-24
+2060,266,LAR266,Large,Northwest Territories,Yellowknife,Teller,Aiden,Vargas,2015-10-18
+2061,267,LAR267,Large,Alberta,Lethbridge,Manager,Victoria,Zhang,2017-09-22
+2062,267,LAR267,Large,Alberta,Lethbridge,Advisor,Julian,Quinn,2016-07-01
+2063,267,LAR267,Large,Alberta,Lethbridge,Advisor,Sam,Fisher,2020-03-27
+2064,267,LAR267,Large,Alberta,Lethbridge,Advisor,Sophia,Quinn,2022-11-15
+2065,267,LAR267,Large,Alberta,Lethbridge,Advisor,Isaac,Underwood,2017-12-22
+2066,267,LAR267,Large,Alberta,Lethbridge,Teller,Dylan,Davis,2024-06-10
+2067,267,LAR267,Large,Alberta,Lethbridge,Teller,Lily,Johnson,2019-12-19
+2068,267,LAR267,Large,Alberta,Lethbridge,Teller,Charlotte,Patel,2022-05-23
+2069,267,LAR267,Large,Alberta,Lethbridge,Teller,Ella,Edwards,2020-03-27
+2070,267,LAR267,Large,Alberta,Lethbridge,Teller,Brooke,Patel,2018-12-24
+2071,268,LAR268,Large,Ontario,Hamilton,Manager,Lucas,Vargas,2017-01-18
+2072,268,LAR268,Large,Ontario,Hamilton,Advisor,Lucas,Xu,2021-11-16
+2073,268,LAR268,Large,Ontario,Hamilton,Advisor,Zara,Bennett,2021-02-17
+2074,268,LAR268,Large,Ontario,Hamilton,Advisor,Sophia,Underwood,2018-12-28
+2075,268,LAR268,Large,Ontario,Hamilton,Advisor,Aria,Bennett,2016-03-11
+2076,268,LAR268,Large,Ontario,Hamilton,Teller,Mila,Edwards,2019-08-21
+2077,268,LAR268,Large,Ontario,Hamilton,Teller,Jasmine,Kim,2022-12-16
+2078,268,LAR268,Large,Ontario,Hamilton,Teller,Sophia,Lee,2018-04-26
+2079,268,LAR268,Large,Ontario,Hamilton,Teller,Mia,Brown,2020-12-28
+2080,268,LAR268,Large,Ontario,Hamilton,Teller,Theo,Hughes,2017-07-14
+2081,269,LAR269,Large,Northwest Territories,Yellowknife,Manager,Ethan,Young,2022-03-02
+2082,269,LAR269,Large,Northwest Territories,Yellowknife,Advisor,Grace,Irwin,2020-10-14
+2083,269,LAR269,Large,Northwest Territories,Yellowknife,Advisor,Isaac,Bennett,2018-01-04
+2084,269,LAR269,Large,Northwest Territories,Yellowknife,Advisor,Owen,Bennett,2022-05-23
+2085,269,LAR269,Large,Northwest Territories,Yellowknife,Advisor,Julian,Nguyen,2021-12-26
+2086,269,LAR269,Large,Northwest Territories,Yellowknife,Teller,Colin,Garcia,2022-11-13
+2087,269,LAR269,Large,Northwest Territories,Yellowknife,Teller,Ruby,Evans,2020-01-04
+2088,269,LAR269,Large,Northwest Territories,Yellowknife,Teller,Grace,Garcia,2016-08-21
+2089,269,LAR269,Large,Northwest Territories,Yellowknife,Teller,Colin,Irwin,2018-01-19
+2090,269,LAR269,Large,Northwest Territories,Yellowknife,Teller,Theo,Gonzalez,2019-12-24
+2091,270,LAR270,Large,Quebec,Longueuil,Manager,Ella,Gonzalez,2021-05-19
+2092,270,LAR270,Large,Quebec,Longueuil,Advisor,Hannah,Hughes,2020-02-23
+2093,270,LAR270,Large,Quebec,Longueuil,Advisor,Sam,Nguyen,2021-12-01
+2094,270,LAR270,Large,Quebec,Longueuil,Advisor,Lucas,Khan,2023-08-03
+2095,270,LAR270,Large,Quebec,Longueuil,Advisor,Nora,Khan,2016-04-22
+2096,270,LAR270,Large,Quebec,Longueuil,Teller,Grace,Nguyen,2024-12-06
+2097,270,LAR270,Large,Quebec,Longueuil,Teller,Aiden,Evans,2020-02-02
+2098,270,LAR270,Large,Quebec,Longueuil,Teller,Hannah,Patel,2017-02-18
+2099,270,LAR270,Large,Quebec,Longueuil,Teller,Parker,Davis,2016-02-17
+2100,270,LAR270,Large,Quebec,Longueuil,Teller,Thomas,Zhang,2023-03-14
+2101,271,LAR271,Large,Northwest Territories,Yellowknife,Manager,Thomas,Davis,2023-05-22
+2102,271,LAR271,Large,Northwest Territories,Yellowknife,Advisor,Sam,Evans,2017-10-16
+2103,271,LAR271,Large,Northwest Territories,Yellowknife,Advisor,Dylan,Walker,2023-06-20
+2104,271,LAR271,Large,Northwest Territories,Yellowknife,Advisor,Sam,Irwin,2018-12-04
+2105,271,LAR271,Large,Northwest Territories,Yellowknife,Advisor,Colin,Davis,2018-01-07
+2106,271,LAR271,Large,Northwest Territories,Yellowknife,Teller,Isaac,Vargas,2018-03-20
+2107,271,LAR271,Large,Northwest Territories,Yellowknife,Teller,Aria,Patel,2024-06-09
+2108,271,LAR271,Large,Northwest Territories,Yellowknife,Teller,Hannah,Diaz,2016-09-09
+2109,271,LAR271,Large,Northwest Territories,Yellowknife,Teller,Parker,Adams,2017-07-15
+2110,271,LAR271,Large,Northwest Territories,Yellowknife,Teller,Emma,Sanchez,2021-12-05
+2111,272,LAR272,Large,Newfoundland and Labrador,St. John's,Manager,Aaron,Turner,2018-12-12
+2112,272,LAR272,Large,Newfoundland and Labrador,St. John's,Advisor,Theo,Irwin,2024-03-14
+2113,272,LAR272,Large,Newfoundland and Labrador,St. John's,Advisor,Isaac,Walker,2021-07-01
+2114,272,LAR272,Large,Newfoundland and Labrador,St. John's,Advisor,Julian,Roberts,2016-05-04
+2115,272,LAR272,Large,Newfoundland and Labrador,St. John's,Advisor,Sam,Johnson,2023-07-03
+2116,272,LAR272,Large,Newfoundland and Labrador,St. John's,Teller,William,Garcia,2020-06-25
+2117,272,LAR272,Large,Newfoundland and Labrador,St. John's,Teller,Ruby,Lee,2018-05-01
+2118,272,LAR272,Large,Newfoundland and Labrador,St. John's,Teller,Ethan,Adams,2018-07-04
+2119,272,LAR272,Large,Newfoundland and Labrador,St. John's,Teller,Grace,Nguyen,2023-12-10
+2120,272,LAR272,Large,Newfoundland and Labrador,St. John's,Teller,Mila,Harris,2016-09-12
+2121,273,LAR273,Large,Nunavut,Iqaluit,Manager,Julian,Hughes,2015-03-11
+2122,273,LAR273,Large,Nunavut,Iqaluit,Advisor,Ella,Nguyen,2020-12-22
+2123,273,LAR273,Large,Nunavut,Iqaluit,Advisor,Sam,Bennett,2022-10-05
+2124,273,LAR273,Large,Nunavut,Iqaluit,Advisor,Parker,Brown,2023-12-05
+2125,273,LAR273,Large,Nunavut,Iqaluit,Advisor,Colin,Kim,2017-07-19
+2126,273,LAR273,Large,Nunavut,Iqaluit,Teller,Ruby,Edwards,2020-12-25
+2127,273,LAR273,Large,Nunavut,Iqaluit,Teller,Owen,Clark,2022-03-15
+2128,273,LAR273,Large,Nunavut,Iqaluit,Teller,Zara,Fisher,2023-05-09
+2129,273,LAR273,Large,Nunavut,Iqaluit,Teller,Henry,James,2018-05-21
+2130,273,LAR273,Large,Nunavut,Iqaluit,Teller,Emma,Vargas,2021-06-28
+2131,274,LAR274,Large,Quebec,Trois-Rivieres,Manager,Daniel,Roberts,2016-03-19
+2132,274,LAR274,Large,Quebec,Trois-Rivieres,Advisor,Chloe,Garcia,2019-09-16
+2133,274,LAR274,Large,Quebec,Trois-Rivieres,Advisor,Aiden,Diaz,2023-12-05
+2134,274,LAR274,Large,Quebec,Trois-Rivieres,Advisor,Charlotte,Harris,2023-11-22
+2135,274,LAR274,Large,Quebec,Trois-Rivieres,Advisor,Sam,Johnson,2021-01-20
+2136,274,LAR274,Large,Quebec,Trois-Rivieres,Teller,Mia,Brown,2021-12-18
+2137,274,LAR274,Large,Quebec,Trois-Rivieres,Teller,Zara,Roberts,2023-11-20
+2138,274,LAR274,Large,Quebec,Trois-Rivieres,Teller,Benjamin,Evans,2017-11-25
+2139,274,LAR274,Large,Quebec,Trois-Rivieres,Teller,Nora,Quinn,2017-02-12
+2140,274,LAR274,Large,Quebec,Trois-Rivieres,Teller,Hannah,Irwin,2020-01-14
+2141,275,LAR275,Large,New Brunswick,Moncton,Manager,Mason,Johnson,2020-11-08
+2142,275,LAR275,Large,New Brunswick,Moncton,Advisor,Sam,Johnson,2019-05-16
+2143,275,LAR275,Large,New Brunswick,Moncton,Advisor,Sophia,Sanchez,2018-01-24
+2144,275,LAR275,Large,New Brunswick,Moncton,Advisor,Aaron,Bennett,2018-05-21
+2145,275,LAR275,Large,New Brunswick,Moncton,Advisor,Lily,Davis,2022-10-28
+2146,275,LAR275,Large,New Brunswick,Moncton,Teller,Leo,Edwards,2020-01-20
+2147,275,LAR275,Large,New Brunswick,Moncton,Teller,Jack,Xu,2019-06-04
+2148,275,LAR275,Large,New Brunswick,Moncton,Teller,Aiden,Young,2017-07-12
+2149,275,LAR275,Large,New Brunswick,Moncton,Teller,Aiden,Hughes,2021-08-07
+2150,275,LAR275,Large,New Brunswick,Moncton,Teller,Emma,James,2023-03-14
+2151,276,LAR276,Large,Quebec,Gatineau,Manager,Isaac,Sanchez,2018-08-13
+2152,276,LAR276,Large,Quebec,Gatineau,Advisor,Mason,Vargas,2020-07-06
+2153,276,LAR276,Large,Quebec,Gatineau,Advisor,Sam,Turner,2016-08-22
+2154,276,LAR276,Large,Quebec,Gatineau,Advisor,Harper,Mitchell,2017-06-24
+2155,276,LAR276,Large,Quebec,Gatineau,Advisor,Henry,Brown,2020-12-07
+2156,276,LAR276,Large,Quebec,Gatineau,Teller,Grace,Owen,2019-01-05
+2157,276,LAR276,Large,Quebec,Gatineau,Teller,Lucas,Clark,2020-01-06
+2158,276,LAR276,Large,Quebec,Gatineau,Teller,Colin,Owen,2022-11-09
+2159,276,LAR276,Large,Quebec,Gatineau,Teller,Grace,Clark,2022-09-16
+2160,276,LAR276,Large,Quebec,Gatineau,Teller,Faith,Kim,2020-07-17
+2161,277,LAR277,Large,Nunavut,Iqaluit,Manager,Grace,Hughes,2015-03-05
+2162,277,LAR277,Large,Nunavut,Iqaluit,Advisor,Zara,Irwin,2015-11-08
+2163,277,LAR277,Large,Nunavut,Iqaluit,Advisor,Chloe,Xu,2021-10-24
+2164,277,LAR277,Large,Nunavut,Iqaluit,Advisor,Aiden,Diaz,2022-05-10
+2165,277,LAR277,Large,Nunavut,Iqaluit,Advisor,Leo,Garcia,2021-04-20
+2166,277,LAR277,Large,Nunavut,Iqaluit,Teller,Isaac,Irwin,2017-04-09
+2167,277,LAR277,Large,Nunavut,Iqaluit,Teller,Grace,Sanchez,2018-11-27
+2168,277,LAR277,Large,Nunavut,Iqaluit,Teller,Henry,Owen,2022-12-26
+2169,277,LAR277,Large,Nunavut,Iqaluit,Teller,Ethan,Irwin,2024-03-07
+2170,277,LAR277,Large,Nunavut,Iqaluit,Teller,Mila,Lee,2018-02-05
+2171,278,LAR278,Large,Nova Scotia,Halifax,Manager,Mia,Lee,2021-01-20
+2172,278,LAR278,Large,Nova Scotia,Halifax,Advisor,Mia,Garcia,2015-07-14
+2173,278,LAR278,Large,Nova Scotia,Halifax,Advisor,Nora,Vargas,2018-04-11
+2174,278,LAR278,Large,Nova Scotia,Halifax,Advisor,Henry,Gonzalez,2015-09-14
+2175,278,LAR278,Large,Nova Scotia,Halifax,Advisor,Aaliyah,Edwards,2019-02-09
+2176,278,LAR278,Large,Nova Scotia,Halifax,Teller,Mason,Turner,2020-12-14
+2177,278,LAR278,Large,Nova Scotia,Halifax,Teller,Owen,Walker,2015-03-02
+2178,278,LAR278,Large,Nova Scotia,Halifax,Teller,Aiden,Edwards,2020-04-10
+2179,278,LAR278,Large,Nova Scotia,Halifax,Teller,Charlotte,Turner,2024-02-14
+2180,278,LAR278,Large,Nova Scotia,Halifax,Teller,Liam,Sanchez,2022-06-11
+2181,279,LAR279,Large,Manitoba,Winnipeg,Manager,Colin,Brown,2023-03-11
+2182,279,LAR279,Large,Manitoba,Winnipeg,Advisor,Mason,Zhang,2024-09-20
+2183,279,LAR279,Large,Manitoba,Winnipeg,Advisor,Mason,Roberts,2019-04-19
+2184,279,LAR279,Large,Manitoba,Winnipeg,Advisor,Ella,Garcia,2016-03-21
+2185,279,LAR279,Large,Manitoba,Winnipeg,Advisor,Julian,Johnson,2015-10-21
+2186,279,LAR279,Large,Manitoba,Winnipeg,Teller,Mia,Owen,2022-02-03
+2187,279,LAR279,Large,Manitoba,Winnipeg,Teller,Sam,Xu,2019-12-16
+2188,279,LAR279,Large,Manitoba,Winnipeg,Teller,Mia,Khan,2017-01-05
+2189,279,LAR279,Large,Manitoba,Winnipeg,Teller,Mia,Clark,2023-12-09
+2190,279,LAR279,Large,Manitoba,Winnipeg,Teller,Aria,Young,2020-08-21
+2191,280,LAR280,Large,Nunavut,Iqaluit,Manager,Daniel,Gonzalez,2021-09-17
+2192,280,LAR280,Large,Nunavut,Iqaluit,Advisor,Ava,Mitchell,2024-05-23
+2193,280,LAR280,Large,Nunavut,Iqaluit,Advisor,Hannah,Underwood,2015-10-02
+2194,280,LAR280,Large,Nunavut,Iqaluit,Advisor,Dylan,Owen,2021-08-22
+2195,280,LAR280,Large,Nunavut,Iqaluit,Advisor,Sam,Irwin,2016-03-15
+2196,280,LAR280,Large,Nunavut,Iqaluit,Teller,Lily,Adams,2023-07-13
+2197,280,LAR280,Large,Nunavut,Iqaluit,Teller,Julian,Turner,2018-03-01
+2198,280,LAR280,Large,Nunavut,Iqaluit,Teller,Jasmine,Patel,2024-12-01
+2199,280,LAR280,Large,Nunavut,Iqaluit,Teller,Lily,Fisher,2023-12-24
+2200,280,LAR280,Large,Nunavut,Iqaluit,Teller,Nora,Sanchez,2019-04-10
+2201,281,LAR281,Large,Nunavut,Iqaluit,Manager,Jasmine,Quinn,2015-09-08
+2202,281,LAR281,Large,Nunavut,Iqaluit,Advisor,Sophia,Davis,2017-05-05
+2203,281,LAR281,Large,Nunavut,Iqaluit,Advisor,Ruby,Edwards,2018-04-18
+2204,281,LAR281,Large,Nunavut,Iqaluit,Advisor,Grace,Brown,2020-11-20
+2205,281,LAR281,Large,Nunavut,Iqaluit,Advisor,Mason,Walker,2016-12-18
+2206,281,LAR281,Large,Nunavut,Iqaluit,Teller,Parker,Kim,2021-10-10
+2207,281,LAR281,Large,Nunavut,Iqaluit,Teller,Victoria,Edwards,2015-06-08
+2208,281,LAR281,Large,Nunavut,Iqaluit,Teller,Ruby,Nguyen,2019-01-18
+2209,281,LAR281,Large,Nunavut,Iqaluit,Teller,Colin,Hughes,2021-11-09
+2210,281,LAR281,Large,Nunavut,Iqaluit,Teller,Aaron,Patel,2022-04-11
+2211,282,LAR282,Large,Manitoba,Winnipeg,Manager,Isaac,Evans,2018-12-24
+2212,282,LAR282,Large,Manitoba,Winnipeg,Advisor,Henry,Zhang,2017-08-03
+2213,282,LAR282,Large,Manitoba,Winnipeg,Advisor,Leo,Nguyen,2022-03-27
+2214,282,LAR282,Large,Manitoba,Winnipeg,Advisor,Liam,Owen,2024-08-24
+2215,282,LAR282,Large,Manitoba,Winnipeg,Advisor,Liam,Underwood,2015-05-06
+2216,282,LAR282,Large,Manitoba,Winnipeg,Teller,Liam,Bennett,2024-04-03
+2217,282,LAR282,Large,Manitoba,Winnipeg,Teller,Isaac,Foster,2021-04-15
+2218,282,LAR282,Large,Manitoba,Winnipeg,Teller,Aaliyah,Bennett,2016-12-17
+2219,282,LAR282,Large,Manitoba,Winnipeg,Teller,Hannah,Brown,2024-02-13
+2220,282,LAR282,Large,Manitoba,Winnipeg,Teller,Ella,Campbell,2016-01-25
+2221,283,LAR283,Large,Northwest Territories,Yellowknife,Manager,Owen,Garcia,2019-03-21
+2222,283,LAR283,Large,Northwest Territories,Yellowknife,Advisor,Julian,Brown,2015-02-18
+2223,283,LAR283,Large,Northwest Territories,Yellowknife,Advisor,William,Garcia,2018-03-16
+2224,283,LAR283,Large,Northwest Territories,Yellowknife,Advisor,Theo,Evans,2017-05-11
+2225,283,LAR283,Large,Northwest Territories,Yellowknife,Advisor,Charlotte,Lee,2018-01-18
+2226,283,LAR283,Large,Northwest Territories,Yellowknife,Teller,Dylan,Turner,2023-02-01
+2227,283,LAR283,Large,Northwest Territories,Yellowknife,Teller,Benjamin,Hughes,2023-05-04
+2228,283,LAR283,Large,Northwest Territories,Yellowknife,Teller,Lily,Clark,2017-01-08
+2229,283,LAR283,Large,Northwest Territories,Yellowknife,Teller,Ava,Quinn,2021-07-05
+2230,283,LAR283,Large,Northwest Territories,Yellowknife,Teller,Zara,Underwood,2018-11-13
+2231,284,LAR284,Large,Northwest Territories,Yellowknife,Manager,Jasmine,Johnson,2018-02-10
+2232,284,LAR284,Large,Northwest Territories,Yellowknife,Advisor,Zara,Foster,2024-06-04
+2233,284,LAR284,Large,Northwest Territories,Yellowknife,Advisor,Mason,Garcia,2015-10-05
+2234,284,LAR284,Large,Northwest Territories,Yellowknife,Advisor,Liam,Diaz,2023-06-20
+2235,284,LAR284,Large,Northwest Territories,Yellowknife,Advisor,Liam,Diaz,2017-11-22
+2236,284,LAR284,Large,Northwest Territories,Yellowknife,Teller,Thomas,Underwood,2020-02-09
+2237,284,LAR284,Large,Northwest Territories,Yellowknife,Teller,Leo,Zhang,2019-12-26
+2238,284,LAR284,Large,Northwest Territories,Yellowknife,Teller,Daniel,Brown,2017-11-05
+2239,284,LAR284,Large,Northwest Territories,Yellowknife,Teller,Victoria,Lee,2021-08-24
+2240,284,LAR284,Large,Northwest Territories,Yellowknife,Teller,Charlotte,Foster,2016-10-14
+2241,285,LAR285,Large,Nunavut,Iqaluit,Manager,Emma,Walker,2017-03-25
+2242,285,LAR285,Large,Nunavut,Iqaluit,Advisor,Ella,Young,2020-08-14
+2243,285,LAR285,Large,Nunavut,Iqaluit,Advisor,Charlotte,Clark,2024-11-11
+2244,285,LAR285,Large,Nunavut,Iqaluit,Advisor,Hannah,Roberts,2021-07-18
+2245,285,LAR285,Large,Nunavut,Iqaluit,Advisor,Leo,Khan,2023-08-18
+2246,285,LAR285,Large,Nunavut,Iqaluit,Teller,Sam,Quinn,2021-02-19
+2247,285,LAR285,Large,Nunavut,Iqaluit,Teller,Brooke,Clark,2023-10-25
+2248,285,LAR285,Large,Nunavut,Iqaluit,Teller,Dylan,Quinn,2016-04-12
+2249,285,LAR285,Large,Nunavut,Iqaluit,Teller,Aiden,Patel,2015-06-18
+2250,285,LAR285,Large,Nunavut,Iqaluit,Teller,Charlotte,Kim,2016-01-12
+2251,286,LAR286,Large,Saskatchewan,Regina,Manager,Jack,Lee,2023-07-08
+2252,286,LAR286,Large,Saskatchewan,Regina,Advisor,Noah,Quinn,2015-12-05
+2253,286,LAR286,Large,Saskatchewan,Regina,Advisor,Grace,Lee,2021-12-01
+2254,286,LAR286,Large,Saskatchewan,Regina,Advisor,Dylan,Diaz,2020-01-23
+2255,286,LAR286,Large,Saskatchewan,Regina,Advisor,Ethan,Foster,2022-10-28
+2256,286,LAR286,Large,Saskatchewan,Regina,Teller,Jasmine,Campbell,2017-06-05
+2257,286,LAR286,Large,Saskatchewan,Regina,Teller,Emma,Roberts,2016-01-19
+2258,286,LAR286,Large,Saskatchewan,Regina,Teller,Amelia,Lee,2017-08-24
+2259,286,LAR286,Large,Saskatchewan,Regina,Teller,Hannah,James,2019-08-14
+2260,286,LAR286,Large,Saskatchewan,Regina,Teller,William,Evans,2015-05-04
+2261,287,LAR287,Large,British Columbia,Vancouver,Manager,Julian,Nguyen,2023-03-01
+2262,287,LAR287,Large,British Columbia,Vancouver,Advisor,Lucas,Diaz,2022-09-23
+2263,287,LAR287,Large,British Columbia,Vancouver,Advisor,Parker,Irwin,2019-12-08
+2264,287,LAR287,Large,British Columbia,Vancouver,Advisor,Henry,Mitchell,2019-02-17
+2265,287,LAR287,Large,British Columbia,Vancouver,Advisor,Ella,Kim,2018-07-20
+2266,287,LAR287,Large,British Columbia,Vancouver,Teller,Chloe,Quinn,2021-03-27
+2267,287,LAR287,Large,British Columbia,Vancouver,Teller,Aria,Foster,2022-08-11
+2268,287,LAR287,Large,British Columbia,Vancouver,Teller,Aaliyah,Bennett,2021-03-02
+2269,287,LAR287,Large,British Columbia,Vancouver,Teller,Mason,Diaz,2018-05-04
+2270,287,LAR287,Large,British Columbia,Vancouver,Teller,Ethan,Foster,2020-10-25
+2271,288,LAR288,Large,Saskatchewan,Regina,Manager,Sophia,Mitchell,2023-02-03
+2272,288,LAR288,Large,Saskatchewan,Regina,Advisor,Noah,Brown,2019-04-18
+2273,288,LAR288,Large,Saskatchewan,Regina,Advisor,Mia,Davis,2018-05-03
+2274,288,LAR288,Large,Saskatchewan,Regina,Advisor,Theo,Davis,2024-08-02
+2275,288,LAR288,Large,Saskatchewan,Regina,Advisor,Chloe,Walker,2016-05-01
+2276,288,LAR288,Large,Saskatchewan,Regina,Teller,Zara,Underwood,2021-09-07
+2277,288,LAR288,Large,Saskatchewan,Regina,Teller,Victoria,Bennett,2020-03-23
+2278,288,LAR288,Large,Saskatchewan,Regina,Teller,Faith,Hughes,2020-07-24
+2279,288,LAR288,Large,Saskatchewan,Regina,Teller,Lily,Hughes,2023-03-01
+2280,288,LAR288,Large,Saskatchewan,Regina,Teller,Mila,Adams,2022-10-28
+2281,289,LAR289,Large,Ontario,Mississauga,Manager,Isaac,Fisher,2016-11-03
+2282,289,LAR289,Large,Ontario,Mississauga,Advisor,Brooke,Quinn,2018-11-21
+2283,289,LAR289,Large,Ontario,Mississauga,Advisor,Isaac,Mitchell,2023-09-24
+2284,289,LAR289,Large,Ontario,Mississauga,Advisor,Julian,James,2020-08-26
+2285,289,LAR289,Large,Ontario,Mississauga,Advisor,Hannah,Xu,2019-06-20
+2286,289,LAR289,Large,Ontario,Mississauga,Teller,Henry,Davis,2021-04-07
+2287,289,LAR289,Large,Ontario,Mississauga,Teller,Sienna,Foster,2017-10-21
+2288,289,LAR289,Large,Ontario,Mississauga,Teller,Leo,Hughes,2015-03-25
+2289,289,LAR289,Large,Ontario,Mississauga,Teller,Thomas,Garcia,2022-02-15
+2290,289,LAR289,Large,Ontario,Mississauga,Teller,Victoria,Mitchell,2019-03-03
+2291,290,LAR290,Large,Manitoba,Portage la Prairie,Manager,Zara,Garcia,2016-03-23
+2292,290,LAR290,Large,Manitoba,Portage la Prairie,Advisor,Jack,Sanchez,2022-05-25
+2293,290,LAR290,Large,Manitoba,Portage la Prairie,Advisor,Harper,Kim,2016-10-16
+2294,290,LAR290,Large,Manitoba,Portage la Prairie,Advisor,Benjamin,Zhang,2019-07-14
+2295,290,LAR290,Large,Manitoba,Portage la Prairie,Advisor,Sienna,Kim,2022-06-17
+2296,290,LAR290,Large,Manitoba,Portage la Prairie,Teller,Sienna,Walker,2020-02-22
+2297,290,LAR290,Large,Manitoba,Portage la Prairie,Teller,Amelia,Irwin,2022-05-22
+2298,290,LAR290,Large,Manitoba,Portage la Prairie,Teller,Benjamin,Edwards,2018-12-27
+2299,290,LAR290,Large,Manitoba,Portage la Prairie,Teller,Aria,Brown,2017-02-10
+2300,290,LAR290,Large,Manitoba,Portage la Prairie,Teller,Ella,Mitchell,2024-07-28
+2301,291,LAR291,Large,Quebec,Quebec City,Manager,Jack,Garcia,2020-08-15
+2302,291,LAR291,Large,Quebec,Quebec City,Advisor,Aaliyah,Khan,2022-02-03
+2303,291,LAR291,Large,Quebec,Quebec City,Advisor,Liam,Hughes,2021-07-07
+2304,291,LAR291,Large,Quebec,Quebec City,Advisor,Lucas,Xu,2016-06-11
+2305,291,LAR291,Large,Quebec,Quebec City,Advisor,Julian,Harris,2018-12-24
+2306,291,LAR291,Large,Quebec,Quebec City,Teller,Charlotte,Johnson,2019-08-02
+2307,291,LAR291,Large,Quebec,Quebec City,Teller,Sam,Lee,2022-03-21
+2308,291,LAR291,Large,Quebec,Quebec City,Teller,Noah,Walker,2024-01-20
+2309,291,LAR291,Large,Quebec,Quebec City,Teller,Ella,Edwards,2020-07-16
+2310,291,LAR291,Large,Quebec,Quebec City,Teller,Noah,Edwards,2018-01-25
+2311,292,LAR292,Large,Northwest Territories,Yellowknife,Manager,Parker,Nguyen,2016-03-03
+2312,292,LAR292,Large,Northwest Territories,Yellowknife,Advisor,Ruby,Bennett,2016-05-28
+2313,292,LAR292,Large,Northwest Territories,Yellowknife,Advisor,Brooke,Evans,2021-09-07
+2314,292,LAR292,Large,Northwest Territories,Yellowknife,Advisor,Colin,Sanchez,2017-01-03
+2315,292,LAR292,Large,Northwest Territories,Yellowknife,Advisor,Henry,Xu,2019-03-07
+2316,292,LAR292,Large,Northwest Territories,Yellowknife,Teller,Zara,Clark,2022-08-18
+2317,292,LAR292,Large,Northwest Territories,Yellowknife,Teller,Dylan,Mitchell,2021-06-23
+2318,292,LAR292,Large,Northwest Territories,Yellowknife,Teller,Theo,Adams,2015-09-26
+2319,292,LAR292,Large,Northwest Territories,Yellowknife,Teller,Julian,Owen,2016-12-22
+2320,292,LAR292,Large,Northwest Territories,Yellowknife,Teller,Mila,Lee,2020-11-27
+2321,293,LAR293,Large,Nunavut,Iqaluit,Manager,Isaac,Fisher,2017-08-28
+2322,293,LAR293,Large,Nunavut,Iqaluit,Advisor,Victoria,Johnson,2021-05-17
+2323,293,LAR293,Large,Nunavut,Iqaluit,Advisor,Aiden,Evans,2017-11-15
+2324,293,LAR293,Large,Nunavut,Iqaluit,Advisor,Aaron,Hughes,2015-04-24
+2325,293,LAR293,Large,Nunavut,Iqaluit,Advisor,Mia,Clark,2023-03-20
+2326,293,LAR293,Large,Nunavut,Iqaluit,Teller,Ella,Patel,2020-04-07
+2327,293,LAR293,Large,Nunavut,Iqaluit,Teller,Faith,Brown,2020-06-01
+2328,293,LAR293,Large,Nunavut,Iqaluit,Teller,Thomas,Vargas,2023-02-23
+2329,293,LAR293,Large,Nunavut,Iqaluit,Teller,Leo,Fisher,2021-07-12
+2330,293,LAR293,Large,Nunavut,Iqaluit,Teller,Zara,Khan,2021-09-25
+2331,294,LAR294,Large,Saskatchewan,Regina,Manager,Jack,Diaz,2020-03-18
+2332,294,LAR294,Large,Saskatchewan,Regina,Advisor,Julian,Mitchell,2023-07-13
+2333,294,LAR294,Large,Saskatchewan,Regina,Advisor,Sophia,Diaz,2019-12-20
+2334,294,LAR294,Large,Saskatchewan,Regina,Advisor,Ethan,Garcia,2016-02-21
+2335,294,LAR294,Large,Saskatchewan,Regina,Advisor,Ava,Clark,2016-08-24
+2336,294,LAR294,Large,Saskatchewan,Regina,Teller,Sienna,Khan,2016-11-15
+2337,294,LAR294,Large,Saskatchewan,Regina,Teller,Lily,Davis,2019-07-07
+2338,294,LAR294,Large,Saskatchewan,Regina,Teller,Olivia,Fisher,2023-07-04
+2339,294,LAR294,Large,Saskatchewan,Regina,Teller,Mia,Gonzalez,2016-06-26
+2340,294,LAR294,Large,Saskatchewan,Regina,Teller,Jack,Clark,2021-01-12
+2341,295,LAR295,Large,Yukon,Whitehorse,Manager,Sophia,Turner,2019-05-27
+2342,295,LAR295,Large,Yukon,Whitehorse,Advisor,Amelia,Roberts,2015-07-02
+2343,295,LAR295,Large,Yukon,Whitehorse,Advisor,Aiden,Campbell,2017-06-27
+2344,295,LAR295,Large,Yukon,Whitehorse,Advisor,Nora,Walker,2020-03-19
+2345,295,LAR295,Large,Yukon,Whitehorse,Advisor,Henry,Roberts,2023-07-07
+2346,295,LAR295,Large,Yukon,Whitehorse,Teller,Sienna,Bennett,2015-10-14
+2347,295,LAR295,Large,Yukon,Whitehorse,Teller,Hannah,Adams,2017-07-11
+2348,295,LAR295,Large,Yukon,Whitehorse,Teller,Nora,Mitchell,2021-04-04
+2349,295,LAR295,Large,Yukon,Whitehorse,Teller,Brooke,Kim,2023-02-21
+2350,295,LAR295,Large,Yukon,Whitehorse,Teller,Theo,Bennett,2019-09-06
+2351,296,LAR296,Large,Saskatchewan,Regina,Manager,Emma,Campbell,2021-01-21
+2352,296,LAR296,Large,Saskatchewan,Regina,Advisor,Mila,Lee,2015-10-23
+2353,296,LAR296,Large,Saskatchewan,Regina,Advisor,Sam,Garcia,2024-07-01
+2354,296,LAR296,Large,Saskatchewan,Regina,Advisor,Hannah,Fisher,2020-03-08
+2355,296,LAR296,Large,Saskatchewan,Regina,Advisor,Aaliyah,Quinn,2019-04-18
+2356,296,LAR296,Large,Saskatchewan,Regina,Teller,Owen,Adams,2019-11-02
+2357,296,LAR296,Large,Saskatchewan,Regina,Teller,Ruby,Garcia,2017-11-01
+2358,296,LAR296,Large,Saskatchewan,Regina,Teller,Aaron,Hughes,2016-08-20
+2359,296,LAR296,Large,Saskatchewan,Regina,Teller,Grace,Hughes,2017-05-09
+2360,296,LAR296,Large,Saskatchewan,Regina,Teller,Liam,Garcia,2016-08-28
+2361,297,LAR297,Large,Saskatchewan,Regina,Manager,Ethan,Harris,2015-07-03
+2362,297,LAR297,Large,Saskatchewan,Regina,Advisor,Leo,Foster,2018-11-14
+2363,297,LAR297,Large,Saskatchewan,Regina,Advisor,Ella,Walker,2022-03-06
+2364,297,LAR297,Large,Saskatchewan,Regina,Advisor,Thomas,Brown,2017-11-19
+2365,297,LAR297,Large,Saskatchewan,Regina,Advisor,Aaron,Davis,2016-06-12
+2366,297,LAR297,Large,Saskatchewan,Regina,Teller,Charlotte,Khan,2015-03-17
+2367,297,LAR297,Large,Saskatchewan,Regina,Teller,Parker,Johnson,2018-10-01
+2368,297,LAR297,Large,Saskatchewan,Regina,Teller,Sam,Campbell,2023-09-25
+2369,297,LAR297,Large,Saskatchewan,Regina,Teller,Isaac,Patel,2020-02-07
+2370,297,LAR297,Large,Saskatchewan,Regina,Teller,Ava,Walker,2017-04-03
+2371,298,LAR298,Large,Nunavut,Iqaluit,Manager,Ruby,Gonzalez,2018-02-12
+2372,298,LAR298,Large,Nunavut,Iqaluit,Advisor,Brooke,Underwood,2022-12-26
+2373,298,LAR298,Large,Nunavut,Iqaluit,Advisor,Leo,Diaz,2023-07-07
+2374,298,LAR298,Large,Nunavut,Iqaluit,Advisor,Parker,Nguyen,2018-11-28
+2375,298,LAR298,Large,Nunavut,Iqaluit,Advisor,Brooke,Turner,2021-02-19
+2376,298,LAR298,Large,Nunavut,Iqaluit,Teller,Mila,Vargas,2017-04-24
+2377,298,LAR298,Large,Nunavut,Iqaluit,Teller,Leo,Diaz,2022-07-20
+2378,298,LAR298,Large,Nunavut,Iqaluit,Teller,Ruby,Walker,2024-02-20
+2379,298,LAR298,Large,Nunavut,Iqaluit,Teller,Ella,Diaz,2018-10-12
+2380,298,LAR298,Large,Nunavut,Iqaluit,Teller,Mason,Foster,2022-03-02
+2381,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Manager,Sophia,James,2020-07-01
+2382,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Advisor,Grace,Nguyen,2020-07-26
+2383,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Advisor,Liam,Young,2018-02-07
+2384,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Advisor,Colin,Zhang,2020-03-25
+2385,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Advisor,Victoria,Johnson,2015-06-23
+2386,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Teller,Aiden,Xu,2018-08-19
+2387,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Teller,Victoria,Quinn,2023-02-13
+2388,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Teller,Sophia,Patel,2023-04-04
+2389,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Teller,Aria,Turner,2024-11-03
+2390,299,LAR299,Large,Newfoundland and Labrador,Corner Brook,Teller,Theo,Clark,2021-06-27
+2391,300,LAR300,Large,Saskatchewan,Regina,Manager,Chloe,Harris,2022-01-09
+2392,300,LAR300,Large,Saskatchewan,Regina,Advisor,Amelia,Johnson,2016-08-06
+2393,300,LAR300,Large,Saskatchewan,Regina,Advisor,Julian,Walker,2024-07-08
+2394,300,LAR300,Large,Saskatchewan,Regina,Advisor,Theo,Campbell,2019-01-21
+2395,300,LAR300,Large,Saskatchewan,Regina,Advisor,Theo,Brown,2022-05-05
+2396,300,LAR300,Large,Saskatchewan,Regina,Teller,Lucas,Davis,2023-09-02
+2397,300,LAR300,Large,Saskatchewan,Regina,Teller,William,Campbell,2016-08-04
+2398,300,LAR300,Large,Saskatchewan,Regina,Teller,Amelia,Vargas,2019-06-25
+2399,300,LAR300,Large,Saskatchewan,Regina,Teller,Zara,Bennett,2016-09-25
+2400,300,LAR300,Large,Saskatchewan,Regina,Teller,Victoria,Harris,2024-01-13

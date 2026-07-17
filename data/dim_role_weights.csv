@@ -1,0 +1,12 @@
+role,metric_name,weight_pct
+Advisor,Lending,35
+Advisor,Investing,35
+Advisor,Banking units,15
+Advisor,LEI customer score,15
+Teller,Banking units,70
+Teller,LEI customer score,30
+Manager,Lending,30
+Manager,Investing,30
+Manager,Banking units,15
+Manager,LEI customer score,10
+Manager,Compliance / Risk,15
